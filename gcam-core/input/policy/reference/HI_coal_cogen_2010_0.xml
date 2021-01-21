@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="HI">
+         <supplysector name="boilers_CHP">
+			<subsector name="coal">
+               <stub-technology name="coal cogen">
+ 				  <period year="2010">
+                     <minicam-energy-input name="delivered coal">
+                        <market-name>Hawaii grid</market-name>
+                        <calibrated-value>0</calibrated-value>
+                     </minicam-energy-input>
+                     <secondary-output name="electricity">
+                        <market-name>Hawaii grid</market-name>
+                     </secondary-output>
+                     <share-weight>0</share-weight>
+                  </period>
+				</stub-technology>
+            </subsector>
+         </supplysector>
+	  </region>
+   </world>
+</scenario>
