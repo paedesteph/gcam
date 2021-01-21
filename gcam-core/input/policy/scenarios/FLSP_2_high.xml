@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="AK">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.009984874</base-building-size>
+                        <base-building-size year="2030">0.01068249</base-building-size>
+                        <base-building-size year="2035">0.011269763</base-building-size>
+                        <base-building-size year="2040">0.01183798</base-building-size>
+                        <base-building-size year="2045">0.012399413</base-building-size>
+                        <base-building-size year="2050">0.012959925</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.027028635</base-building-size>
+                        <base-building-size year="2030">0.027626445</base-building-size>
+                        <base-building-size year="2035">0.028291528</base-building-size>
+                        <base-building-size year="2040">0.02907509</base-building-size>
+                        <base-building-size year="2045">0.029958525</base-building-size>
+                        <base-building-size year="2050">0.03093408</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="AL">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.119257725</base-building-size>
+                        <base-building-size year="2030">0.1289967</base-building-size>
+                        <base-building-size year="2035">0.138301975</base-building-size>
+                        <base-building-size year="2040">0.1473725</base-building-size>
+                        <base-building-size year="2045">0.156193875</base-building-size>
+                        <base-building-size year="2050">0.16480535</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.30602195</base-building-size>
+                        <base-building-size year="2030">0.32449305</base-building-size>
+                        <base-building-size year="2035">0.342653025</base-building-size>
+                        <base-building-size year="2040">0.3605228</base-building-size>
+                        <base-building-size year="2045">0.3781125</base-building-size>
+                        <base-building-size year="2050">0.3955908</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="AR">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.090520928</base-building-size>
+                        <base-building-size year="2030">0.095974935</base-building-size>
+                        <base-building-size year="2035">0.101455813</base-building-size>
+                        <base-building-size year="2040">0.10688007</base-building-size>
+                        <base-building-size year="2045">0.11227365</base-building-size>
+                        <base-building-size year="2050">0.11771285</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.16941815</base-building-size>
+                        <base-building-size year="2030">0.183981</base-building-size>
+                        <base-building-size year="2035">0.1980021</base-building-size>
+                        <base-building-size year="2040">0.2116939</base-building-size>
+                        <base-building-size year="2045">0.225115875</base-building-size>
+                        <base-building-size year="2050">0.23836625</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="AZ">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.175399025</base-building-size>
+                        <base-building-size year="2030">0.19457025</base-building-size>
+                        <base-building-size year="2035">0.212754325</base-building-size>
+                        <base-building-size year="2040">0.2300782</base-building-size>
+                        <base-building-size year="2045">0.246661875</base-building-size>
+                        <base-building-size year="2050">0.26266345</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.44086275</base-building-size>
+                        <base-building-size year="2030">0.47921265</base-building-size>
+                        <base-building-size year="2035">0.516211775</base-building-size>
+                        <base-building-size year="2040">0.5516291</base-building-size>
+                        <base-building-size year="2045">0.58566375</base-building-size>
+                        <base-building-size year="2050">0.6188288</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="CA">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.9318439</base-building-size>
+                        <base-building-size year="2030">1.0124268</base-building-size>
+                        <base-building-size year="2035">1.08440625</base-building-size>
+                        <base-building-size year="2040">1.150336</base-building-size>
+                        <base-building-size year="2045">1.21041</base-building-size>
+                        <base-building-size year="2050">1.264908</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">2.1063955</base-building-size>
+                        <base-building-size year="2030">2.2806</base-building-size>
+                        <base-building-size year="2035">2.43690675</base-building-size>
+                        <base-building-size year="2040">2.580347</base-building-size>
+                        <base-building-size year="2045">2.71125</base-building-size>
+                        <base-building-size year="2050">2.8302995</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="CO">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.1486045</base-building-size>
+                        <base-building-size year="2030">0.16507785</base-building-size>
+                        <base-building-size year="2035">0.18059355</base-building-size>
+                        <base-building-size year="2040">0.1953589</base-building-size>
+                        <base-building-size year="2045">0.2094345</base-building-size>
+                        <base-building-size year="2050">0.2228723</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.35904315</base-building-size>
+                        <base-building-size year="2030">0.391482</base-building-size>
+                        <base-building-size year="2035">0.422811475</base-building-size>
+                        <base-building-size year="2040">0.4529921</base-building-size>
+                        <base-building-size year="2045">0.482025375</base-building-size>
+                        <base-building-size year="2050">0.51006525</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="CT">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.0911758</base-building-size>
+                        <base-building-size year="2030">0.096313455</base-building-size>
+                        <base-building-size year="2035">0.100767383</base-building-size>
+                        <base-building-size year="2040">0.1046826</base-building-size>
+                        <base-building-size year="2045">0.108025538</base-building-size>
+                        <base-building-size year="2050">0.11089197</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.2410923</base-building-size>
+                        <base-building-size year="2030">0.24825675</base-building-size>
+                        <base-building-size year="2035">0.254948075</base-building-size>
+                        <base-building-size year="2040">0.2610762</base-building-size>
+                        <base-building-size year="2045">0.266592375</base-building-size>
+                        <base-building-size year="2050">0.2715955</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="DC">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.01614293</base-building-size>
+                        <base-building-size year="2030">0.01791825</base-building-size>
+                        <base-building-size year="2035">0.019314418</base-building-size>
+                        <base-building-size year="2040">0.02050972</base-building-size>
+                        <base-building-size year="2045">0.021590775</base-building-size>
+                        <base-building-size year="2050">0.022590485</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.04106232</base-building-size>
+                        <base-building-size year="2030">0.043489425</base-building-size>
+                        <base-building-size year="2035">0.045736843</base-building-size>
+                        <base-building-size year="2040">0.04785121</base-building-size>
+                        <base-building-size year="2045">0.049852013</base-building-size>
+                        <base-building-size year="2050">0.051789445</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="DE">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.028352628</base-building-size>
+                        <base-building-size year="2030">0.03059553</base-building-size>
+                        <base-building-size year="2035">0.03270924</base-building-size>
+                        <base-building-size year="2040">0.0346984</base-building-size>
+                        <base-building-size year="2045">0.0365967</base-building-size>
+                        <base-building-size year="2050">0.0384284</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.065835648</base-building-size>
+                        <base-building-size year="2030">0.070564095</base-building-size>
+                        <base-building-size year="2035">0.07509735</base-building-size>
+                        <base-building-size year="2040">0.07940262</base-building-size>
+                        <base-building-size year="2045">0.083521575</base-building-size>
+                        <base-building-size year="2050">0.087517185</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="FL">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.5434796</base-building-size>
+                        <base-building-size year="2030">0.57515535</base-building-size>
+                        <base-building-size year="2035">0.605748525</base-building-size>
+                        <base-building-size year="2040">0.6348551</base-building-size>
+                        <base-building-size year="2045">0.662491125</base-building-size>
+                        <base-building-size year="2050">0.68916625</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">1.06906475</base-building-size>
+                        <base-building-size year="2030">1.1461905</base-building-size>
+                        <base-building-size year="2035">1.21824375</base-building-size>
+                        <base-building-size year="2040">1.285603</base-building-size>
+                        <base-building-size year="2045">1.34940375</base-building-size>
+                        <base-building-size year="2050">1.4103485</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="GA">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.29656735</base-building-size>
+                        <base-building-size year="2030">0.31769535</base-building-size>
+                        <base-building-size year="2035">0.3380574</base-building-size>
+                        <base-building-size year="2040">0.3576221</base-building-size>
+                        <base-building-size year="2045">0.37650375</base-building-size>
+                        <base-building-size year="2050">0.39488125</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.685875675</base-building-size>
+                        <base-building-size year="2030">0.7313985</base-building-size>
+                        <base-building-size year="2035">0.775789875</base-building-size>
+                        <base-building-size year="2040">0.8187168</base-building-size>
+                        <base-building-size year="2045">0.86019525</base-building-size>
+                        <base-building-size year="2050">0.9007053</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="HI">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.031033208</base-building-size>
+                        <base-building-size year="2030">0.0345597</base-building-size>
+                        <base-building-size year="2035">0.037843978</base-building-size>
+                        <base-building-size year="2040">0.04099502</base-building-size>
+                        <base-building-size year="2045">0.043961175</base-building-size>
+                        <base-building-size year="2050">0.046730365</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.079804758</base-building-size>
+                        <base-building-size year="2030">0.086623215</base-building-size>
+                        <base-building-size year="2035">0.093148105</base-building-size>
+                        <base-building-size year="2040">0.09947718</base-building-size>
+                        <base-building-size year="2045">0.10547775</base-building-size>
+                        <base-building-size year="2050">0.11114451</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="IA">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.09935202</base-building-size>
+                        <base-building-size year="2030">0.10526565</base-building-size>
+                        <base-building-size year="2035">0.11121735</base-building-size>
+                        <base-building-size year="2040">0.1171093</base-building-size>
+                        <base-building-size year="2045">0.1229535</base-building-size>
+                        <base-building-size year="2050">0.12880115</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.247809125</base-building-size>
+                        <base-building-size year="2030">0.2625588</base-building-size>
+                        <base-building-size year="2035">0.2774059</base-building-size>
+                        <base-building-size year="2040">0.2920995</base-building-size>
+                        <base-building-size year="2045">0.306676125</base-building-size>
+                        <base-building-size year="2050">0.32126285</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="ID">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.04408115</base-building-size>
+                        <base-building-size year="2030">0.04895541</base-building-size>
+                        <base-building-size year="2035">0.05370915</base-building-size>
+                        <base-building-size year="2040">0.05836578</base-building-size>
+                        <base-building-size year="2045">0.062921363</base-building-size>
+                        <base-building-size year="2050">0.06738701</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.1097488</base-building-size>
+                        <base-building-size year="2030">0.1197693</base-building-size>
+                        <base-building-size year="2035">0.1296923</base-building-size>
+                        <base-building-size year="2040">0.1394602</base-building-size>
+                        <base-building-size year="2045">0.1490445</base-building-size>
+                        <base-building-size year="2050">0.15850795</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="IL">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.3627024</base-building-size>
+                        <base-building-size year="2030">0.3741045</base-building-size>
+                        <base-building-size year="2035">0.384979</base-building-size>
+                        <base-building-size year="2040">0.3951024</base-building-size>
+                        <base-building-size year="2045">0.404467875</base-building-size>
+                        <base-building-size year="2050">0.4133767</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.893458675</base-building-size>
+                        <base-building-size year="2030">0.9211692</base-building-size>
+                        <base-building-size year="2035">0.9476684</base-building-size>
+                        <base-building-size year="2040">0.9723648</base-building-size>
+                        <base-building-size year="2045">0.99522675</base-building-size>
+                        <base-building-size year="2050">1.0169956</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="IN">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.19622805</base-building-size>
+                        <base-building-size year="2030">0.20664105</base-building-size>
+                        <base-building-size year="2035">0.216792025</base-building-size>
+                        <base-building-size year="2040">0.2265967</base-building-size>
+                        <base-building-size year="2045">0.23612175</base-building-size>
+                        <base-building-size year="2050">0.24548705</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.48425715</base-building-size>
+                        <base-building-size year="2030">0.50965635</base-building-size>
+                        <base-building-size year="2035">0.534458825</base-building-size>
+                        <base-building-size year="2040">0.5584381</base-building-size>
+                        <base-building-size year="2045">0.581743125</base-building-size>
+                        <base-building-size year="2050">0.60467345</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="KS">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.095731105</base-building-size>
+                        <base-building-size year="2030">0.102151875</base-building-size>
+                        <base-building-size year="2035">0.108655625</base-building-size>
+                        <base-building-size year="2040">0.115104</base-building-size>
+                        <base-building-size year="2045">0.1214595</base-building-size>
+                        <base-building-size year="2050">0.1277765</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.23699435</base-building-size>
+                        <base-building-size year="2030">0.2528904</base-building-size>
+                        <base-building-size year="2035">0.268991875</base-building-size>
+                        <base-building-size year="2040">0.2849561</base-building-size>
+                        <base-building-size year="2045">0.30069</base-building-size>
+                        <base-building-size year="2050">0.3163282</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="KY">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.109593</base-building-size>
+                        <base-building-size year="2030">0.1188789</base-building-size>
+                        <base-building-size year="2035">0.12770355</base-building-size>
+                        <base-building-size year="2040">0.1362383</base-building-size>
+                        <base-building-size year="2045">0.1444815</base-building-size>
+                        <base-building-size year="2050">0.15249115</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.28070035</base-building-size>
+                        <base-building-size year="2030">0.2983407</base-building-size>
+                        <base-building-size year="2035">0.315565175</base-building-size>
+                        <base-building-size year="2040">0.332354</base-building-size>
+                        <base-building-size year="2045">0.348753375</base-building-size>
+                        <base-building-size year="2050">0.3649686</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="LA">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.1340659</base-building-size>
+                        <base-building-size year="2030">0.1400154</base-building-size>
+                        <base-building-size year="2035">0.146001125</base-building-size>
+                        <base-building-size year="2040">0.1518946</base-building-size>
+                        <base-building-size year="2045">0.157663125</base-building-size>
+                        <base-building-size year="2050">0.16343685</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.21966775</base-building-size>
+                        <base-building-size year="2030">0.23986515</base-building-size>
+                        <base-building-size year="2035">0.258456875</base-building-size>
+                        <base-building-size year="2040">0.2761759</base-building-size>
+                        <base-building-size year="2045">0.293027625</base-building-size>
+                        <base-building-size year="2050">0.30915105</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="MA">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.181678175</base-building-size>
+                        <base-building-size year="2030">0.19271805</base-building-size>
+                        <base-building-size year="2035">0.202776175</base-building-size>
+                        <base-building-size year="2040">0.2120283</base-building-size>
+                        <base-building-size year="2045">0.220411125</base-building-size>
+                        <base-building-size year="2050">0.22800475</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.461892675</base-building-size>
+                        <base-building-size year="2030">0.48193425</base-building-size>
+                        <base-building-size year="2035">0.501103725</base-building-size>
+                        <base-building-size year="2040">0.5192715</base-building-size>
+                        <base-building-size year="2045">0.536311125</base-building-size>
+                        <base-building-size year="2050">0.55224495</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="MD">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.1674071</base-building-size>
+                        <base-building-size year="2030">0.17725575</base-building-size>
+                        <base-building-size year="2035">0.18665655</base-building-size>
+                        <base-building-size year="2040">0.1956669</base-building-size>
+                        <base-building-size year="2045">0.204283125</base-building-size>
+                        <base-building-size year="2050">0.21251885</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.3887948</base-building-size>
+                        <base-building-size year="2030">0.40914825</base-building-size>
+                        <base-building-size year="2035">0.42904325</base-building-size>
+                        <base-building-size year="2040">0.4483644</base-building-size>
+                        <base-building-size year="2045">0.466909875</base-building-size>
+                        <base-building-size year="2050">0.484748</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="ME">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.034106465</base-building-size>
+                        <base-building-size year="2030">0.03568677</base-building-size>
+                        <base-building-size year="2035">0.03712878</base-building-size>
+                        <base-building-size year="2040">0.03846667</base-building-size>
+                        <base-building-size year="2045">0.039699338</base-building-size>
+                        <base-building-size year="2050">0.040858925</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.089232195</base-building-size>
+                        <base-building-size year="2030">0.091919835</base-building-size>
+                        <base-building-size year="2035">0.09442671</base-building-size>
+                        <base-building-size year="2040">0.09676876</base-building-size>
+                        <base-building-size year="2045">0.09898875</base-building-size>
+                        <base-building-size year="2050">0.101165155</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="MI">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.279442675</base-building-size>
+                        <base-building-size year="2030">0.28806855</base-building-size>
+                        <base-building-size year="2035">0.29627215</base-building-size>
+                        <base-building-size year="2040">0.3040697</base-building-size>
+                        <base-building-size year="2045">0.311583375</base-building-size>
+                        <base-building-size year="2050">0.3189732</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.68933505</base-building-size>
+                        <base-building-size year="2030">0.71031345</base-building-size>
+                        <base-building-size year="2035">0.730313075</base-building-size>
+                        <base-building-size year="2040">0.7493475</base-building-size>
+                        <base-building-size year="2045">0.767701125</base-building-size>
+                        <base-building-size year="2050">0.78577545</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="MN">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.170548725</base-building-size>
+                        <base-building-size year="2030">0.179277</base-building-size>
+                        <base-building-size year="2035">0.187919675</base-building-size>
+                        <base-building-size year="2040">0.1963181</base-building-size>
+                        <base-building-size year="2045">0.204379875</base-building-size>
+                        <base-building-size year="2050">0.2122026</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.423004175</base-building-size>
+                        <base-building-size year="2030">0.4446498</base-building-size>
+                        <base-building-size year="2035">0.4660856</base-building-size>
+                        <base-building-size year="2040">0.4869161</base-building-size>
+                        <base-building-size year="2045">0.5069115</base-building-size>
+                        <base-building-size year="2050">0.52631245</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="MO">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.196577575</base-building-size>
+                        <base-building-size year="2030">0.20797035</base-building-size>
+                        <base-building-size year="2035">0.219382775</base-building-size>
+                        <base-building-size year="2040">0.2306975</base-building-size>
+                        <base-building-size year="2045">0.241853625</base-building-size>
+                        <base-building-size year="2050">0.25299195</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.48687295</base-building-size>
+                        <base-building-size year="2030">0.5150922</base-building-size>
+                        <base-building-size year="2035">0.54335875</base-building-size>
+                        <base-building-size year="2040">0.5713818</base-building-size>
+                        <base-building-size year="2045">0.59901525</base-building-size>
+                        <base-building-size year="2050">0.6266028</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="MS">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.070921083</base-building-size>
+                        <base-building-size year="2030">0.076162485</base-building-size>
+                        <base-building-size year="2035">0.081182065</base-building-size>
+                        <base-building-size year="2040">0.08605212</base-building-size>
+                        <base-building-size year="2045">0.090803025</base-building-size>
+                        <base-building-size year="2050">0.09544609</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.185277975</base-building-size>
+                        <base-building-size year="2030">0.1952622</base-building-size>
+                        <base-building-size year="2035">0.205085275</base-building-size>
+                        <base-building-size year="2040">0.2146705</base-building-size>
+                        <base-building-size year="2045">0.22412925</base-building-size>
+                        <base-building-size year="2050">0.2335397</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="MT">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.025622848</base-building-size>
+                        <base-building-size year="2030">0.02789199</base-building-size>
+                        <base-building-size year="2035">0.030057968</base-building-size>
+                        <base-building-size year="2040">0.03216675</base-building-size>
+                        <base-building-size year="2045">0.034224525</base-building-size>
+                        <base-building-size year="2050">0.03623903</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.063963998</base-building-size>
+                        <base-building-size year="2030">0.068270055</base-building-size>
+                        <base-building-size year="2035">0.072515093</base-building-size>
+                        <base-building-size year="2040">0.07671741</base-building-size>
+                        <base-building-size year="2045">0.080867363</base-building-size>
+                        <base-building-size year="2050">0.08499397</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="NC">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.296882025</base-building-size>
+                        <base-building-size year="2030">0.3201072</base-building-size>
+                        <base-building-size year="2035">0.342614325</base-building-size>
+                        <base-building-size year="2040">0.3643035</base-building-size>
+                        <base-building-size year="2045">0.38533725</base-building-size>
+                        <base-building-size year="2050">0.4058971</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.6870206</base-building-size>
+                        <base-building-size year="2030">0.73734255</base-building-size>
+                        <base-building-size year="2035">0.786623725</base-building-size>
+                        <base-building-size year="2040">0.8343786</base-building-size>
+                        <base-building-size year="2045">0.88073325</base-building-size>
+                        <base-building-size year="2050">0.92618355</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="ND">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.023915198</base-building-size>
+                        <base-building-size year="2030">0.025929855</base-building-size>
+                        <base-building-size year="2035">0.027956773</base-building-size>
+                        <base-building-size year="2040">0.02997423</base-building-size>
+                        <base-building-size year="2045">0.031965413</base-building-size>
+                        <base-building-size year="2050">0.033941675</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.0604176</base-building-size>
+                        <base-building-size year="2030">0.065507505</base-building-size>
+                        <base-building-size year="2035">0.07062793</base-building-size>
+                        <base-building-size year="2040">0.07572499</base-building-size>
+                        <base-building-size year="2045">0.0807552</base-building-size>
+                        <base-building-size year="2050">0.08574791</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="NE">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.060741808</base-building-size>
+                        <base-building-size year="2030">0.06483519</base-building-size>
+                        <base-building-size year="2035">0.069034995</base-building-size>
+                        <base-building-size year="2040">0.07325065</base-building-size>
+                        <base-building-size year="2045">0.077456138</base-building-size>
+                        <base-building-size year="2050">0.08165161</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.151854775</base-building-size>
+                        <base-building-size year="2030">0.1620885</base-building-size>
+                        <base-building-size year="2035">0.172588025</base-building-size>
+                        <base-building-size year="2040">0.183128</base-building-size>
+                        <base-building-size year="2045">0.19364175</base-building-size>
+                        <base-building-size year="2050">0.20413075</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="NH">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.03676224</base-building-size>
+                        <base-building-size year="2030">0.039012435</base-building-size>
+                        <base-building-size year="2035">0.041058765</base-building-size>
+                        <base-building-size year="2040">0.0429418</base-building-size>
+                        <base-building-size year="2045">0.044656875</base-building-size>
+                        <base-building-size year="2050">0.04623368</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.09456281</base-building-size>
+                        <base-building-size year="2030">0.09887577</base-building-size>
+                        <base-building-size year="2035">0.102880725</base-building-size>
+                        <base-building-size year="2040">0.10660375</base-building-size>
+                        <base-building-size year="2045">0.110069663</base-building-size>
+                        <base-building-size year="2050">0.11333986</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="NJ">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.2333433</base-building-size>
+                        <base-building-size year="2030">0.23913855</base-building-size>
+                        <base-building-size year="2035">0.244185175</base-building-size>
+                        <base-building-size year="2040">0.2484999</base-building-size>
+                        <base-building-size year="2045">0.2520225</base-building-size>
+                        <base-building-size year="2050">0.2548722</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.59268165</base-building-size>
+                        <base-building-size year="2030">0.603939</base-building-size>
+                        <base-building-size year="2035">0.614088375</base-building-size>
+                        <base-building-size year="2040">0.6228409</base-building-size>
+                        <base-building-size year="2045">0.629992125</base-building-size>
+                        <base-building-size year="2050">0.63580625</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="NM">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.053774473</base-building-size>
+                        <base-building-size year="2030">0.05888421</base-building-size>
+                        <base-building-size year="2035">0.063731268</base-building-size>
+                        <base-building-size year="2040">0.06841373</base-building-size>
+                        <base-building-size year="2045">0.072955688</base-building-size>
+                        <base-building-size year="2050">0.077398565</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.1350827</base-building-size>
+                        <base-building-size year="2030">0.1447992</base-building-size>
+                        <base-building-size year="2035">0.15429905</base-building-size>
+                        <base-building-size year="2040">0.1636151</base-building-size>
+                        <base-building-size year="2045">0.17275275</base-building-size>
+                        <base-building-size year="2050">0.1818357</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="NV">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.07121454</base-building-size>
+                        <base-building-size year="2030">0.0791427</base-building-size>
+                        <base-building-size year="2035">0.08652804</base-building-size>
+                        <base-building-size year="2040">0.09348339</base-building-size>
+                        <base-building-size year="2045">0.100058175</base-building-size>
+                        <base-building-size year="2050">0.106298295</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.18258735</base-building-size>
+                        <base-building-size year="2030">0.1977759</base-building-size>
+                        <base-building-size year="2035">0.21226305</base-building-size>
+                        <base-building-size year="2040">0.2260225</base-building-size>
+                        <base-building-size year="2045">0.239112</base-building-size>
+                        <base-building-size year="2050">0.25169935</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="NY">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.530907975</base-building-size>
+                        <base-building-size year="2030">0.54763695</base-building-size>
+                        <base-building-size year="2035">0.562720575</base-building-size>
+                        <base-building-size year="2040">0.5762944</base-building-size>
+                        <base-building-size year="2045">0.58835025</base-building-size>
+                        <base-building-size year="2050">0.5991178</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">1.09265</base-building-size>
+                        <base-building-size year="2030">1.146138</base-building-size>
+                        <base-building-size year="2035">1.1917235</base-building-size>
+                        <base-building-size year="2040">1.231615</base-building-size>
+                        <base-building-size year="2045">1.266165</base-building-size>
+                        <base-building-size year="2050">1.296096</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="OH">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.3342976</base-building-size>
+                        <base-building-size year="2030">0.3477726</base-building-size>
+                        <base-building-size year="2035">0.360906525</base-building-size>
+                        <base-building-size year="2040">0.3735149</base-building-size>
+                        <base-building-size year="2045">0.38574675</base-building-size>
+                        <base-building-size year="2050">0.39783905</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.8226978</base-building-size>
+                        <base-building-size year="2030">0.8555946</base-building-size>
+                        <base-building-size year="2035">0.88770705</base-building-size>
+                        <base-building-size year="2040">0.918555</base-building-size>
+                        <base-building-size year="2045">0.948495375</base-building-size>
+                        <base-building-size year="2050">0.9781118</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="OK">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.1178504</base-building-size>
+                        <base-building-size year="2030">0.1251831</base-building-size>
+                        <base-building-size year="2035">0.13258405</base-building-size>
+                        <base-building-size year="2040">0.1399288</base-building-size>
+                        <base-building-size year="2045">0.14722425</base-building-size>
+                        <base-building-size year="2050">0.1546037</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.23929445</base-building-size>
+                        <base-building-size year="2030">0.25816035</base-building-size>
+                        <base-building-size year="2035">0.27648355</base-building-size>
+                        <base-building-size year="2040">0.2943864</base-building-size>
+                        <base-building-size year="2045">0.311927625</base-building-size>
+                        <base-building-size year="2050">0.3293692</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="OR">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.088251065</base-building-size>
+                        <base-building-size year="2030">0.09971871</base-building-size>
+                        <base-building-size year="2035">0.1104326</base-building-size>
+                        <base-building-size year="2040">0.1206986</base-building-size>
+                        <base-building-size year="2045">0.13049775</base-building-size>
+                        <base-building-size year="2050">0.1397986</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.230179125</base-building-size>
+                        <base-building-size year="2030">0.25282005</base-building-size>
+                        <base-building-size year="2035">0.2744432</base-building-size>
+                        <base-building-size year="2040">0.2953038</base-building-size>
+                        <base-building-size year="2045">0.315358875</base-building-size>
+                        <base-building-size year="2050">0.33461665</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="PA">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.364575075</base-building-size>
+                        <base-building-size year="2030">0.381612</base-building-size>
+                        <base-building-size year="2035">0.3979306</base-building-size>
+                        <base-building-size year="2040">0.4135098</base-building-size>
+                        <base-building-size year="2045">0.4283685</base-building-size>
+                        <base-building-size year="2050">0.4426833</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.9182073</base-building-size>
+                        <base-building-size year="2030">0.9573123</base-building-size>
+                        <base-building-size year="2035">0.995283375</base-building-size>
+                        <base-building-size year="2040">1.0317593</base-building-size>
+                        <base-building-size year="2045">1.066768875</base-building-size>
+                        <base-building-size year="2050">1.10074665</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="RI">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.028089408</base-building-size>
+                        <base-building-size year="2030">0.02988825</base-building-size>
+                        <base-building-size year="2035">0.031561248</base-building-size>
+                        <base-building-size year="2040">0.03313387</base-building-size>
+                        <base-building-size year="2045">0.034578338</base-building-size>
+                        <base-building-size year="2050">0.035907945</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.074370515</base-building-size>
+                        <base-building-size year="2030">0.077598885</base-building-size>
+                        <base-building-size year="2035">0.080701325</base-building-size>
+                        <base-building-size year="2040">0.08366435</base-building-size>
+                        <base-building-size year="2045">0.086459175</base-building-size>
+                        <base-building-size year="2050">0.089112005</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="SC">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.14541265</base-building-size>
+                        <base-building-size year="2030">0.1568616</base-building-size>
+                        <base-building-size year="2035">0.1680225</base-building-size>
+                        <base-building-size year="2040">0.1788853</base-building-size>
+                        <base-building-size year="2045">0.189549</base-building-size>
+                        <base-building-size year="2050">0.20011955</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.336617175</base-building-size>
+                        <base-building-size year="2030">0.361683</base-building-size>
+                        <base-building-size year="2035">0.3863206</base-building-size>
+                        <base-building-size year="2040">0.41041</base-building-size>
+                        <base-building-size year="2045">0.4340745</base-building-size>
+                        <base-building-size year="2050">0.45759305</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="SD">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.02622155</base-building-size>
+                        <base-building-size year="2030">0.027788565</base-building-size>
+                        <base-building-size year="2035">0.02940727</base-building-size>
+                        <base-building-size year="2040">0.03102957</base-building-size>
+                        <base-building-size year="2045">0.032646038</base-building-size>
+                        <base-building-size year="2050">0.034262525</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.066124083</base-building-size>
+                        <base-building-size year="2030">0.070075845</base-building-size>
+                        <base-building-size year="2035">0.074158015</base-building-size>
+                        <base-building-size year="2040">0.07824905</base-building-size>
+                        <base-building-size year="2045">0.082325475</base-building-size>
+                        <base-building-size year="2050">0.08640203</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="TN">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.169759475</base-building-size>
+                        <base-building-size year="2030">0.18383085</base-building-size>
+                        <base-building-size year="2035">0.1971722</base-building-size>
+                        <base-building-size year="2040">0.2100417</base-building-size>
+                        <base-building-size year="2045">0.2224575</base-building-size>
+                        <base-building-size year="2050">0.2345425</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.419385925</base-building-size>
+                        <base-building-size year="2030">0.44640855</base-building-size>
+                        <base-building-size year="2035">0.472708675</base-building-size>
+                        <base-building-size year="2040">0.498322</base-building-size>
+                        <base-building-size year="2045">0.5233275</base-building-size>
+                        <base-building-size year="2050">0.54807275</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="TX">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.835605625</base-building-size>
+                        <base-building-size year="2030">0.8997177</base-building-size>
+                        <base-building-size year="2035">0.96352465</base-building-size>
+                        <base-building-size year="2040">1.0258182</base-building-size>
+                        <base-building-size year="2045">1.08647775</base-building-size>
+                        <base-building-size year="2050">1.14618085</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">1.67936</base-building-size>
+                        <base-building-size year="2030">1.8425925</base-building-size>
+                        <base-building-size year="2035">1.99948925</base-building-size>
+                        <base-building-size year="2040">2.150731</base-building-size>
+                        <base-building-size year="2045">2.29631625</base-building-size>
+                        <base-building-size year="2050">2.4375055</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="UT">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.085519748</base-building-size>
+                        <base-building-size year="2030">0.09653574</base-building-size>
+                        <base-building-size year="2035">0.107412603</base-building-size>
+                        <base-building-size year="2040">0.1181708</base-building-size>
+                        <base-building-size year="2045">0.128795625</base-building-size>
+                        <base-building-size year="2050">0.13929145</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.208324075</base-building-size>
+                        <base-building-size year="2030">0.2310504</base-building-size>
+                        <base-building-size year="2035">0.253860175</base-building-size>
+                        <base-building-size year="2040">0.2765675</base-building-size>
+                        <base-building-size year="2045">0.299095875</base-building-size>
+                        <base-building-size year="2050">0.32150895</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="VA">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.2428102</base-building-size>
+                        <base-building-size year="2030">0.2604609</base-building-size>
+                        <base-building-size year="2035">0.277512325</base-building-size>
+                        <base-building-size year="2040">0.2940025</base-building-size>
+                        <base-building-size year="2045">0.309967875</base-building-size>
+                        <base-building-size year="2050">0.32540975</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.566856775</base-building-size>
+                        <base-building-size year="2030">0.60422565</base-building-size>
+                        <base-building-size year="2035">0.640969825</base-building-size>
+                        <base-building-size year="2040">0.6768498</base-building-size>
+                        <base-building-size year="2045">0.71166825</base-building-size>
+                        <base-building-size year="2050">0.7455036</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="VT">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.016202278</base-building-size>
+                        <base-building-size year="2030">0.01693629</base-building-size>
+                        <base-building-size year="2035">0.01759861</base-building-size>
+                        <base-building-size year="2040">0.01820841</base-building-size>
+                        <base-building-size year="2045">0.018762525</base-building-size>
+                        <base-building-size year="2050">0.019273655</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.04197129</base-building-size>
+                        <base-building-size year="2030">0.043161615</base-building-size>
+                        <base-building-size year="2035">0.04427323</base-building-size>
+                        <base-building-size year="2040">0.04531472</base-building-size>
+                        <base-building-size year="2045">0.046295438</base-building-size>
+                        <base-building-size year="2050">0.047242</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="WA">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.172344525</base-building-size>
+                        <base-building-size year="2030">0.193074</base-building-size>
+                        <base-building-size year="2035">0.212511375</base-building-size>
+                        <base-building-size year="2040">0.2311551</base-building-size>
+                        <base-building-size year="2045">0.24891525</base-building-size>
+                        <base-building-size year="2050">0.26574775</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.42804205</base-building-size>
+                        <base-building-size year="2030">0.4692786</base-building-size>
+                        <base-building-size year="2035">0.5088147</base-building-size>
+                        <base-building-size year="2040">0.5470707</base-building-size>
+                        <base-building-size year="2045">0.583795125</base-building-size>
+                        <base-building-size year="2050">0.6189737</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="WI">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.16753215</base-building-size>
+                        <base-building-size year="2030">0.17479665</base-building-size>
+                        <base-building-size year="2035">0.18175455</base-building-size>
+                        <base-building-size year="2040">0.1882826</base-building-size>
+                        <base-building-size year="2045">0.1943955</base-building-size>
+                        <base-building-size year="2050">0.20022075</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.4124067</base-building-size>
+                        <base-building-size year="2030">0.4301577</base-building-size>
+                        <base-building-size year="2035">0.44718065</base-building-size>
+                        <base-building-size year="2040">0.4631594</base-building-size>
+                        <base-building-size year="2045">0.47812725</base-building-size>
+                        <base-building-size year="2050">0.49239435</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="WV">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.048655008</base-building-size>
+                        <base-building-size year="2030">0.050131095</base-building-size>
+                        <base-building-size year="2035">0.0515355</base-building-size>
+                        <base-building-size year="2040">0.05287623</base-building-size>
+                        <base-building-size year="2045">0.0542394</base-building-size>
+                        <base-building-size year="2050">0.055644475</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.112972425</base-building-size>
+                        <base-building-size year="2030">0.1159221</base-building-size>
+                        <base-building-size year="2035">0.118818675</base-building-size>
+                        <base-building-size year="2040">0.1216347</base-building-size>
+                        <base-building-size year="2045">0.12453075</base-building-size>
+                        <base-building-size year="2050">0.1275557</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+        <region name="WY">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2025">0.012806145</base-building-size>
+                        <base-building-size year="2030">0.014419125</base-building-size>
+                        <base-building-size year="2035">0.015860013</base-building-size>
+                        <base-building-size year="2040">0.01720708</base-building-size>
+                        <base-building-size year="2045">0.0184824</base-building-size>
+                        <base-building-size year="2050">0.019692715</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2025">0.034108208</base-building-size>
+                        <base-building-size year="2030">0.03671934</base-building-size>
+                        <base-building-size year="2035">0.039217183</base-building-size>
+                        <base-building-size year="2040">0.04165084</base-building-size>
+                        <base-building-size year="2045">0.0440271</base-building-size>
+                        <base-building-size year="2050">0.04635581</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+    </world>
+</scenario>

@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="AK">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="AL">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="AR">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="AZ">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="CA">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="CO">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="CT">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="DC">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="DE">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="FL">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="GA">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="HI">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="IA">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="ID">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="IL">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="IN">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="KS">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="KY">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="LA">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="MA">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="MD">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="ME">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="MI">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="MN">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="MO">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="MS">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="MT">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="NC">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="ND">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="NE">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="NH">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="NJ">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="NM">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="NV">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="NY">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="OH">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="OK">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="OR">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="PA">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="RI">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="SC">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="SD">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="TN">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="TX">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="UT">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="VA">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="VT">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="WA">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="WI">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="WV">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+        <region name="WY">
+            <pass-through-sector name="biomass liquids">
+                <subsector name="biomass liquids">
+                    <stub-technology name="cellulosic ethanol CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                    <stub-technology name="FT biofuels CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+            <pass-through-sector name="coal to liquids">
+                <subsector name="coal to liquids">
+                    <stub-technology name="coal to liquids CCS level 2">
+                        <initial-available-year>1975</initial-available-year>
+                        <final-available-year>2015</final-available-year>
+                    </stub-technology>
+                </subsector>
+            </pass-through-sector>
+        </region>
+    </world>
+</scenario>

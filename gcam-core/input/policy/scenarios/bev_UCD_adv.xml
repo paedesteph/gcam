@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="USA">
+      	<supplysector name="trn_freight_road">
+      		<relative-cost-logit>
+                    <logit-exponent fillout="1" year="1975">-1</logit-exponent>
+                </relative-cost-logit>
+                <output-unit>million ton-km</output-unit>
+                <input-unit>EJ</input-unit>
+                <price-unit>1990$/ton-km</price-unit>
+                <keyword final-energy="transportation"/>
+             <tranSubsector name="Truck (&gt;12t)">
+            	<stub-technology name="BEV">
+                  <period year="1975">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>3786.5586704</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>2.3862</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="1990">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>3786.5586704</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>2.3862</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="2005">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>3786.5586704</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>2.3862</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="2010">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>3767.7926858</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>2.045</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="2015">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.7038</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3748.9793124</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2020">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.3626</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3730.1659389</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2025">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.3387</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3711.621102</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2030">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.3148</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3693.0762659</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2035">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.291</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3674.531429</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2040">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.2681</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3656.302518</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2045">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.2452</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3638.0736071</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2050">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.2223</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3619.8446961</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2055">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.2005</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3601.8685257</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2060">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1786</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3583.8923552</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2065">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1567</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3565.9161848</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2070">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1357</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3548.1927549</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2075">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1148</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3530.469325</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2080">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0939</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3512.7458951</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2085">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0738</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3495.3067983</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2090">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0538</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3477.8677015</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2095">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0338</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3460.4286047</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2100">
+                     <loadFactor>8.4</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0338</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3460.4286047</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+               </stub-technology> 
+            </tranSubsector>
+            <tranSubsector name="Truck (0-2.7t)"> 
+            	 <stub-technology name="BEV">
+                  <period year="1975">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>1347.6441163</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.9976</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="1990">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>1347.6441163</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.9976</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="2005">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>1347.6441163</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.9976</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="2010">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>1340.9148996</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.712</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="2015">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.4264</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1334.2330718</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2020">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1407</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1327.5512439</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2025">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1207</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1320.9483972</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2030">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1007</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1314.3455513</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2035">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0807</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1307.7427046</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2040">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0616</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1301.2662284</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2045">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0424</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1294.7897523</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2050">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0233</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1288.3132761</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2055">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.005</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1281.8999851</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2060">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.9866</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1275.486694</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2065">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.9683</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1269.073403</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2070">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.9508</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1262.7864822</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2075">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.9332</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1256.4995615</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2080">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.9157</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1250.2126407</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2085">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.8989</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1243.9889051</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2090">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.8821</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1237.7651694</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2095">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.8654</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1231.5414338</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2100">
+                     <loadFactor>0.27</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.8654</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1231.5414338</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+               </stub-technology>   
+             </tranSubsector>
+            <tranSubsector name="Truck (2.7-4.5t)">
+            	 	<stub-technology name="BEV">
+                  <period year="1975">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>1523.4567498</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>2.1762</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="1990">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>1523.4567498</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>2.1762</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="2005">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>1523.4567498</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>2.1762</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="2010">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>1515.8745338</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.8651</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="2015">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.5539</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1508.2923178</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2020">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.2427</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1500.7101018</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2025">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.2209</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1493.2542558</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2030">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1992</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1485.7984106</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2035">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1774</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1478.3425646</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2040">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1565</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1471.0130891</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2045">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1357</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1463.6836137</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2050">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1148</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1456.3541382</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2055">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0948</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1449.1194404</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2060">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0749</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1441.8847427</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2065">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0549</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1434.6500449</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2070">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0358</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1427.5417174</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2075">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0167</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1420.4333899</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2080">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.9976</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1413.3250624</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2085">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.9793</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1406.3115126</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2090">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.9611</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1399.2979628</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2095">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.9428</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1392.284413</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2100">
+                     <loadFactor>1.01</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>0.9428</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>1392.284413</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+               </stub-technology>   	
+            </tranSubsector>
+            <tranSubsector name="Truck (4.5-12t)">
+            	<stub-technology name="BEV">
+                  <period year="1975">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>3068.4280375</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>2.3639</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="1990">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>3068.4280375</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>2.3639</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="2005">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>3068.4280375</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>2.3639</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="2010">
+                     <minicam-energy-input name="elect_td_trn">
+                        <calibrated-value>0</calibrated-value>
+                        <coefficient>3053.1688278</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                     <share-weight>0</share-weight>
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>2.0259</input-cost>
+                     </minicam-non-energy-input>
+                  </period>
+                  <period year="2015">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.6879</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3037.957007</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2020">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.3499</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3022.7451861</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2025">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.3262</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>3007.7387172</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2030">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.3026</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2992.7322475</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2035">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.2789</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2977.7257786</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2040">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.2562</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2962.9404574</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2045">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.2336</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2948.1551362</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2050">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.2109</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2933.369815</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2055">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1892</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2918.8056418</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2060">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1675</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2904.2414685</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2065">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1458</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2889.6772953</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2070">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1251</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2875.3026775</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2075">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.1044</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2860.9280596</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2080">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0837</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2846.5534418</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2085">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0638</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2832.4315645</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2090">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0439</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2818.3096872</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2095">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0241</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2804.1878099</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2100">
+                     <loadFactor>3.6</loadFactor>
+                     <minicam-non-energy-input name="non-energy">
+                        <input-cost>1.0241</input-cost>
+                     </minicam-non-energy-input>
+                     <minicam-energy-input name="elect_td_trn">
+                        <coefficient>2804.1878099</coefficient>
+                        <market-name>USA</market-name>
+                     </minicam-energy-input>
+                  </period>
+               </stub-technology>
+            </tranSubsector>
+         </supplysector>
+      </region>
+      <global-technology-database>   
+         <location-info sector-name="trn_freight_road" subsector-name="Truck (&gt;12t)">
+            <tranTechnology name="BEV">
+               <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2050">
+                  <interpolation-function name="linear"/>
+               </interpolation-rule>
+               <period year="1975">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+               </period>
+               <period year="1990">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+               </period>
+               <period year="2005">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+               </period>
+               <period year="2010">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.124</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2015">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2020">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2025">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2030">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2035">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2040">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2045">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2050">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2055">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2060">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2065">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2070">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2075">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2080">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2085">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2090">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2095">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2100">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+            </tranTechnology>
+         </location-info>
+         <location-info sector-name="trn_freight_road" subsector-name="Truck (0-2.7t)">     
+            <tranTechnology name="BEV">
+               <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2050">
+                  <interpolation-function name="linear"/>
+               </interpolation-rule>
+               <period year="1975">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+               </period>
+               <period year="1990">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+               </period>
+               <period year="2005">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+               </period>
+               <period year="2010">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.23</steepness>
+                     <half-life>11</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2015">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2020">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2025">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2030">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2035">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2040">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2045">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2050">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2055">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2060">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2065">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2070">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2075">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2080">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2085">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2090">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2095">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2100">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>25</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.193</steepness>
+                     <half-life>12</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+            </tranTechnology>
+         </location-info>
+         <location-info sector-name="trn_freight_road" subsector-name="Truck (2.7-4.5t)">   
+            <tranTechnology name="BEV">
+               <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2050">
+                  <interpolation-function name="linear"/>
+               </interpolation-rule>
+               <period year="1975">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+               </period>
+               <period year="1990">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+               </period>
+               <period year="2005">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+               </period>
+               <period year="2010">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.124</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2015">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2020">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2025">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2030">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2035">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2040">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2045">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2050">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2055">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2060">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2065">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2070">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2075">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2080">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2085">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2090">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2095">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2100">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+            </tranTechnology>
+         </location-info>
+         <location-info sector-name="trn_freight_road" subsector-name="Truck (4.5-12t)">
+            <tranTechnology name="BEV">
+               <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2050">
+                  <interpolation-function name="linear"/>
+               </interpolation-rule>
+               <period year="1975">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+               </period>
+               <period year="1990">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+               </period>
+               <period year="2005">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+               </period>
+               <period year="2010">
+                  <share-weight>0</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.124</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2015">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2020">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2025">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2030">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2035">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2040">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2045">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2050">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2055">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2060">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2065">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2070">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2075">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2080">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2085">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2090">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2095">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+               <period year="2100">
+                  <share-weight>1</share-weight>
+                  <CO2 name="CO2"/>
+                  <lifetime>40</lifetime>
+                  <s-curve-shutdown-decider name="s-curve">
+                     <steepness>0.122</steepness>
+                     <half-life>20</half-life>
+                  </s-curve-shutdown-decider>
+               </period>
+            </tranTechnology>
+         </location-info>   
+			</global-technology-database>
+   </world>
+</scenario>        	

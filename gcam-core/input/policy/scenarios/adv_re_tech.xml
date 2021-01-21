@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <global-technology-database>
+            <location-info sector-name="base load generation" subsector-name="solar">
+                <technology name="CSP_base_storage">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>3045.868527</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>14.56102784</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>2106.985061</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>11.99143469</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>1688.629463</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>1588.636549</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>1504.272598</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>1446.454789</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>1393.857362</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                </technology>
+                <technology name="PV_base_storage">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>722.161161</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>3.426124197</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>526.5040065</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>2.569593148</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>401.5576005</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.713062099</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>377.5952699</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.713062099</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>353.4191414</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.498929336</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>339.2916789</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.498929336</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>325.6387989</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.284796574</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="base load generation" subsector-name="wind">
+                <technology name="wind_base_storage">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>1330.837687</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.99122807</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>1190.090836</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.333333333</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>1156.777253</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>7.456140351</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>1135.525396</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>7.01754386</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>1119.652175</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>6.359649123</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>1081.458111</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>5.921052632</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>1046.000796</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>5.263157895</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                </technology>
+				<intermittent-technology name="wind_base">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>321.2719298</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.99122807</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>281.3596491</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.333333333</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>241.2280702</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>7.456140351</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>225</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>7.01754386</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>208.5526316</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>6.359649123</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>191.6666667</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>5.921052632</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>174.5614035</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>5.263157895</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                </intermittent-technology>
+			</location-info>
+			<location-info sector-name="intermediate generation" subsector-name="solar">
+                <intermittent-technology name="PV_int">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>280.9421842</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>3.426124197</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>212.4197002</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>2.569593148</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>144.111349</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.713062099</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>135.3319058</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.713062099</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>126.3383298</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.498929336</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>117.3447537</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.498929336</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>108.5653105</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.284796574</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                </intermittent-technology>
+                <intermittent-technology name="CSP_int">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>1290.364026</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>14.56102784</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>931.6916488</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>11.99143469</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>607.4946467</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>574.9464668</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>542.6124197</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>510.2783726</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>477.9443255</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                </intermittent-technology>
+            </location-info>
+            <location-info sector-name="subpeak generation" subsector-name="solar">
+                <intermittent-technology name="PV_subpeak">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>280.9421842</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>3.426124197</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>212.4197002</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>2.569593148</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>144.111349</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.713062099</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>135.3319058</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.713062099</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>126.3383298</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.498929336</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>117.3447537</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.498929336</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>108.5653105</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.284796574</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                </intermittent-technology>
+                <intermittent-technology name="CSP_subpeak">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>1290.364026</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>14.56102784</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>931.6916488</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>11.99143469</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>607.4946467</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>574.9464668</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>542.6124197</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>510.2783726</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>477.9443255</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                </intermittent-technology>
+            </location-info>
+            <location-info sector-name="peak generation" subsector-name="solar">
+                <intermittent-technology name="PV_peak">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>280.9421842</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>3.426124197</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>212.4197002</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>2.569593148</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>144.111349</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.713062099</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>135.3319058</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.713062099</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>126.3383298</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.498929336</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>117.3447537</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.498929336</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>108.5653105</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.284796574</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                </intermittent-technology>
+                <intermittent-technology name="CSP_peak">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>1290.364026</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>14.56102784</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>931.6916488</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>11.99143469</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>607.4946467</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>574.9464668</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>542.6124197</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>510.2783726</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>477.9443255</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0.770877944</OM-var>
+                        </input-OM-var>
+                    </period>
+                </intermittent-technology>
+            </location-info>
+            <location-info sector-name="intermediate generation" subsector-name="wind">
+                <intermittent-technology name="wind_int">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>321.2719298</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>281.3596491</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.137044968</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>241.2280702</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>7.280513919</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>225</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>6.852248394</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>208.5526316</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>6.209850107</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>191.6666667</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>5.781584582</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>174.5614035</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>5.139186296</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                </intermittent-technology>
+            </location-info>
+            <location-info sector-name="subpeak generation" subsector-name="wind">
+                <intermittent-technology name="wind_subpeak">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>321.2719298</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.779443255</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>281.3596491</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>8.137044968</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>241.2280702</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>7.280513919</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>225</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>6.852248394</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>208.5526316</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>6.209850107</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>191.6666667</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>5.781584582</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>174.5614035</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>5.139186296</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                </intermittent-technology>
+            </location-info>
+            <location-info sector-name="elect_td_bld" subsector-name="rooftop_pv">
+                <intermittent-technology name="rooftop_pv">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>561.0278373</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>4.282655246</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>372.3768737</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>2.78372591</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>183.7259101</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.284796574</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>170.0214133</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.284796574</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>156.3169165</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.070663812</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>142.6124197</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.070663812</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>128.9079229</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.070663812</OM-fixed>
+                        </input-OM-fixed>
+                        <input-OM-var name="OM-var">
+                            <OM-var>0</OM-var>
+                        </input-OM-var>
+                    </period>
+                </intermittent-technology>
+            </location-info>
+            <location-info sector-name="peak generation" subsector-name="grid_storage">
+                <technology name="battery">
+                    <period year="2020">
+                        <input-capital name="capital">
+                            <capital-overnight>257.6017131</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>6.436830835</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2025">
+                        <input-capital name="capital">
+                            <capital-overnight>166.8094218</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>4.17130621</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2030">
+                        <input-capital name="capital">
+                            <capital-overnight>121.4132762</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>3.038543897</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2035">
+                        <input-capital name="capital">
+                            <capital-overnight>109.6359743</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>2.740899358</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2040">
+                        <input-capital name="capital">
+                            <capital-overnight>97.64453961</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>2.443254818</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2045">
+                        <input-capital name="capital">
+                            <capital-overnight>85.86723769</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>2.145610278</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                    <period year="2050">
+                        <input-capital name="capital">
+                            <capital-overnight>73.875803</capital-overnight>
+                        </input-capital>
+                        <input-OM-fixed name="OM-fixed">
+                            <OM-fixed>1.847965739</OM-fixed>
+                        </input-OM-fixed>
+                    </period>
+                </technology>
+            </location-info>
+        </global-technology-database>
+    </world>
+</scenario>

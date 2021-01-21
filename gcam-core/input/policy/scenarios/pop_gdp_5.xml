@@ -1,0 +1,3013 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="AK">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>376</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>553</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>667</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>714</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>621.871</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>551.591</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>507.1</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>481.508</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>469.548</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>469.279</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>478.858</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>494.528</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>512.864</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>25271</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.027070051</laborproductivity>
+                <laborproductivity year="2005">-0.005799858</laborproductivity>
+                <laborproductivity year="2010">0.026229682</laborproductivity>
+                <laborproductivity year="2015">-0.020957036</laborproductivity>
+                <laborproductivity year="2020">0.014002055</laborproductivity>
+                <laborproductivity year="2025">0.017437956</laborproductivity>
+                <laborproductivity year="2030">0.022322223</laborproductivity>
+                <laborproductivity year="2035">0.020584236</laborproductivity>
+                <laborproductivity year="2040">0.017845861</laborproductivity>
+                <laborproductivity year="2045">0.016048694</laborproductivity>
+                <laborproductivity year="2050">0.014593916</laborproductivity>
+                <laborproductivity year="2055">0.014318504</laborproductivity>
+            </GDP>
+        </region>
+        <region name="AL">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>3679</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>4049</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>4570</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>4785</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>4964.514</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>5156.415</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>5392.904</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>5661.234</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>5956.929</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>6271.056</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>6599.077</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>6943.367</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>7301.993</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>67327</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.002189973</laborproductivity>
+                <laborproductivity year="2005">0.02351021</laborproductivity>
+                <laborproductivity year="2010">-0.008990038</laborproductivity>
+                <laborproductivity year="2015">-0.010462697</laborproductivity>
+                <laborproductivity year="2020">0.02168893</laborproductivity>
+                <laborproductivity year="2025">0.02201173</laborproductivity>
+                <laborproductivity year="2030">0.023793737</laborproductivity>
+                <laborproductivity year="2035">0.021952533</laborproductivity>
+                <laborproductivity year="2040">0.019218205</laborproductivity>
+                <laborproductivity year="2045">0.017300504</laborproductivity>
+                <laborproductivity year="2050">0.015734516</laborproductivity>
+                <laborproductivity year="2055">0.01533997</laborproductivity>
+            </GDP>
+        </region>
+        <region name="AR">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>2160</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>2354</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>2781</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>2922</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>3041.903</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>3180.946</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>3353.442</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>3550.057</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>3764.621</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>3990.655</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>4224.921</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>4469.585</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>4724.174</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>35578</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.001189932</laborproductivity>
+                <laborproductivity year="2005">0.026079899</laborproductivity>
+                <laborproductivity year="2010">-0.005549828</laborproductivity>
+                <laborproductivity year="2015">-0.007046764</laborproductivity>
+                <laborproductivity year="2020">0.023989142</laborproductivity>
+                <laborproductivity year="2025">0.023102131</laborproductivity>
+                <laborproductivity year="2030">0.023672709</laborproductivity>
+                <laborproductivity year="2035">0.021579277</laborproductivity>
+                <laborproductivity year="2040">0.018737618</laborproductivity>
+                <laborproductivity year="2045">0.016870884</laborproductivity>
+                <laborproductivity year="2050">0.015344723</laborproductivity>
+                <laborproductivity year="2055">0.014989387</laborproductivity>
+            </GDP>
+        </region>
+        <region name="AZ">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>2285</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>3679</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>5839</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>6414</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>6850.196</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>7336.645</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>7894.987</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>8493.133</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>9103.25</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>9705.795</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>10295.467</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>10884.873</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>11478.671</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>65564</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.027159995</laborproductivity>
+                <laborproductivity year="2005">0.027989925</laborproductivity>
+                <laborproductivity year="2010">-0.025009635</laborproductivity>
+                <laborproductivity year="2015">-0.012914582</laborproductivity>
+                <laborproductivity year="2020">0.020789307</laborproductivity>
+                <laborproductivity year="2025">0.022718055</laborproductivity>
+                <laborproductivity year="2030">0.026112045</laborproductivity>
+                <laborproductivity year="2035">0.02368225</laborproductivity>
+                <laborproductivity year="2040">0.020421204</laborproductivity>
+                <laborproductivity year="2045">0.018412011</laborproductivity>
+                <laborproductivity year="2050">0.016745447</laborproductivity>
+                <laborproductivity year="2055">0.016240639</laborproductivity>
+            </GDP>
+        </region>
+        <region name="CA">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>21538</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>29950</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>35828</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>37349</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>38481.25</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>39630.732</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>40950.308</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>42368.251</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>43834.473</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>45348.268</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>46918.912</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>48539.796</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>50216.491</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>687156</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.013820002</laborproductivity>
+                <laborproductivity year="2005">0.021450248</laborproductivity>
+                <laborproductivity year="2010">-0.005580433</laborproductivity>
+                <laborproductivity year="2015">0.004421514</laborproductivity>
+                <laborproductivity year="2020">0.031403787</laborproductivity>
+                <laborproductivity year="2025">0.026120898</laborproductivity>
+                <laborproductivity year="2030">0.022322612</laborproductivity>
+                <laborproductivity year="2035">0.020584048</laborproductivity>
+                <laborproductivity year="2040">0.017845295</laborproductivity>
+                <laborproductivity year="2045">0.0160487</laborproductivity>
+                <laborproductivity year="2050">0.0145941</laborproductivity>
+                <laborproductivity year="2055">0.014318555</laborproductivity>
+            </GDP>
+        </region>
+        <region name="CO">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>2586</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>3304</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>4632</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>5049</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>5430.112</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>5844.311</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>6309.407</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>6799.767</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>7301.162</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>7802.362</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>8297.6</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>8789.88</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>9280.327</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>71318</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.01191997</laborproductivity>
+                <laborproductivity year="2005">0.027020053</laborproductivity>
+                <laborproductivity year="2010">-0.008780079</laborproductivity>
+                <laborproductivity year="2015">-0.002440265</laborproductivity>
+                <laborproductivity year="2020">0.027970486</laborproductivity>
+                <laborproductivity year="2025">0.026302982</laborproductivity>
+                <laborproductivity year="2030">0.026111423</laborproductivity>
+                <laborproductivity year="2035">0.023682621</laborproductivity>
+                <laborproductivity year="2040">0.020421628</laborproductivity>
+                <laborproductivity year="2045">0.018411413</laborproductivity>
+                <laborproductivity year="2050">0.016745308</laborproductivity>
+                <laborproductivity year="2055">0.016241155</laborproductivity>
+            </GDP>
+        </region>
+        <region name="CT">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>3082</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>3289</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>3507</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>3577</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>3612.473</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>3635.256</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>3674.365</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>3724.371</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>3782.819</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>3851.415</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>3928.684</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>4011.243</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>4100.605</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>96044</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.000789988</laborproductivity>
+                <laborproductivity year="2005">0.022600081</laborproductivity>
+                <laborproductivity year="2010">-0.003270754</laborproductivity>
+                <laborproductivity year="2015">-0.019263542</laborproductivity>
+                <laborproductivity year="2020">0.016727166</laborproductivity>
+                <laborproductivity year="2025">0.021143632</laborproductivity>
+                <laborproductivity year="2030">0.026998999</laborproductivity>
+                <laborproductivity year="2035">0.025694685</laborproductivity>
+                <laborproductivity year="2040">0.023267384</laborproductivity>
+                <laborproductivity year="2045">0.021014502</laborproductivity>
+                <laborproductivity year="2050">0.019107318</laborproductivity>
+                <laborproductivity year="2055">0.018373359</laborproductivity>
+            </GDP>
+        </region>
+        <region name="DC">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>707</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>604</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>567</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>604</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>627.218</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>649.364</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>674.416</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>695.516</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>712.043</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>728.612</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>749.888</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>775.595</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>803.433</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>40356</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.016089926</laborproductivity>
+                <laborproductivity year="2005">0.027500066</laborproductivity>
+                <laborproductivity year="2010">0.006320113</laborproductivity>
+                <laborproductivity year="2015">-0.026361938</laborproductivity>
+                <laborproductivity year="2020">0.009646961</laborproductivity>
+                <laborproductivity year="2025">0.014297947</laborproductivity>
+                <laborproductivity year="2030">0.020386896</laborproductivity>
+                <laborproductivity year="2035">0.018130495</laborproductivity>
+                <laborproductivity year="2040">0.014807835</laborproductivity>
+                <laborproductivity year="2045">0.013274773</laborproductivity>
+                <laborproductivity year="2050">0.012073177</laborproductivity>
+                <laborproductivity year="2055">0.012045485</laborproductivity>
+            </GDP>
+        </region>
+        <region name="DE">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>587</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>669</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>845</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>900</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>962.998</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>1029.791</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>1105.252</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>1183.375</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>1260.855</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>1335.898</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>1408.841</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>1480.885</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>1552.368</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>19312</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.000450022</laborproductivity>
+                <laborproductivity year="2005">0.02079001</laborproductivity>
+                <laborproductivity year="2010">-0.014370199</laborproductivity>
+                <laborproductivity year="2015">-0.01175212</laborproductivity>
+                <laborproductivity year="2020">0.019663763</laborproductivity>
+                <laborproductivity year="2025">0.019295647</laborproductivity>
+                <laborproductivity year="2030">0.020387087</laborproductivity>
+                <laborproductivity year="2035">0.01812986</laborproductivity>
+                <laborproductivity year="2040">0.01480861</laborproductivity>
+                <laborproductivity year="2045">0.013275412</laborproductivity>
+                <laborproductivity year="2050">0.012072257</laborproductivity>
+                <laborproductivity year="2055">0.012045955</laborproductivity>
+            </GDP>
+        </region>
+        <region name="FL">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>8518</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>13018</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>17842</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>18843</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>19507.259</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>20287.104</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>21270.71</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>22389</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>23597.558</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>24833.013</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>26045.615</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>27255.93</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>28481.323</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>231117</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.020100077</laborproductivity>
+                <laborproductivity year="2005">0.024880029</laborproductivity>
+                <laborproductivity year="2010">-0.022749932</laborproductivity>
+                <laborproductivity year="2015">-0.01314036</laborproductivity>
+                <laborproductivity year="2020">0.018712131</laborproductivity>
+                <laborproductivity year="2025">0.018821217</laborproductivity>
+                <laborproductivity year="2030">0.020386911</laborproductivity>
+                <laborproductivity year="2035">0.018129576</laborproductivity>
+                <laborproductivity year="2040">0.014808728</laborproductivity>
+                <laborproductivity year="2045">0.013275253</laborproductivity>
+                <laborproductivity year="2050">0.012071566</laborproductivity>
+                <laborproductivity year="2055">0.012045904</laborproductivity>
+            </GDP>
+        </region>
+        <region name="GA">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>5064</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>6507</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>8926</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>9713</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>10260.705</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>10834.359</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>11490.093</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>12197.14</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>12934.277</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>13687.859</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>14448.367</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>15221.697</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>16007.217</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>130241</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.011229808</laborproductivity>
+                <laborproductivity year="2005">0.025739743</laborproductivity>
+                <laborproductivity year="2010">-0.024619805</laborproductivity>
+                <laborproductivity year="2015">-0.006879569</laborproductivity>
+                <laborproductivity year="2020">0.02300653</laborproductivity>
+                <laborproductivity year="2025">0.020961875</laborproductivity>
+                <laborproductivity year="2030">0.020387226</laborproductivity>
+                <laborproductivity year="2035">0.018129427</laborproductivity>
+                <laborproductivity year="2040">0.014808725</laborproductivity>
+                <laborproductivity year="2045">0.01327516</laborproductivity>
+                <laborproductivity year="2050">0.012072415</laborproductivity>
+                <laborproductivity year="2055">0.012046209</laborproductivity>
+            </GDP>
+        </region>
+        <region name="HI">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>886</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>1113</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>1293</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>1364</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>1419.269</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>1477.124</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>1544.735</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>1617.378</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>1692.271</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>1769.49</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>1848.604</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>1929.652</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>2011.726</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>27712</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.002490036</laborproductivity>
+                <laborproductivity year="2005">0.007050104</laborproductivity>
+                <laborproductivity year="2010">-0.002880226</laborproductivity>
+                <laborproductivity year="2015">-0.01194926</laborproductivity>
+                <laborproductivity year="2020">0.020180725</laborproductivity>
+                <laborproductivity year="2025">0.020517254</laborproductivity>
+                <laborproductivity year="2030">0.022322312</laborproductivity>
+                <laborproductivity year="2035">0.020584395</laborproductivity>
+                <laborproductivity year="2040">0.01784521</laborproductivity>
+                <laborproductivity year="2045">0.016049007</laborproductivity>
+                <laborproductivity year="2050">0.014594016</laborproductivity>
+                <laborproductivity year="2055">0.014318667</laborproductivity>
+            </GDP>
+        </region>
+        <region name="IA">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>2881</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>2780</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>2964</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>3050</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>3170.189</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>3301.817</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>3462.239</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>3641.671</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>3833.318</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>4033.182</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>4241.524</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>4457.359</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>4678.782</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>48391</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.010130032</laborproductivity>
+                <laborproductivity year="2005">0.029959974</laborproductivity>
+                <laborproductivity year="2010">0.001459992</laborproductivity>
+                <laborproductivity year="2015">0.001804121</laborproductivity>
+                <laborproductivity year="2020">0.029872689</laborproductivity>
+                <laborproductivity year="2025">0.025748643</laborproductivity>
+                <laborproductivity year="2030">0.023107276</laborproductivity>
+                <laborproductivity year="2035">0.021309224</laborproductivity>
+                <laborproductivity year="2040">0.018536973</laborproductivity>
+                <laborproductivity year="2045">0.016679526</laborproductivity>
+                <laborproductivity year="2050">0.015174515</laborproductivity>
+                <laborproductivity year="2055">0.014829204</laborproductivity>
+            </GDP>
+        </region>
+        <region name="ID">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>832</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>1012</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>1428</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>1571</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>1690.431</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>1815.213</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>1957.719</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>2111.243</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>2272.022</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>2436.605</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>2601.839</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>2767.945</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>2934.15</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>14850</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.003039916</laborproductivity>
+                <laborproductivity year="2005">0.022969968</laborproductivity>
+                <laborproductivity year="2010">-0.007240237</laborproductivity>
+                <laborproductivity year="2015">-0.010807118</laborproductivity>
+                <laborproductivity year="2020">0.022226613</laborproductivity>
+                <laborproductivity year="2025">0.023445278</laborproductivity>
+                <laborproductivity year="2030">0.026112023</laborproductivity>
+                <laborproductivity year="2035">0.023682891</laborproductivity>
+                <laborproductivity year="2040">0.02042094</laborproductivity>
+                <laborproductivity year="2045">0.018411912</laborproductivity>
+                <laborproductivity year="2050">0.01674517</laborproductivity>
+                <laborproductivity year="2055">0.016241041</laborproductivity>
+            </GDP>
+        </region>
+        <region name="IL">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>11292</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>11447</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>12610</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>12843</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>12945.472</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>13028.642</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>13164.532</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>13333.343</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>13531.042</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>13765.975</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>14044.607</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>14366.418</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>14725.395</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>254809</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.004750069</laborproductivity>
+                <laborproductivity year="2005">0.023269982</laborproductivity>
+                <laborproductivity year="2010">-0.003690165</laborproductivity>
+                <laborproductivity year="2015">-0.003581397</laborproductivity>
+                <laborproductivity year="2020">0.025569182</laborproductivity>
+                <laborproductivity year="2025">0.022678065</laborproductivity>
+                <laborproductivity year="2030">0.021273854</laborproductivity>
+                <laborproductivity year="2035">0.019306652</laborproductivity>
+                <laborproductivity year="2040">0.016292179</laborproductivity>
+                <laborproductivity year="2045">0.014626968</laborproductivity>
+                <laborproductivity year="2050">0.01330305</laborproductivity>
+                <laborproductivity year="2055">0.013147358</laborproductivity>
+            </GDP>
+        </region>
+        <region name="IN">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>5366</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>5555</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>6279</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>6491</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>6719.117</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>6952.839</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>7233.766</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>7536.577</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>7850.589</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>8175.459</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>8514.656</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>8866.575</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>9227.676</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>100484</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.00356997</laborproductivity>
+                <laborproductivity year="2005">0.024970058</laborproductivity>
+                <laborproductivity year="2010">0.00078993</laborproductivity>
+                <laborproductivity year="2015">-0.007430647</laborproductivity>
+                <laborproductivity year="2020">0.022925828</laborproductivity>
+                <laborproductivity year="2025">0.021365548</laborproductivity>
+                <laborproductivity year="2030">0.021273375</laborproductivity>
+                <laborproductivity year="2035">0.019306745</laborproductivity>
+                <laborproductivity year="2040">0.016292246</laborproductivity>
+                <laborproductivity year="2045">0.014626972</laborproductivity>
+                <laborproductivity year="2050">0.013303023</laborproductivity>
+                <laborproductivity year="2055">0.013147458</laborproductivity>
+            </GDP>
+        </region>
+        <region name="KS">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>2281</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>2481</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>2745</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>2859</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>2992.369</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>3139.659</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>3317.48</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>3515.38</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>3725.225</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>3942.111</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>4165.248</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>4394.535</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>4626.739</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>49088</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.001849976</laborproductivity>
+                <laborproductivity year="2005">0.019269983</laborproductivity>
+                <laborproductivity year="2010">0.011699917</laborproductivity>
+                <laborproductivity year="2015">-0.004053952</laborproductivity>
+                <laborproductivity year="2020">0.025852832</laborproductivity>
+                <laborproductivity year="2025">0.023748212</laborproductivity>
+                <laborproductivity year="2030">0.023108636</laborproductivity>
+                <laborproductivity year="2035">0.021308227</laborproductivity>
+                <laborproductivity year="2040">0.018537546</laborproductivity>
+                <laborproductivity year="2045">0.016679545</laborproductivity>
+                <laborproductivity year="2050">0.015173653</laborproductivity>
+                <laborproductivity year="2055">0.014829132</laborproductivity>
+            </GDP>
+        </region>
+        <region name="KY">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>3468</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>3693</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>4183</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>4346</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>4520.321</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>4711.102</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>4939.834</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>5196.124</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>5472.155</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>5761.396</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>6061.031</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>6373.812</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>6697.665</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>60619</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.002419959</laborproductivity>
+                <laborproductivity year="2005">0.023039979</laborproductivity>
+                <laborproductivity year="2010">-0.0031604</laborproductivity>
+                <laborproductivity year="2015">-0.010383305</laborproductivity>
+                <laborproductivity year="2020">0.021740948</laborproductivity>
+                <laborproductivity year="2025">0.022041274</laborproductivity>
+                <laborproductivity year="2030">0.023793495</laborproductivity>
+                <laborproductivity year="2035">0.021953406</laborproductivity>
+                <laborproductivity year="2040">0.019217831</laborproductivity>
+                <laborproductivity year="2045">0.017300415</laborproductivity>
+                <laborproductivity year="2050">0.015734456</laborproductivity>
+                <laborproductivity year="2055">0.015339886</laborproductivity>
+            </GDP>
+        </region>
+        <region name="LA">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>3886</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>4219</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>4577</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>4544</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>4641.922</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>4751.786</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>4894.782</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>5064.881</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>5256.944</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>5467.351</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>5696.306</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>5946.712</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>6215.114</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>89260</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.001759982</laborproductivity>
+                <laborproductivity year="2005">0.022820058</laborproductivity>
+                <laborproductivity year="2010">0.006760333</laborproductivity>
+                <laborproductivity year="2015">-0.03369601</laborproductivity>
+                <laborproductivity year="2020">0.005717201</laborproductivity>
+                <laborproductivity year="2025">0.013984177</laborproductivity>
+                <laborproductivity year="2030">0.02367294</laborproductivity>
+                <laborproductivity year="2035">0.021580418</laborproductivity>
+                <laborproductivity year="2040">0.018737234</laborproductivity>
+                <laborproductivity year="2045">0.016869825</laborproductivity>
+                <laborproductivity year="2050">0.015344689</laborproductivity>
+                <laborproductivity year="2055">0.014988715</laborproductivity>
+            </GDP>
+        </region>
+        <region name="MA">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>5758</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>6019</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>6403</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>6557</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>6712.873</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>6874.822</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>7077.949</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>7296.588</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>7524.565</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>7765.136</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>8016.464</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>8270.003</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>8526.865</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>157245</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.000809916</laborproductivity>
+                <laborproductivity year="2005">0.025299795</laborproductivity>
+                <laborproductivity year="2010">0.00708053</laborproductivity>
+                <laborproductivity year="2015">-0.004113483</laborproductivity>
+                <laborproductivity year="2020">0.027119085</laborproductivity>
+                <laborproductivity year="2025">0.026323299</laborproductivity>
+                <laborproductivity year="2030">0.026998525</laborproductivity>
+                <laborproductivity year="2035">0.02569501</laborproductivity>
+                <laborproductivity year="2040">0.023267143</laborproductivity>
+                <laborproductivity year="2045">0.021015085</laborproductivity>
+                <laborproductivity year="2050">0.019106859</laborproductivity>
+                <laborproductivity year="2055">0.018373427</laborproductivity>
+            </GDP>
+        </region>
+        <region name="MD">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>4139</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>4797</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>5592</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>5786</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>5985.23</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>6198.203</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>6452.702</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>6731.562</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>7028.641</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>7338.787</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>7654</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>7972.946</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>8296.053</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>105502</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.00319016</laborproductivity>
+                <laborproductivity year="2005">0.024040021</laborproductivity>
+                <laborproductivity year="2010">0.006590689</laborproductivity>
+                <laborproductivity year="2015">-0.01121093</laborproductivity>
+                <laborproductivity year="2020">0.020038639</laborproductivity>
+                <laborproductivity year="2025">0.019477558</laborproductivity>
+                <laborproductivity year="2030">0.020386856</laborproductivity>
+                <laborproductivity year="2035">0.018129526</laborproductivity>
+                <laborproductivity year="2040">0.014809096</laborproductivity>
+                <laborproductivity year="2045">0.01327527</laborproductivity>
+                <laborproductivity year="2050">0.012072004</laborproductivity>
+                <laborproductivity year="2055">0.012046166</laborproductivity>
+            </GDP>
+        </region>
+        <region name="ME">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>1072</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>1231</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>1319</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>1328</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>1342.545</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>1357.41</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>1382.934</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>1415.714</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>1455.012</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>1500.254</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>1548.561</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>1598.874</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>1651.644</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>21763</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.003640082</laborproductivity>
+                <laborproductivity year="2005">0.020369994</laborproductivity>
+                <laborproductivity year="2010">-0.003159891</laborproductivity>
+                <laborproductivity year="2015">-0.014942203</laborproductivity>
+                <laborproductivity year="2020">0.019694728</laborproductivity>
+                <laborproductivity year="2025">0.022617518</laborproductivity>
+                <laborproductivity year="2030">0.026998993</laborproductivity>
+                <laborproductivity year="2035">0.025694892</laborproductivity>
+                <laborproductivity year="2040">0.023267274</laborproductivity>
+                <laborproductivity year="2045">0.021014972</laborproductivity>
+                <laborproductivity year="2050">0.019106897</laborproductivity>
+                <laborproductivity year="2055">0.018373337</laborproductivity>
+            </GDP>
+        </region>
+        <region name="MI">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>9118</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>9310</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>10051</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>9878</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>9982.057</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>10048.358</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>10156.011</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>10280.509</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>10421.542</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>10591.544</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>10800.627</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>11042.781</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>11309.873</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>189471</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.00102988</laborproductivity>
+                <laborproductivity year="2005">0.020610075</laborproductivity>
+                <laborproductivity year="2010">-0.020169842</laborproductivity>
+                <laborproductivity year="2015">0.003358826</laborproductivity>
+                <laborproductivity year="2020">0.030329727</laborproductivity>
+                <laborproductivity year="2025">0.025050735</laborproductivity>
+                <laborproductivity year="2030">0.021274175</laborproductivity>
+                <laborproductivity year="2035">0.019306402</laborproductivity>
+                <laborproductivity year="2040">0.016291978</laborproductivity>
+                <laborproductivity year="2045">0.014627181</laborproductivity>
+                <laborproductivity year="2050">0.013303222</laborproductivity>
+                <laborproductivity year="2055">0.01314701</laborproductivity>
+            </GDP>
+        </region>
+        <region name="MN">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>3933</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>4387</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>5120</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>5311</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>5490.999</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>5667.352</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>5875.345</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>6104.558</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>6351.463</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>6613.661</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>6886.31</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>7167.539</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>7453.679</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>94937</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.001989724</laborproductivity>
+                <laborproductivity year="2005">0.026889818</laborproductivity>
+                <laborproductivity year="2010">-0.008140243</laborproductivity>
+                <laborproductivity year="2015">-0.00316829</laborproductivity>
+                <laborproductivity year="2020">0.026461055</laborproductivity>
+                <laborproductivity year="2025">0.024051366</laborproductivity>
+                <laborproductivity year="2030">0.023108108</laborproductivity>
+                <laborproductivity year="2035">0.021308376</laborproductivity>
+                <laborproductivity year="2040">0.018536986</laborproductivity>
+                <laborproductivity year="2045">0.016679404</laborproductivity>
+                <laborproductivity year="2050">0.015174516</laborproductivity>
+                <laborproductivity year="2055">0.014829163</laborproductivity>
+            </GDP>
+        </region>
+        <region name="MO">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>4808</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>5126</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>5790</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>5996</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>6244.109</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>6505.511</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>6823.672</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>7179.047</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>7560.547</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>7961.917</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>8378.484</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>8811.544</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>9254.423</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>99340</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.00079013</laborproductivity>
+                <laborproductivity year="2005">0.022680325</laborproductivity>
+                <laborproductivity year="2010">-0.002840287</laborproductivity>
+                <laborproductivity year="2015">-0.012126997</laborproductivity>
+                <laborproductivity year="2020">0.020322991</laborproductivity>
+                <laborproductivity year="2025">0.020981799</laborproductivity>
+                <laborproductivity year="2030">0.023108225</laborproductivity>
+                <laborproductivity year="2035">0.021308452</laborproductivity>
+                <laborproductivity year="2040">0.018537337</laborproductivity>
+                <laborproductivity year="2045">0.01667897</laborproductivity>
+                <laborproductivity year="2050">0.015175015</laborproductivity>
+                <laborproductivity year="2055">0.01482872</laborproductivity>
+            </GDP>
+        </region>
+        <region name="MS">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>2399</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>2577</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>2906</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>2970</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>3052.806</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>3139.803</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>3250.572</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>3377.286</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>3517.181</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>3669.121</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>3834.846</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>4013.024</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>4200.161</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>37001</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.002310036</laborproductivity>
+                <laborproductivity year="2005">0.02176006</laborproductivity>
+                <laborproductivity year="2010">0.005650029</laborproductivity>
+                <laborproductivity year="2015">-0.015887305</laborproductivity>
+                <laborproductivity year="2020">0.017972794</laborproductivity>
+                <laborproductivity year="2025">0.020153833</laborproductivity>
+                <laborproductivity year="2030">0.023793739</laborproductivity>
+                <laborproductivity year="2035">0.021952559</laborproductivity>
+                <laborproductivity year="2040">0.019218504</laborproductivity>
+                <laborproductivity year="2045">0.017300148</laborproductivity>
+                <laborproductivity year="2050">0.01573413</laborproductivity>
+                <laborproductivity year="2055">0.015340446</laborproductivity>
+            </GDP>
+        </region>
+        <region name="MT">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>748</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>800</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>940</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>991</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>1031.345</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>1075.559</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>1130.309</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>1193.816</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>1264.009</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>1339.743</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>1418.613</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>1499.745</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>1582.324</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>12517</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.001229939</laborproductivity>
+                <laborproductivity year="2005">0.025929893</laborproductivity>
+                <laborproductivity year="2010">0.008679907</laborproductivity>
+                <laborproductivity year="2015">-0.005481201</laborproductivity>
+                <laborproductivity year="2020">0.025883427</laborproductivity>
+                <laborproductivity year="2025">0.025262409</laborproductivity>
+                <laborproductivity year="2030">0.026111838</laborproductivity>
+                <laborproductivity year="2035">0.023683098</laborproductivity>
+                <laborproductivity year="2040">0.020420947</laborproductivity>
+                <laborproductivity year="2045">0.018411657</laborproductivity>
+                <laborproductivity year="2050">0.016745558</laborproductivity>
+                <laborproductivity year="2055">0.016240607</laborproductivity>
+            </GDP>
+        </region>
+        <region name="NC">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>5547</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>6657</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>8705</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>9562</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>10155.952</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>10823.192</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>11602.644</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>12443.124</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>13315.984</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>14199.385</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>15080.08</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>15962.629</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>16846.179</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>126057</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.005789797</laborproductivity>
+                <laborproductivity year="2005">0.024799753</laborproductivity>
+                <laborproductivity year="2010">-0.008659938</laborproductivity>
+                <laborproductivity year="2015">-0.011161487</laborproductivity>
+                <laborproductivity year="2020">0.020069298</laborproductivity>
+                <laborproductivity year="2025">0.019497432</laborproductivity>
+                <laborproductivity year="2030">0.020386753</laborproductivity>
+                <laborproductivity year="2035">0.018129749</laborproductivity>
+                <laborproductivity year="2040">0.014808743</laborproductivity>
+                <laborproductivity year="2045">0.013275389</laborproductivity>
+                <laborproductivity year="2050">0.012072283</laborproductivity>
+                <laborproductivity year="2055">0.012045946</laborproductivity>
+            </GDP>
+        </region>
+        <region name="ND">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>639</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>637</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>646</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>674</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>729.978</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>788.393</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>853.056</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>921.091</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>989.035</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>1056.299</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>1124.383</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>1193.903</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>1262.863</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>11190</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.0006498</laborproductivity>
+                <laborproductivity year="2005">0.030030068</laborproductivity>
+                <laborproductivity year="2010">0.048160604</laborproductivity>
+                <laborproductivity year="2015">0.035628952</laborproductivity>
+                <laborproductivity year="2020">0.053079048</laborproductivity>
+                <laborproductivity year="2025">0.03730812</laborproductivity>
+                <laborproductivity year="2030">0.023108206</laborproductivity>
+                <laborproductivity year="2035">0.021308741</laborproductivity>
+                <laborproductivity year="2040">0.018536719</laborproductivity>
+                <laborproductivity year="2045">0.016679784</laborproductivity>
+                <laborproductivity year="2050">0.015174371</laborproductivity>
+                <laborproductivity year="2055">0.014829052</laborproductivity>
+            </GDP>
+        </region>
+        <region name="NE">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>1543</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>1581</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>1761</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>1830</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>1915.159</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>2008.573</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>2120.598</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>2246.074</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>2380.653</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>2520.16</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>2664.508</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>2812.966</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>2964.281</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>29402</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.006880013</laborproductivity>
+                <laborproductivity year="2005">0.0254</laborproductivity>
+                <laborproductivity year="2010">0.014729893</laborproductivity>
+                <laborproductivity year="2015">-0.002774334</laborproductivity>
+                <laborproductivity year="2020">0.026734186</laborproductivity>
+                <laborproductivity year="2025">0.024182608</laborproductivity>
+                <laborproductivity year="2030">0.02310819</laborproductivity>
+                <laborproductivity year="2035">0.021309274</laborproductivity>
+                <laborproductivity year="2040">0.018535704</laborproductivity>
+                <laborproductivity year="2045">0.016679535</laborproductivity>
+                <laborproductivity year="2050">0.015175675</laborproductivity>
+                <laborproductivity year="2055">0.014829219</laborproductivity>
+            </GDP>
+        </region>
+        <region name="NH">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>829</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>1112</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>1298</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>1317</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>1359.381</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>1401.586</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>1449.984</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>1501.54</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>1554.032</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>1608.267</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>1663.786</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>1719.886</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>1776.9</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>22827</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.017959952</laborproductivity>
+                <laborproductivity year="2005">0.029180026</laborproductivity>
+                <laborproductivity year="2010">2.96181E-05</laborproductivity>
+                <laborproductivity year="2015">-0.007243642</laborproductivity>
+                <laborproductivity year="2020">0.024971835</laborproductivity>
+                <laborproductivity year="2025">0.025252864</laborproductivity>
+                <laborproductivity year="2030">0.026998563</laborproductivity>
+                <laborproductivity year="2035">0.025694744</laborproductivity>
+                <laborproductivity year="2040">0.023267519</laborproductivity>
+                <laborproductivity year="2045">0.021015183</laborproductivity>
+                <laborproductivity year="2050">0.019106705</laborproductivity>
+                <laborproductivity year="2055">0.01837273</laborproductivity>
+            </GDP>
+        </region>
+        <region name="NJ">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>7338</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>7757</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>8652</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>8802</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>8762.819</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>8699.045</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>8661.178</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>8637.593</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>8630.343</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>8649.657</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>8694.477</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>8757.219</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>8842.318</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>197718</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.002459901</laborproductivity>
+                <laborproductivity year="2005">0.020500181</laborproductivity>
+                <laborproductivity year="2010">-0.00618012</laborproductivity>
+                <laborproductivity year="2015">-0.010453237</laborproductivity>
+                <laborproductivity year="2020">0.021730641</laborproductivity>
+                <laborproductivity year="2025">0.022092431</laborproductivity>
+                <laborproductivity year="2030">0.023904605</laborproductivity>
+                <laborproductivity year="2035">0.022163544</laborproductivity>
+                <laborproductivity year="2040">0.019408962</laborproductivity>
+                <laborproductivity year="2045">0.017480718</laborproductivity>
+                <laborproductivity year="2050">0.015894816</laborproductivity>
+                <laborproductivity year="2055">0.015479955</laborproductivity>
+            </GDP>
+        </region>
+        <region name="NM">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>1160</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>1520</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>1932</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>2066</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>2155.076</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>2252.402</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>2368.588</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>2496.674</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>2631.176</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>2771.712</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>2918.203</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>3072.491</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>3231.585</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>23052</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.013649889</laborproductivity>
+                <laborproductivity year="2005">0.036059828</laborproductivity>
+                <laborproductivity year="2010">-0.004539738</laborproductivity>
+                <laborproductivity year="2015">-0.009222525</laborproductivity>
+                <laborproductivity year="2020">0.023320758</laborproductivity>
+                <laborproductivity year="2025">0.02398058</laborproductivity>
+                <laborproductivity year="2030">0.026111622</laborproductivity>
+                <laborproductivity year="2035">0.023682874</laborproductivity>
+                <laborproductivity year="2040">0.02042116</laborproductivity>
+                <laborproductivity year="2045">0.018411437</laborproductivity>
+                <laborproductivity year="2050">0.016745746</laborproductivity>
+                <laborproductivity year="2055">0.016241428</laborproductivity>
+            </GDP>
+        </region>
+        <region name="NV">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>620</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>1219</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>2432</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>2705</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>2891.408</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>3081.855</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>3294.674</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>3518.687</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>3746.339</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>3970.335</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>4188.543</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>4406.041</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>4625.328</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>24945</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.028930089</laborproductivity>
+                <laborproductivity year="2005">0.023290087</laborproductivity>
+                <laborproductivity year="2010">-0.040499958</laborproductivity>
+                <laborproductivity year="2015">-0.019628124</laborproductivity>
+                <laborproductivity year="2020">0.016179881</laborproductivity>
+                <laborproductivity year="2025">0.02042667</laborproductivity>
+                <laborproductivity year="2030">0.02611122</laborproductivity>
+                <laborproductivity year="2035">0.023683719</laborproductivity>
+                <laborproductivity year="2040">0.02042148</laborproductivity>
+                <laborproductivity year="2045">0.018411316</laborproductivity>
+                <laborproductivity year="2050">0.016745528</laborproductivity>
+                <laborproductivity year="2055">0.016240376</laborproductivity>
+            </GDP>
+        </region>
+        <region name="NY">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>18003</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>18003</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>19133</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>19392</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>19514.905</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>19563.536</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>19656.327</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>19754.449</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>19861.548</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>20007.867</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>20222.112</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>20492.48</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>20813.128</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>481758</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.003809997</laborproductivity>
+                <laborproductivity year="2005">0.021640023</laborproductivity>
+                <laborproductivity year="2010">0.009389922</laborproductivity>
+                <laborproductivity year="2015">-0.006741615</laborproductivity>
+                <laborproductivity year="2020">0.024282928</laborproductivity>
+                <laborproductivity year="2025">0.023354143</laborproductivity>
+                <laborproductivity year="2030">0.023904175</laborproductivity>
+                <laborproductivity year="2035">0.022164689</laborproductivity>
+                <laborproductivity year="2040">0.019408962</laborproductivity>
+                <laborproductivity year="2045">0.017480327</laborproductivity>
+                <laborproductivity year="2050">0.015894613</laborproductivity>
+                <laborproductivity year="2055">0.015479983</laborproductivity>
+            </GDP>
+        </region>
+        <region name="OH">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>10770</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>10862</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>11463</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>11536</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>11737.945</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>11961.391</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>12264.291</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>12618.317</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>13012.278</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>13441.959</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>13907.009</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>14404.073</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>14928.497</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>211661</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.004040117</laborproductivity>
+                <laborproductivity year="2005">0.024089858</laborproductivity>
+                <laborproductivity year="2010">-0.009109798</laborproductivity>
+                <laborproductivity year="2015">0.002846831</laborproductivity>
+                <laborproductivity year="2020">0.029975407</laborproductivity>
+                <laborproductivity year="2025">0.02487879</laborproductivity>
+                <laborproductivity year="2030">0.021274297</laborproductivity>
+                <laborproductivity year="2035">0.019306617</laborproductivity>
+                <laborproductivity year="2040">0.016291786</laborproductivity>
+                <laborproductivity year="2045">0.014627199</laborproductivity>
+                <laborproductivity year="2050">0.013303223</laborproductivity>
+                <laborproductivity year="2055">0.013147171</laborproductivity>
+            </GDP>
+        </region>
+        <region name="OK">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>2775</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>3147</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>3549</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>3762</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>3932.451</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>4120.77</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>4349.466</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>4611.523</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>4897.019</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>5198.375</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>5512.224</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>5842.614</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>6185.577</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>54341</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.00469999</laborproductivity>
+                <laborproductivity year="2005">0.021609972</laborproductivity>
+                <laborproductivity year="2010">0.003270065</laborproductivity>
+                <laborproductivity year="2015">0.020713956</laborproductivity>
+                <laborproductivity year="2020">0.043031917</laborproductivity>
+                <laborproductivity year="2025">0.032593106</laborproductivity>
+                <laborproductivity year="2030">0.023673005</laborproductivity>
+                <laborproductivity year="2035">0.021579873</laborproductivity>
+                <laborproductivity year="2040">0.018737688</laborproductivity>
+                <laborproductivity year="2045">0.016869552</laborproductivity>
+                <laborproductivity year="2050">0.01534422</laborproductivity>
+                <laborproductivity year="2055">0.014989888</laborproductivity>
+            </GDP>
+        </region>
+        <region name="OR">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>2330</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>2859</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>3613</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>3839</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>4066.656</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>4316.708</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>4612.398</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>4939.308</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>5288.738</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>5646.493</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>6001.294</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>6355.597</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>6711.064</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>48778</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.004979945</laborproductivity>
+                <laborproductivity year="2005">0.02569014</laborproductivity>
+                <laborproductivity year="2010">0.031039602</laborproductivity>
+                <laborproductivity year="2015">-0.014765605</laborproductivity>
+                <laborproductivity year="2020">0.018247205</laborproductivity>
+                <laborproductivity year="2025">0.019557208</laborproductivity>
+                <laborproductivity year="2030">0.02232297</laborproductivity>
+                <laborproductivity year="2035">0.02058418</laborproductivity>
+                <laborproductivity year="2040">0.017845712</laborproductivity>
+                <laborproductivity year="2045">0.016048381</laborproductivity>
+                <laborproductivity year="2050">0.014594226</laborproductivity>
+                <laborproductivity year="2055">0.014318393</laborproductivity>
+            </GDP>
+        </region>
+        <region name="PA">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>11906</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>11896</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>12450</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>12710</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>12983.287</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>13297.362</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>13704.174</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>14160.603</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>14650.476</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>15168.436</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>15709.41</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>16267.002</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>16836.623</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>228526</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.005339903</laborproductivity>
+                <laborproductivity year="2005">0.024910116</laborproductivity>
+                <laborproductivity year="2010">0.005969824</laborproductivity>
+                <laborproductivity year="2015">0.000956901</laborproductivity>
+                <laborproductivity year="2020">0.029559959</laborproductivity>
+                <laborproductivity year="2025">0.025989713</laborproductivity>
+                <laborproductivity year="2030">0.023904526</laborproductivity>
+                <laborproductivity year="2035">0.022163853</laborproductivity>
+                <laborproductivity year="2040">0.019409061</laborproductivity>
+                <laborproductivity year="2045">0.017480544</laborproductivity>
+                <laborproductivity year="2050">0.015894694</laborproductivity>
+                <laborproductivity year="2055">0.015479906</laborproductivity>
+            </GDP>
+        </region>
+        <region name="RI">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>943</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>1005</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>1068</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>1053</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>1076.824</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>1103.299</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>1135.422</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>1169.608</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>1204.89</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>1241.858</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>1280.919</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>1321.315</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>1362.131</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>20432</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.001289896</laborproductivity>
+                <laborproductivity year="2005">0.023940015</laborproductivity>
+                <laborproductivity year="2010">-0.003529802</laborproductivity>
+                <laborproductivity year="2015">-0.012362955</laborproductivity>
+                <laborproductivity year="2020">0.021457175</laborproductivity>
+                <laborproductivity year="2025">0.023506152</laborproductivity>
+                <laborproductivity year="2030">0.02699852</laborproductivity>
+                <laborproductivity year="2035">0.025694911</laborproductivity>
+                <laborproductivity year="2040">0.023267414</laborproductivity>
+                <laborproductivity year="2045">0.021015252</laborproductivity>
+                <laborproductivity year="2050">0.019106931</laborproductivity>
+                <laborproductivity year="2055">0.018373023</laborproductivity>
+            </GDP>
+        </region>
+        <region name="SC">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>2902</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>3499</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>4270</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>4636</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>4951.437</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>5300.724</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>5707.059</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>6147.003</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>6606.082</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>7072.789</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>7541.079</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>8014.888</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>8492.376</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>57517</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.004830013</laborproductivity>
+                <laborproductivity year="2005">0.020450224</laborproductivity>
+                <laborproductivity year="2010">-0.012461255</laborproductivity>
+                <laborproductivity year="2015">-0.006367478</laborproductivity>
+                <laborproductivity year="2020">0.023362487</laborproductivity>
+                <laborproductivity year="2025">0.021132928</laborproductivity>
+                <laborproductivity year="2030">0.020387027</laborproductivity>
+                <laborproductivity year="2035">0.018128834</laborproductivity>
+                <laborproductivity year="2040">0.014809184</laborproductivity>
+                <laborproductivity year="2045">0.013275295</laborproductivity>
+                <laborproductivity year="2050">0.012072577</laborproductivity>
+                <laborproductivity year="2055">0.012045973</laborproductivity>
+            </GDP>
+        </region>
+        <region name="SD">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>681</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>697</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>775</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>816</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>848.113</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>882.128</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>922.931</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>970.183</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>1022.77</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>1079.112</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>1138.506</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>1200.374</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>1263.216</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>11660</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.003519851</laborproductivity>
+                <laborproductivity year="2005">0.031100255</laborproductivity>
+                <laborproductivity year="2010">0.012899665</laborproductivity>
+                <laborproductivity year="2015">-0.006731498</laborproductivity>
+                <laborproductivity year="2020">0.024019348</laborproductivity>
+                <laborproductivity year="2025">0.022829333</laborproductivity>
+                <laborproductivity year="2030">0.02310871</laborproductivity>
+                <laborproductivity year="2035">0.02130867</laborproductivity>
+                <laborproductivity year="2040">0.018536869</laborproductivity>
+                <laborproductivity year="2045">0.016679361</laborproductivity>
+                <laborproductivity year="2050">0.015174396</laborproductivity>
+                <laborproductivity year="2055">0.014829138</laborproductivity>
+            </GDP>
+        </region>
+        <region name="TN">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>4276</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>4891</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>5991</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>6357</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>6633.378</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>6933.834</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>7295.186</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>7699.46</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>8134.007</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>8587.7</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>9053.366</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>9537.057</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>10036.363</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>89774</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.005570003</laborproductivity>
+                <laborproductivity year="2005">0.02499002</laborproductivity>
+                <laborproductivity year="2010">-0.012239563</laborproductivity>
+                <laborproductivity year="2015">0.001034885</laborproductivity>
+                <laborproductivity year="2020">0.029580066</laborproductivity>
+                <laborproductivity year="2025">0.02593963</laborproductivity>
+                <laborproductivity year="2030">0.023793437</laborproductivity>
+                <laborproductivity year="2035">0.021952703</laborproductivity>
+                <laborproductivity year="2040">0.019218269</laborproductivity>
+                <laborproductivity year="2045">0.017300614</laborproductivity>
+                <laborproductivity year="2050">0.015734811</laborproductivity>
+                <laborproductivity year="2055">0.015339821</laborproductivity>
+            </GDP>
+        </region>
+        <region name="TX">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>12569</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>17045</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>22778</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>25257</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>26888.089</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>28695.23</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>30769.634</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>33033.255</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>35410.51</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>37837.896</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>40287.07</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>42781.101</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>45320.306</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>333618</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.012559914</laborproductivity>
+                <laborproductivity year="2005">0.022569891</laborproductivity>
+                <laborproductivity year="2010">0.006130146</laborproductivity>
+                <laborproductivity year="2015">0.012051264</laborproductivity>
+                <laborproductivity year="2020">0.03709642</laborproductivity>
+                <laborproductivity year="2025">0.029624209</laborproductivity>
+                <laborproductivity year="2030">0.023672357</laborproductivity>
+                <laborproductivity year="2035">0.021580913</laborproductivity>
+                <laborproductivity year="2040">0.018737327</laborproductivity>
+                <laborproductivity year="2045">0.016869434</laborproductivity>
+                <laborproductivity year="2050">0.015344558</laborproductivity>
+                <laborproductivity year="2055">0.014989217</laborproductivity>
+            </GDP>
+        </region>
+        <region name="UT">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>1236</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>1730</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>2458</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>2776</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>3049.015</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>3332.417</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>3644.255</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>3972.163</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>4302.558</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>4633.667</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>4970.763</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>5313.888</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>5657.4</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>27974</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.014590083</laborproductivity>
+                <laborproductivity year="2005">0.028840073</laborproductivity>
+                <laborproductivity year="2010">-0.000780018</laborproductivity>
+                <laborproductivity year="2015">-0.003020516</laborproductivity>
+                <laborproductivity year="2020">0.027575113</laborproductivity>
+                <laborproductivity year="2025">0.026100456</laborproductivity>
+                <laborproductivity year="2030">0.026111605</laborproductivity>
+                <laborproductivity year="2035">0.023683848</laborproductivity>
+                <laborproductivity year="2040">0.020420843</laborproductivity>
+                <laborproductivity year="2045">0.018411403</laborproductivity>
+                <laborproductivity year="2050">0.016745519</laborproductivity>
+                <laborproductivity year="2055">0.016240761</laborproductivity>
+            </GDP>
+        </region>
+        <region name="VA">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>5047</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>6214</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>7577</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>8025</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>8484.474</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>8954.701</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>9489.341</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>10052.028</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>10631.732</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>11220.727</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>11814.718</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>12412</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>13009.06</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>133890</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.007120009</laborproductivity>
+                <laborproductivity year="2005">0.025809929</laborproductivity>
+                <laborproductivity year="2010">-0.001359837</laborproductivity>
+                <laborproductivity year="2015">-0.016447991</laborproductivity>
+                <laborproductivity year="2020">0.016442786</laborproductivity>
+                <laborproductivity year="2025">0.017690473</laborproductivity>
+                <laborproductivity year="2030">0.020387133</laborproductivity>
+                <laborproductivity year="2035">0.018129564</laborproductivity>
+                <laborproductivity year="2040">0.014808726</laborproductivity>
+                <laborproductivity year="2045">0.013275535</laborproductivity>
+                <laborproductivity year="2050">0.01207212</laborproductivity>
+                <laborproductivity year="2055">0.012045978</laborproductivity>
+            </GDP>
+        </region>
+        <region name="VT">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>480</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>565</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>621</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>626</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>632.203</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>639.101</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>648.138</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>658.766</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>671.628</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>687.244</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>705.096</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>724.396</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>745.16</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>9862</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.001240256</laborproductivity>
+                <laborproductivity year="2005">0.021580436</laborproductivity>
+                <laborproductivity year="2010">0.002709829</laborproductivity>
+                <laborproductivity year="2015">-0.009410332</laborproductivity>
+                <laborproductivity year="2020">0.023483063</laborproductivity>
+                <laborproductivity year="2025">0.024515815</laborproductivity>
+                <laborproductivity year="2030">0.026999337</laborproductivity>
+                <laborproductivity year="2035">0.02569427</laborproductivity>
+                <laborproductivity year="2040">0.023267527</laborproductivity>
+                <laborproductivity year="2045">0.021014951</laborproductivity>
+                <laborproductivity year="2050">0.019107165</laborproductivity>
+                <laborproductivity year="2055">0.018373057</laborproductivity>
+            </GDP>
+        </region>
+        <region name="WA">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>3621</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>4901</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>6257</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>6744</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>7166.088</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>7621.172</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>8146.262</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>8717.927</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>9322.631</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>9942.562</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>10560.332</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>11176.276</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>11793.7</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>103048</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.009160156</laborproductivity>
+                <laborproductivity year="2005">0.022660256</laborproductivity>
+                <laborproductivity year="2010">0.002739909</laborproductivity>
+                <laborproductivity year="2015">-0.004191937</laborproductivity>
+                <laborproductivity year="2020">0.025498412</laborproductivity>
+                <laborproductivity year="2025">0.023172925</laborproductivity>
+                <laborproductivity year="2030">0.022321881</laborproductivity>
+                <laborproductivity year="2035">0.020584152</laborproductivity>
+                <laborproductivity year="2040">0.017845676</laborproductivity>
+                <laborproductivity year="2045">0.016048649</laborproductivity>
+                <laborproductivity year="2050">0.014593897</laborproductivity>
+                <laborproductivity year="2055">0.014318606</laborproductivity>
+            </GDP>
+        </region>
+        <region name="WI">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>4579</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>4902</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>5546</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>5691</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>5831.634</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>5975.066</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>6150.027</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>6343.618</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>6549.299</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>6765.286</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>6990.506</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>7224.187</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>7463.291</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>89676</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.002040022</laborproductivity>
+                <laborproductivity year="2005">0.027059982</laborproductivity>
+                <laborproductivity year="2010">-0.004530273</laborproductivity>
+                <laborproductivity year="2015">-0.00363014</laborproductivity>
+                <laborproductivity year="2020">0.025528307</laborproductivity>
+                <laborproductivity year="2025">0.02266821</laborproductivity>
+                <laborproductivity year="2030">0.021273947</laborproductivity>
+                <laborproductivity year="2035">0.019306563</laborproductivity>
+                <laborproductivity year="2040">0.016291757</laborproductivity>
+                <laborproductivity year="2045">0.014627213</laborproductivity>
+                <laborproductivity year="2050">0.013303348</laborproductivity>
+                <laborproductivity year="2055">0.013147261</laborproductivity>
+            </GDP>
+        </region>
+        <region name="WV">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>1842</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>1792</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>1820</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>1854</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>1856.944</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>1863.835</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>1885.764</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>1920.381</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>1966.444</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>2022.804</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>2089.386</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>2164.768</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>2247.781</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>24594</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">0.007670087</laborproductivity>
+                <laborproductivity year="2005">0.027399869</laborproductivity>
+                <laborproductivity year="2010">0.010110163</laborproductivity>
+                <laborproductivity year="2015">-0.009606255</laborproductivity>
+                <laborproductivity year="2020">0.021132555</laborproductivity>
+                <laborproductivity year="2025">0.020032878</laborproductivity>
+                <laborproductivity year="2030">0.020387096</laborproductivity>
+                <laborproductivity year="2035">0.018129526</laborproductivity>
+                <laborproductivity year="2040">0.014808912</laborproductivity>
+                <laborproductivity year="2045">0.013275158</laborproductivity>
+                <laborproductivity year="2050">0.012072472</laborproductivity>
+                <laborproductivity year="2055">0.012045933</laborproductivity>
+            </GDP>
+        </region>
+        <region name="WY">
+            <demographics>
+                <populationMiniCAM year="1975">
+                    <totalPop>382</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="1990">
+                    <totalPop>453</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2005">
+                    <totalPop>514</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2010">
+                    <totalPop>564</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2015">
+                    <totalPop>582.983</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2020">
+                    <totalPop>600.992</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2025">
+                    <totalPop>624.325</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2030">
+                    <totalPop>652.204</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2035">
+                    <totalPop>683.746</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2040">
+                    <totalPop>718.369</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2045">
+                    <totalPop>755.709</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2050">
+                    <totalPop>795.32</totalPop>
+                </populationMiniCAM>
+                <populationMiniCAM year="2055">
+                    <totalPop>836.419</totalPop>
+                </populationMiniCAM>
+            </demographics>
+            <GDP>
+                <baseGDP>10504</baseGDP>
+                <laborforce fillout="1" year="1975">0.5</laborforce>
+                <laborproductivity year="1990">-0.004150193</laborproductivity>
+                <laborproductivity year="2005">0.026960079</laborproductivity>
+                <laborproductivity year="2010">0.023180013</laborproductivity>
+                <laborproductivity year="2015">-0.027405316</laborproductivity>
+                <laborproductivity year="2020">0.010842763</laborproductivity>
+                <laborproductivity year="2025">0.017770972</laborproductivity>
+                <laborproductivity year="2030">0.026112199</laborproductivity>
+                <laborproductivity year="2035">0.023682326</laborproductivity>
+                <laborproductivity year="2040">0.020421216</laborproductivity>
+                <laborproductivity year="2045">0.018411819</laborproductivity>
+                <laborproductivity year="2050">0.016745483</laborproductivity>
+                <laborproductivity year="2055">0.016240844</laborproductivity>
+            </GDP>
+        </region>
+    </world>
+</scenario>
