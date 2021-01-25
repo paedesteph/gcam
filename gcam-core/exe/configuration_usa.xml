@@ -112,7 +112,8 @@
 		<Value name = "ind_urb_proc_sectors_USA">../input/gcam-usa-non-CO2/ind_urb_processing_sectors_USA.xml</Value>
 		<Value name = "ind_urb_proc_emiss_USA">../input/gcam-usa-non-CO2/ind_urb_proc_emissions_USA.xml</Value>
 		<Value name = "elec_emiss_USA">../input/gcam-usa-non-CO2/elc_nonghg_USA.xml</Value>
-		
+
+<Value name = "coal_calibration">../input/policy/reference/coal_calibration_profit-shutdown_full.xml</Value>		
 <Value name = "bio_ceiling_constraint_state">../input/policy/reference/bio_ceiling_constraint_state.xml</Value>
 <Value name = "bio_ceiling_constraint_ROW">../input/policy/reference/bio_ceiling_constraint_ROW.xml</Value>
 <Value name = "bio_ceiling_mkt_global">../input/policy/reference/bio_ceiling_mkt_global.xml</Value>
