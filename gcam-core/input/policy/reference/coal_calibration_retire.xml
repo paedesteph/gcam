@@ -1,0 +1,3955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="AK">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="AL">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="AR">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="AZ">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="CO">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="DE">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="FL">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="GA">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="HI">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="IA">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2001-2005">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2001-2005">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="IL">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2001-2005">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2001-2005">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="IN">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="KS">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="KY">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2001-2005">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2001-2005">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="LA">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="MA">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="MD">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1956-1960">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1956-1960">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="MI">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1956-1960">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire before 1950">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1956-1960">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire before 1950">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="MN">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="MO">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1956-1960">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1956-1960">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="MS">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2001-2005">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2001-2005">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="MT">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="NC">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="ND">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="NE">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="NJ">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1956-1960">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1956-1960">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="NM">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="NV">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="NY">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1956-1960">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1956-1960">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="OH">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire before 1950">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire before 1950">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="OK">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="OR">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="PA">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2001-2005">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2001-2005">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="SC">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="SD">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="TN">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="TX">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="UT">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire before 1950">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire before 1950">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="VA">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1956-1960">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1956-1960">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="WA">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="WI">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1966-1970">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1986-1990">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1996-2000">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="WV">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1951-1955">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1961-1965">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+      <region name="WY">
+         <supplysector name="base load generation">
+            <subsector name="coal">
+               <stub-technology name="coal_base_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2001-2005">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_base_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+         <supplysector name="intermediate generation">
+            <subsector name="coal">
+               <stub-technology name="coal_int_conv pul_slow_retire 1971-1975">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1976-1980">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1981-1985">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 1991-1995">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2001-2005">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2006-2010">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+               <stub-technology name="coal_int_conv pul_slow_retire 2011-2015">
+                  <period year="2010">
+                     <s-curve-shutdown-decider name="s-curve">
+                        <steepness>0.0175</steepness>
+                        <half-life>25</half-life>
+                     </s-curve-shutdown-decider>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+   </world>
+</scenario>

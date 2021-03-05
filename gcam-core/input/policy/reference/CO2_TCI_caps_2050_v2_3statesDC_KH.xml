@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+	<world>
+		<region name="CT">
+			<ghgpolicy name="TCI_CO2_TRN">
+				<market>USA-TCI</market>
+				<constraint year="2025">10.73</constraint>
+				<constraint year="2030">8.81</constraint>
+				<constraint year="2035">8.04</constraint>
+				<constraint year="2040">8.04</constraint>
+				<constraint year="2045">8.04</constraint>
+				<constraint year="2050">8.04</constraint>
+			</ghgpolicy>
+		</region>
+		<region name="DC">
+			<ghgpolicy name="TCI_CO2_TRN">
+				<market>USA-TCI</market>
+			</ghgpolicy>
+		</region>
+		<region name="MA">
+			<ghgpolicy name="TCI_CO2_TRN">
+				<market>USA-TCI</market>
+			</ghgpolicy>
+		</region>
+		<region name="RI">
+			<ghgpolicy name="TCI_CO2_TRN">
+				<market>USA-TCI</market>
+			</ghgpolicy>
+		</region>
+	</world>
+</scenario>

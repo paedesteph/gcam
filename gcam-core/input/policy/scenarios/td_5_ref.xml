@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="AK">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.41724812</income-elasticity>
+                <income-elasticity year="2030">0.363834378</income-elasticity>
+                <income-elasticity year="2035">0.332717899</income-elasticity>
+                <income-elasticity year="2040">0.22324005</income-elasticity>
+                <income-elasticity year="2045">0.205141743</income-elasticity>
+                <income-elasticity year="2050">0.201103818</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="AL">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.377427568</income-elasticity>
+                <income-elasticity year="2030">0.344428491</income-elasticity>
+                <income-elasticity year="2035">0.308566062</income-elasticity>
+                <income-elasticity year="2040">0.257943281</income-elasticity>
+                <income-elasticity year="2045">0.234575783</income-elasticity>
+                <income-elasticity year="2050">0.217830134</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="AR">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.378548891</income-elasticity>
+                <income-elasticity year="2030">0.345918119</income-elasticity>
+                <income-elasticity year="2035">0.310918389</income-elasticity>
+                <income-elasticity year="2040">0.260930372</income-elasticity>
+                <income-elasticity year="2045">0.238376883</income-elasticity>
+                <income-elasticity year="2050">0.222397839</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="AZ">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.376630355</income-elasticity>
+                <income-elasticity year="2030">0.340266709</income-elasticity>
+                <income-elasticity year="2035">0.301911456</income-elasticity>
+                <income-elasticity year="2040">0.249431521</income-elasticity>
+                <income-elasticity year="2045">0.224411323</income-elasticity>
+                <income-elasticity year="2050">0.206126279</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="CA">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.266071884</income-elasticity>
+                <income-elasticity year="2030">0.236157799</income-elasticity>
+                <income-elasticity year="2035">0.205643455</income-elasticity>
+                <income-elasticity year="2040">0.150519816</income-elasticity>
+                <income-elasticity year="2045">0.131734884</income-elasticity>
+                <income-elasticity year="2050">0.120307097</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="CO">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.287666113</income-elasticity>
+                <income-elasticity year="2030">0.25108114</income-elasticity>
+                <income-elasticity year="2035">0.215461445</income-elasticity>
+                <income-elasticity year="2040">0.16114669</income-elasticity>
+                <income-elasticity year="2045">0.138553404</income-elasticity>
+                <income-elasticity year="2050">0.122967628</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="CT">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.235285963</income-elasticity>
+                <income-elasticity year="2030">0.199462591</income-elasticity>
+                <income-elasticity year="2035">0.161412417</income-elasticity>
+                <income-elasticity year="2040">0.1161504</income-elasticity>
+                <income-elasticity year="2045">0.090561883</income-elasticity>
+                <income-elasticity year="2050">0.070837871</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="DC">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.039697909</income-elasticity>
+                <income-elasticity year="2030">0.020843437</income-elasticity>
+                <income-elasticity year="2035">0.001266517</income-elasticity>
+                <income-elasticity year="2040">-0.024069295</income-elasticity>
+                <income-elasticity year="2045">-0.034518161</income-elasticity>
+                <income-elasticity year="2050">-0.041055359</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="DE">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.219794515</income-elasticity>
+                <income-elasticity year="2030">0.192541731</income-elasticity>
+                <income-elasticity year="2035">0.164779614</income-elasticity>
+                <income-elasticity year="2040">0.125434407</income-elasticity>
+                <income-elasticity year="2045">0.110293064</income-elasticity>
+                <income-elasticity year="2050">0.101163742</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="FL">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.397878884</income-elasticity>
+                <income-elasticity year="2030">0.369014299</income-elasticity>
+                <income-elasticity year="2035">0.34004881</income-elasticity>
+                <income-elasticity year="2040">0.279249619</income-elasticity>
+                <income-elasticity year="2045">0.262989073</income-elasticity>
+                <income-elasticity year="2050">0.255892153</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="GA">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.344443063</income-elasticity>
+                <income-elasticity year="2030">0.316870901</income-elasticity>
+                <income-elasticity year="2035">0.288393325</income-elasticity>
+                <income-elasticity year="2040">0.232217086</income-elasticity>
+                <income-elasticity year="2045">0.216365121</income-elasticity>
+                <income-elasticity year="2050">0.209005934</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="HI">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.40037017</income-elasticity>
+                <income-elasticity year="2030">0.366464817</income-elasticity>
+                <income-elasticity year="2035">0.337178524</income-elasticity>
+                <income-elasticity year="2040">0.250383137</income-elasticity>
+                <income-elasticity year="2045">0.231149467</income-elasticity>
+                <income-elasticity year="2050">0.224578335</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="IA">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.269309591</income-elasticity>
+                <income-elasticity year="2030">0.236137781</income-elasticity>
+                <income-elasticity year="2035">0.203226673</income-elasticity>
+                <income-elasticity year="2040">0.16004825</income-elasticity>
+                <income-elasticity year="2045">0.139435766</income-elasticity>
+                <income-elasticity year="2050">0.124485595</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="ID">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.395007335</income-elasticity>
+                <income-elasticity year="2030">0.358780881</income-elasticity>
+                <income-elasticity year="2035">0.320331728</income-elasticity>
+                <income-elasticity year="2040">0.268343371</income-elasticity>
+                <income-elasticity year="2045">0.243232414</income-elasticity>
+                <income-elasticity year="2050">0.224498874</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="IL">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.293902134</income-elasticity>
+                <income-elasticity year="2030">0.264992094</income-elasticity>
+                <income-elasticity year="2035">0.235638647</income-elasticity>
+                <income-elasticity year="2040">0.180081029</income-elasticity>
+                <income-elasticity year="2045">0.162874539</income-elasticity>
+                <income-elasticity year="2050">0.153510571</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="IN">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.331850534</income-elasticity>
+                <income-elasticity year="2030">0.302758215</income-elasticity>
+                <income-elasticity year="2035">0.272419858</income-elasticity>
+                <income-elasticity year="2040">0.220615668</income-elasticity>
+                <income-elasticity year="2045">0.202486378</income-elasticity>
+                <income-elasticity year="2050">0.191870956</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="KS">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.310371458</income-elasticity>
+                <income-elasticity year="2030">0.278179925</income-elasticity>
+                <income-elasticity year="2035">0.245002173</income-elasticity>
+                <income-elasticity year="2040">0.194797288</income-elasticity>
+                <income-elasticity year="2045">0.173736286</income-elasticity>
+                <income-elasticity year="2050">0.159454947</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="KY">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.386587524</income-elasticity>
+                <income-elasticity year="2030">0.354111394</income-elasticity>
+                <income-elasticity year="2035">0.320287715</income-elasticity>
+                <income-elasticity year="2040">0.260808153</income-elasticity>
+                <income-elasticity year="2045">0.238372308</income-elasticity>
+                <income-elasticity year="2050">0.22399837</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="LA">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.412849403</income-elasticity>
+                <income-elasticity year="2030">0.370333372</income-elasticity>
+                <income-elasticity year="2035">0.338369555</income-elasticity>
+                <income-elasticity year="2040">0.271727998</income-elasticity>
+                <income-elasticity year="2045">0.250409426</income-elasticity>
+                <income-elasticity year="2050">0.238193752</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="MA">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.216774385</income-elasticity>
+                <income-elasticity year="2030">0.180094738</income-elasticity>
+                <income-elasticity year="2035">0.143508854</income-elasticity>
+                <income-elasticity year="2040">0.097678073</income-elasticity>
+                <income-elasticity year="2045">0.07329027</income-elasticity>
+                <income-elasticity year="2050">0.0547823</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="MD">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.271757784</income-elasticity>
+                <income-elasticity year="2030">0.243825868</income-elasticity>
+                <income-elasticity year="2035">0.215187204</income-elasticity>
+                <income-elasticity year="2040">0.170067558</income-elasticity>
+                <income-elasticity year="2045">0.154412601</income-elasticity>
+                <income-elasticity year="2050">0.145571955</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="ME">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.380790464</income-elasticity>
+                <income-elasticity year="2030">0.343082736</income-elasticity>
+                <income-elasticity year="2035">0.302401848</income-elasticity>
+                <income-elasticity year="2040">0.246245719</income-elasticity>
+                <income-elasticity year="2045">0.217362981</income-elasticity>
+                <income-elasticity year="2050">0.19560182</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="MI">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.320452675</income-elasticity>
+                <income-elasticity year="2030">0.288770467</income-elasticity>
+                <income-elasticity year="2035">0.25737543</income-elasticity>
+                <income-elasticity year="2040">0.210057511</income-elasticity>
+                <income-elasticity year="2045">0.191533834</income-elasticity>
+                <income-elasticity year="2050">0.179794328</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="MN">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.276338155</income-elasticity>
+                <income-elasticity year="2030">0.24437073</income-elasticity>
+                <income-elasticity year="2035">0.212091833</income-elasticity>
+                <income-elasticity year="2040">0.161331193</income-elasticity>
+                <income-elasticity year="2045">0.141090368</income-elasticity>
+                <income-elasticity year="2050">0.127629396</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="MO">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.337958265</income-elasticity>
+                <income-elasticity year="2030">0.306178171</income-elasticity>
+                <income-elasticity year="2035">0.272017438</income-elasticity>
+                <income-elasticity year="2040">0.223104122</income-elasticity>
+                <income-elasticity year="2045">0.20133184</income-elasticity>
+                <income-elasticity year="2050">0.18617835</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="MS">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.445370745</income-elasticity>
+                <income-elasticity year="2030">0.413611488</income-elasticity>
+                <income-elasticity year="2035">0.379566024</income-elasticity>
+                <income-elasticity year="2040">0.31991172</income-elasticity>
+                <income-elasticity year="2045">0.296908546</income-elasticity>
+                <income-elasticity year="2050">0.282124431</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="MT">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.357031135</income-elasticity>
+                <income-elasticity year="2030">0.321190702</income-elasticity>
+                <income-elasticity year="2035">0.284384682</income-elasticity>
+                <income-elasticity year="2040">0.232401525</income-elasticity>
+                <income-elasticity year="2045">0.208247062</income-elasticity>
+                <income-elasticity year="2050">0.190672517</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="NC">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.331076275</income-elasticity>
+                <income-elasticity year="2030">0.302388261</income-elasticity>
+                <income-elasticity year="2035">0.271883681</income-elasticity>
+                <income-elasticity year="2040">0.225434561</income-elasticity>
+                <income-elasticity year="2045">0.208692278</income-elasticity>
+                <income-elasticity year="2050">0.198919446</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="ND">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.155912539</income-elasticity>
+                <income-elasticity year="2030">0.12223747</income-elasticity>
+                <income-elasticity year="2035">0.094420563</income-elasticity>
+                <income-elasticity year="2040">0.055808086</income-elasticity>
+                <income-elasticity year="2045">0.038914778</income-elasticity>
+                <income-elasticity year="2050">0.027020903</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="NE">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.26816171</income-elasticity>
+                <income-elasticity year="2030">0.23682733</income-elasticity>
+                <income-elasticity year="2035">0.204668738</income-elasticity>
+                <income-elasticity year="2040">0.160234868</income-elasticity>
+                <income-elasticity year="2045">0.139943998</income-elasticity>
+                <income-elasticity year="2050">0.125503013</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="NH">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.278134536</income-elasticity>
+                <income-elasticity year="2030">0.240076922</income-elasticity>
+                <income-elasticity year="2035">0.200827615</income-elasticity>
+                <income-elasticity year="2040">0.1531651</income-elasticity>
+                <income-elasticity year="2045">0.126410939</income-elasticity>
+                <income-elasticity year="2050">0.105729589</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="NJ">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.297052565</income-elasticity>
+                <income-elasticity year="2030">0.263375619</income-elasticity>
+                <income-elasticity year="2035">0.230471082</income-elasticity>
+                <income-elasticity year="2040">0.16928572</income-elasticity>
+                <income-elasticity year="2045">0.148289779</income-elasticity>
+                <income-elasticity year="2050">0.135549976</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="NM">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.346264205</income-elasticity>
+                <income-elasticity year="2030">0.310438297</income-elasticity>
+                <income-elasticity year="2035">0.273041747</income-elasticity>
+                <income-elasticity year="2040">0.222477139</income-elasticity>
+                <income-elasticity year="2045">0.198170178</income-elasticity>
+                <income-elasticity year="2050">0.180282197</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="NV">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.365284436</income-elasticity>
+                <income-elasticity year="2030">0.328076052</income-elasticity>
+                <income-elasticity year="2035">0.290690585</income-elasticity>
+                <income-elasticity year="2040">0.234893302</income-elasticity>
+                <income-elasticity year="2045">0.21050564</income-elasticity>
+                <income-elasticity year="2050">0.193181856</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="NY">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.236177716</income-elasticity>
+                <income-elasticity year="2030">0.203192936</income-elasticity>
+                <income-elasticity year="2035">0.170088677</income-elasticity>
+                <income-elasticity year="2040">0.123702852</income-elasticity>
+                <income-elasticity year="2045">0.102972458</income-elasticity>
+                <income-elasticity year="2050">0.088384029</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="OH">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.30571964</income-elasticity>
+                <income-elasticity year="2030">0.275830024</income-elasticity>
+                <income-elasticity year="2035">0.245686767</income-elasticity>
+                <income-elasticity year="2040">0.19476692</income-elasticity>
+                <income-elasticity year="2045">0.176991757</income-elasticity>
+                <income-elasticity year="2050">0.166440489</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="OK">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.286093078</income-elasticity>
+                <income-elasticity year="2030">0.251988807</income-elasticity>
+                <income-elasticity year="2035">0.21985199</income-elasticity>
+                <income-elasticity year="2040">0.168576737</income-elasticity>
+                <income-elasticity year="2045">0.14829093</income-elasticity>
+                <income-elasticity year="2050">0.134777169</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="OR">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.322058526</income-elasticity>
+                <income-elasticity year="2030">0.290789433</income-elasticity>
+                <income-elasticity year="2035">0.258428813</income-elasticity>
+                <income-elasticity year="2040">0.206682753</income-elasticity>
+                <income-elasticity year="2045">0.186384543</income-elasticity>
+                <income-elasticity year="2050">0.172982179</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="PA">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.284756213</income-elasticity>
+                <income-elasticity year="2030">0.250678756</income-elasticity>
+                <income-elasticity year="2035">0.216587799</income-elasticity>
+                <income-elasticity year="2040">0.167148487</income-elasticity>
+                <income-elasticity year="2045">0.145306906</income-elasticity>
+                <income-elasticity year="2050">0.130239756</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="RI">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.3199587</income-elasticity>
+                <income-elasticity year="2030">0.281332605</income-elasticity>
+                <income-elasticity year="2035">0.240657272</income-elasticity>
+                <income-elasticity year="2040">0.188588098</income-elasticity>
+                <income-elasticity year="2045">0.160560388</income-elasticity>
+                <income-elasticity year="2050">0.139088825</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="SC">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.373013939</income-elasticity>
+                <income-elasticity year="2030">0.34446761</income-elasticity>
+                <income-elasticity year="2035">0.314021819</income-elasticity>
+                <income-elasticity year="2040">0.265413105</income-elasticity>
+                <income-elasticity year="2045">0.248674794</income-elasticity>
+                <income-elasticity year="2050">0.239142142</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="SD">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.303147829</income-elasticity>
+                <income-elasticity year="2030">0.271584246</income-elasticity>
+                <income-elasticity year="2035">0.238613116</income-elasticity>
+                <income-elasticity year="2040">0.190422325</income-elasticity>
+                <income-elasticity year="2045">0.169415147</income-elasticity>
+                <income-elasticity year="2050">0.155050364</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="TN">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.334721247</income-elasticity>
+                <income-elasticity year="2030">0.301481496</income-elasticity>
+                <income-elasticity year="2035">0.267327777</income-elasticity>
+                <income-elasticity year="2040">0.212132635</income-elasticity>
+                <income-elasticity year="2045">0.18998636</income-elasticity>
+                <income-elasticity year="2050">0.175238706</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="TX">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.256768949</income-elasticity>
+                <income-elasticity year="2030">0.224183912</income-elasticity>
+                <income-elasticity year="2035">0.192416032</income-elasticity>
+                <income-elasticity year="2040">0.140733065</income-elasticity>
+                <income-elasticity year="2045">0.120924872</income-elasticity>
+                <income-elasticity year="2050">0.107770897</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="UT">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.347399479</income-elasticity>
+                <income-elasticity year="2030">0.310740084</income-elasticity>
+                <income-elasticity year="2035">0.274364248</income-elasticity>
+                <income-elasticity year="2040">0.215429423</income-elasticity>
+                <income-elasticity year="2045">0.191790354</income-elasticity>
+                <income-elasticity year="2050">0.175713079</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="VA">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.308127182</income-elasticity>
+                <income-elasticity year="2030">0.27970328</income-elasticity>
+                <income-elasticity year="2035">0.251197118</income-elasticity>
+                <income-elasticity year="2040">0.199234129</income-elasticity>
+                <income-elasticity year="2045">0.183421528</income-elasticity>
+                <income-elasticity year="2050">0.175376925</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="VT">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.32564539</income-elasticity>
+                <income-elasticity year="2030">0.287349166</income-elasticity>
+                <income-elasticity year="2035">0.246752696</income-elasticity>
+                <income-elasticity year="2040">0.196541542</income-elasticity>
+                <income-elasticity year="2045">0.168376264</income-elasticity>
+                <income-elasticity year="2050">0.146560797</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="WA">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.292348097</income-elasticity>
+                <income-elasticity year="2030">0.26190078</income-elasticity>
+                <income-elasticity year="2035">0.231016802</income-elasticity>
+                <income-elasticity year="2040">0.172940318</income-elasticity>
+                <income-elasticity year="2045">0.153855417</income-elasticity>
+                <income-elasticity year="2050">0.142375378</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="WI">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.304745174</income-elasticity>
+                <income-elasticity year="2030">0.274480484</income-elasticity>
+                <income-elasticity year="2035">0.243510133</income-elasticity>
+                <income-elasticity year="2040">0.196895702</income-elasticity>
+                <income-elasticity year="2045">0.178732849</income-elasticity>
+                <income-elasticity year="2050">0.167155503</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="WV">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.383477738</income-elasticity>
+                <income-elasticity year="2030">0.355290822</income-elasticity>
+                <income-elasticity year="2035">0.324961389</income-elasticity>
+                <income-elasticity year="2040">0.276121559</income-elasticity>
+                <income-elasticity year="2045">0.259312756</income-elasticity>
+                <income-elasticity year="2050">0.250135022</income-elasticity>
+            </energy-final-demand>
+        </region>
+        <region name="WY">
+            <energy-final-demand name="trn_pass">
+                <income-elasticity year="2025">0.260298449</income-elasticity>
+                <income-elasticity year="2030">0.228505062</income-elasticity>
+                <income-elasticity year="2035">0.1945593</income-elasticity>
+                <income-elasticity year="2040">0.150079224</income-elasticity>
+                <income-elasticity year="2045">0.128126414</income-elasticity>
+                <income-elasticity year="2050">0.111764011</income-elasticity>
+            </energy-final-demand>
+        </region>
+    </world>
+</scenario>
