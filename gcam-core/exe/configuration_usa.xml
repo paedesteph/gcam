@@ -5,13 +5,13 @@
 		<Value name="BatchFileName">batch_ag.xml</Value>
 		<Value name="policy-target-file">../input/policy/forcing_target_4p5.xml</Value>
 		<Value name="GHGInputFileName">../input/magicc/inputs/input_gases.emk</Value>
-		<Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/nonCO2_ref</Value>
+		<Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb</Value>
 		<Value write-output="1" append-scenario-name="0" name="restart">./restart/restart</Value>
 		<Value write-output="0" append-scenario-name="1" name="xmlDebugFileName">debug.xml</Value>
 		<Value write-output="1" append-scenario-name="0" name="climatFileName">gas.emk</Value>
 		<Value write-output="1" append-scenario-name="1" name="costCurvesOutputFileName">cost_curves.xml</Value>
 		<Value write-output="1" append-scenario-name="0" name="batchCSVOutputFile">batch-csv-out.csv</Value>
-		<Value write-output="1" append-scenario-name="1" name="supplyDemandCurves">SDCurves.csv</Value>
+		<Value write-output="0" append-scenario-name="0" name="supplyDemandOutputFileName">SDCurves.csv</Value>
 		<Value write-output="0" append-scenario-name="0" name="flow-graph">gcam-flow-graph.dot</Value>
 		<Value write-output="0" append-scenario-name="0" name="dependencyGraphName">DependencyGraph.dot</Value>
 		<Value write-output="0" append-scenario-name="0" name="landAllocatorGraphName">LandAllocatorGraph.dot</Value>
@@ -108,25 +108,35 @@
 		<Value name = "othertrn_emiss_USA">../input/gcam-usa-non-CO2/othertrn_emissions_USA.xml</Value>
 		<Value name = "refining_emiss_USA">../input/gcam-usa-non-CO2/en_nonghg_emissions_USA.xml</Value>
 		<Value name = "indenergy_emiss_USA">../input/gcam-usa-non-CO2/indenergy_emissions_USA.xml</Value>
-		
 		<Value name = "ind_urb_proc_sectors_USA">../input/gcam-usa-non-CO2/ind_urb_processing_sectors_USA.xml</Value>
 		<Value name = "ind_urb_proc_emiss_USA">../input/gcam-usa-non-CO2/ind_urb_proc_emissions_USA.xml</Value>
 		<Value name = "elec_emiss_USA">../input/gcam-usa-non-CO2/elc_nonghg_USA.xml</Value>
-
-<Value name = "coal_calibration">../input/policy/reference/coal_calibration_profit-shutdown_full.xml</Value>		
-<Value name = "bio_ceiling_constraint_state">../input/policy/reference/bio_ceiling_constraint_state.xml</Value>
-<Value name = "bio_ceiling_constraint_ROW">../input/policy/reference/bio_ceiling_constraint_ROW.xml</Value>
-<Value name = "bio_ceiling_mkt_global">../input/policy/reference/bio_ceiling_mkt_global.xml</Value>
-<Value name = "CAFE">../input/policy/reference/IntensityCap_trn_USA_market.xml</Value>
-<Value name = "NG_Compact_SW06">../input/policy/reference/NG_Compact_SW06.xml</Value>
-<Value name = "NG_Large_SW06">../input/policy/reference/NG_Large_SW06.xml</Value>
-<Value name = "NG_Midsize_SW06">../input/policy/reference/NG_Midsize_SW06.xml</Value>
-<Value name = "NG_SUV_SW06">../input/policy/reference/NG_SUV_SW06.xml</Value>
-<Value name = "CO2_ELEC_global_v3">../input/policy/reference/CO2_ELEC_global_v3.xml</Value>
-<Value name = "CO2_ELEC2_global_v3">../input/policy/reference/CO2_ELEC2_global_v3.xml</Value>
-<Value name = "RGGIwVANJ_Thru2020">../input/policy/reference/RGGIwVANJ_Thru2020.xml</Value>
-<Value name = "RGGIwVANJ_2025-2050">../input/policy/reference/RGGIwVANJ_2025-2050.xml</Value>
-<Value name = "EVTarget_trn_USA">../input/policy/reference/EVTarget_trn_USA.xml</Value>
+		<Value name = "elecS_ghg_emissions_USA">../input/gcam-usa-non-CO2/elecS_ghg_emissions_USA.xml</Value>
+		<Value name = "ghg_emissions_USA">../input/gcam-usa-non-CO2/ghg_emissions_USA.xml</Value>
+		<!--Must update \ to / in any updates-->
+	<Value name="bio_ceiling_constraint_state.xml">../input/policy/reference/bio_ceiling_constraint_state.xml</Value>
+<Value name="bio_ceiling_constraint_ROW.xml">../input/policy/reference/bio_ceiling_constraint_ROW.xml</Value>
+<Value name="bio_ceiling_mkt_global.xml">../input/policy/reference/bio_ceiling_mkt_global.xml</Value>
+<Value name="regional_bio_mkt">../input/policy/reference/regBioStateMkt.xml</Value>
+<Value name="IntensityCap_trn_USA_market.xml">../input/policy/reference/IntensityCap_trn_USA_market.xml</Value>
+<Value name="CO2_ELEC_global_v3.xml">../input/policy/reference/CO2_ELEC_global_v3.xml</Value>
+<Value name="CO2_ELEC2_global_v3.xml">../input/policy/reference/CO2_ELEC2_global_v3.xml</Value>
+<Value name="RGGIwVANJ_Thru2020.xml">../input/policy/reference/RGGIwVANJ_Thru2020.xml</Value>
+<Value name="RGGIwVANJ_2025-30-hold.xml">../input/policy/reference/RGGIwVANJ_2025-30-hold.xml</Value>
+<Value name="EVTarget_trn_USA.xml">../input/policy/reference/EVTarget_trn_USA.xml</Value>
+<Value name="HDV_4p5-12t_retirement.xml">../input/policy/reference/HDV_4p5-12t_retirement.xml</Value>
+<Value name="HDV_gt12t_retirement.xml">../input/policy/reference/HDV_gt12t_retirement.xml</Value>
+<Value name="LD-Car_retirement.xml">../input/policy/reference/LD-Car_retirement.xml</Value>
+<Value name="LD-Truck_retirement.xml">../input/policy/reference/LD-Truck_retirement.xml</Value>
+<Value name="coal_calibration_retire.xml">../input/policy/reference/coal_calibration_retire.xml</Value>
+<Value name="TRN_TCI_CO2_TRN_onroad.xml">../input/policy/reference/TRN_TCI_CO2_TRN_onroad.xml</Value>
+<Value name="CO2_TCI_caps_2050_v2_3statesDC_KH.xml">../input/policy/reference/CO2_TCI_caps_2050_v2_3statesDC_KH.xml</Value>
+<Value name="linked_ghg_policy_TCI_3statesDC_KH.xml">../input/policy/reference/linked_ghg_policy_TCI_3statesDC_KH.xml</Value>
+<Value name="NG_Compact_SW06.xml">../input/policy/reference/NG_Compact_SW06.xml</Value>
+<Value name="NG_Large_SW06.xml">../input/policy/reference/NG_Large_SW06.xml</Value>
+<Value name="NG_Midsize_SW06.xml">../input/policy/reference/NG_Midsize_SW06.xml</Value>
+<Value name="NG_SUV_SW06.xml">../input/policy/reference/NG_SUV_SW06.xml</Value>
+<!--Value name="BEV_SW_update-global.xml">..\input\policy\reference\BEV_SW_update-global.xml</Value-->
 
 	</ScenarioComponents>
 	<Strings>
@@ -134,6 +144,8 @@
 		<Value name="debug-region">OH</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
+		<Value name="AbatedGasForCostCurves">CO2</Value>
+		
 	</Strings>
 	<Bools>
 		<Value name="CalibrationActive">1</Value>
