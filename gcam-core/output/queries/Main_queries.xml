@@ -6106,7 +6106,7 @@
 						<xPath buildList="true" dataName="output" group="false" sumAll="false">*[@type='sector' (:collapse:) and (@name='refining')]//	output-primary[@type='output']/physical-output/node()</xPath>
 						<comments/>
 					</supplyDemandQuery>
-					<supplyDemandQuery title="refined liquids production by subsector">
+					<supplyDemandQuery title="refined_liquids_production_by_subsector">
 						<axis1 name="subsector">subsector</axis1>
 						<axis2 name="Year">physical-output[@vintage]</axis2>
 						<xPath buildList="true" dataName="output" group="false" sumAll="false">*[@type='sector' and (@name='refining')]/*[@type='subsector']//	output-primary[@type='output']/physical-output/node()</xPath>
