@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><scenario>
-    <world>
-        <no-climate-model>
-            <carbon-model-start-year>1705</carbon-model-start-year>
-        </no-climate-model>
-    </world>
-</scenario>
