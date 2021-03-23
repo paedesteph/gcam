@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="AK">
+            <ghgpolicy name="CO2">
+                <market>AK-60by50</market>
+                <constraint year="2030">5.663885641</constraint>
+                <constraint year="2035">4.866185731</constraint>
+                <constraint year="2040">4.06848582</constraint>
+                <constraint year="2045">3.27078591</constraint>
+                <constraint year="2050">2.473085999</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="AL">
+            <ghgpolicy name="CO2">
+                <market>AL-60by50</market>
+                <constraint year="2030">22.03459148</constraint>
+                <constraint year="2035">18.48212383</constraint>
+                <constraint year="2040">14.92965618</constraint>
+                <constraint year="2045">11.37718853</constraint>
+                <constraint year="2050">7.824720886</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="AR">
+            <ghgpolicy name="CO2">
+                <market>AR-60by50</market>
+                <constraint year="2030">11.40093964</constraint>
+                <constraint year="2035">9.352528035</constraint>
+                <constraint year="2040">7.304116429</constraint>
+                <constraint year="2045">5.255704823</constraint>
+                <constraint year="2050">3.207293217</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="AZ">
+            <ghgpolicy name="CO2">
+                <market>AZ-60by50</market>
+                <constraint year="2030">17.63657721</constraint>
+                <constraint year="2035">14.579586</constraint>
+                <constraint year="2040">11.52259479</constraint>
+                <constraint year="2045">8.465603586</constraint>
+                <constraint year="2050">5.408612379</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="CA">
+            <ghgpolicy name="CO2">
+                <market>CA-60by50</market>
+                <constraint year="2030">79.05509462</constraint>
+                <constraint year="2035">64.59480104</constraint>
+                <constraint year="2040">50.13450745</constraint>
+                <constraint year="2045">35.67421387</constraint>
+                <constraint year="2050">21.21392028</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="CO">
+            <ghgpolicy name="CO2">
+                <market>CO-60by50</market>
+                <constraint year="2030">16.79202535</constraint>
+                <constraint year="2035">13.88451729</constraint>
+                <constraint year="2040">10.97700923</constraint>
+                <constraint year="2045">8.069501164</constraint>
+                <constraint year="2050">5.161993102</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="CT">
+            <ghgpolicy name="CO2">
+                <market>CT-60by50</market>
+                <constraint year="2030">5.925542262</constraint>
+                <constraint year="2035">5.000516352</constraint>
+                <constraint year="2040">4.075490442</constraint>
+                <constraint year="2045">3.150464533</constraint>
+                <constraint year="2050">2.225438623</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="DC">
+            <ghgpolicy name="CO2">
+                <market>DC-60by50</market>
+                <constraint year="2030">0.577838678</constraint>
+                <constraint year="2035">0.484721207</constraint>
+                <constraint year="2040">0.391603735</constraint>
+                <constraint year="2045">0.298486264</constraint>
+                <constraint year="2050">0.205368792</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="DE">
+            <ghgpolicy name="CO2">
+                <market>DE-60by50</market>
+                <constraint year="2030">1.692912329</constraint>
+                <constraint year="2035">1.494384602</constraint>
+                <constraint year="2040">1.295856876</constraint>
+                <constraint year="2045">1.097329149</constraint>
+                <constraint year="2050">0.898801423</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="FL">
+            <ghgpolicy name="CO2">
+                <market>FL-60by50</market>
+                <constraint year="2030">43.75869095</constraint>
+                <constraint year="2035">36.40411925</constraint>
+                <constraint year="2040">29.04954755</constraint>
+                <constraint year="2045">21.69497585</constraint>
+                <constraint year="2050">14.34040415</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="GA">
+            <ghgpolicy name="CO2">
+                <market>GA-60by50</market>
+                <constraint year="2030">29.53478284</constraint>
+                <constraint year="2035">24.70879203</constraint>
+                <constraint year="2040">19.88280122</constraint>
+                <constraint year="2045">15.05681041</constraint>
+                <constraint year="2050">10.23081959</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="HI">
+            <ghgpolicy name="CO2">
+                <market>HI-60by50</market>
+                <constraint year="2030">3.773922299</constraint>
+                <constraint year="2035">3.15377614</constraint>
+                <constraint year="2040">2.533629981</constraint>
+                <constraint year="2045">1.913483822</constraint>
+                <constraint year="2050">1.293337663</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="IA">
+            <ghgpolicy name="CO2">
+                <market>IA-60by50</market>
+                <constraint year="2030">10.90790547</constraint>
+                <constraint year="2035">9.187422695</constraint>
+                <constraint year="2040">7.466939921</constraint>
+                <constraint year="2045">5.746457146</constraint>
+                <constraint year="2050">4.025974372</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="ID">
+            <ghgpolicy name="CO2">
+                <market>ID-60by50</market>
+                <constraint year="2030">3.086299943</constraint>
+                <constraint year="2035">2.513540069</constraint>
+                <constraint year="2040">1.940780195</constraint>
+                <constraint year="2045">1.368020322</constraint>
+                <constraint year="2050">0.795260448</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="IL">
+            <ghgpolicy name="CO2">
+                <market>IL-60by50</market>
+                <constraint year="2030">38.97148732</constraint>
+                <constraint year="2035">32.49241122</constraint>
+                <constraint year="2040">26.01333512</constraint>
+                <constraint year="2045">19.53425902</constraint>
+                <constraint year="2050">13.05518292</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="IN">
+            <ghgpolicy name="CO2">
+                <market>IN-60by50</market>
+                <constraint year="2030">33.84305044</constraint>
+                <constraint year="2035">28.55277746</constraint>
+                <constraint year="2040">23.26250447</constraint>
+                <constraint year="2045">17.97223149</constraint>
+                <constraint year="2050">12.68195851</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="KS">
+            <ghgpolicy name="CO2">
+                <market>KS-60by50</market>
+                <constraint year="2030">11.76755937</constraint>
+                <constraint year="2035">9.799488756</constraint>
+                <constraint year="2040">7.831418139</constraint>
+                <constraint year="2045">5.863347522</constraint>
+                <constraint year="2050">3.895276906</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="KY">
+            <ghgpolicy name="CO2">
+                <market>KY-60by50</market>
+                <constraint year="2030">22.00327655</constraint>
+                <constraint year="2035">18.59239527</constraint>
+                <constraint year="2040">15.18151399</constraint>
+                <constraint year="2045">11.77063271</constraint>
+                <constraint year="2050">8.359751429</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="LA">
+            <ghgpolicy name="CO2">
+                <market>LA-60by50</market>
+                <constraint year="2030">36.07220436</constraint>
+                <constraint year="2035">29.6267595</constraint>
+                <constraint year="2040">23.18131463</constraint>
+                <constraint year="2045">16.73586976</constraint>
+                <constraint year="2050">10.29042489</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="MA">
+            <ghgpolicy name="CO2">
+                <market>MA-60by50</market>
+                <constraint year="2030">11.57444196</constraint>
+                <constraint year="2035">9.765756051</constraint>
+                <constraint year="2040">7.957070146</constraint>
+                <constraint year="2045">6.148384242</constraint>
+                <constraint year="2050">4.339698338</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="MD">
+            <ghgpolicy name="CO2">
+                <market>MD-60by50</market>
+                <constraint year="2030">9.913107974</constraint>
+                <constraint year="2035">8.562166986</constraint>
+                <constraint year="2040">7.211225999</constraint>
+                <constraint year="2045">5.860285011</constraint>
+                <constraint year="2050">4.509344024</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="ME">
+            <ghgpolicy name="CO2">
+                <market>ME-60by50</market>
+                <constraint year="2030">3.032224581</constraint>
+                <constraint year="2035">2.550363047</constraint>
+                <constraint year="2040">2.068501513</constraint>
+                <constraint year="2045">1.586639979</constraint>
+                <constraint year="2050">1.104778445</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="MI">
+            <ghgpolicy name="CO2">
+                <market>MI-60by50</market>
+                <constraint year="2030">28.17124338</constraint>
+                <constraint year="2035">23.6396835</constraint>
+                <constraint year="2040">19.10812361</constraint>
+                <constraint year="2045">14.57656373</constraint>
+                <constraint year="2050">10.04500384</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="MN">
+            <ghgpolicy name="CO2">
+                <market>MN-60by50</market>
+                <constraint year="2030">15.53480702</constraint>
+                <constraint year="2035">12.9736425</constraint>
+                <constraint year="2040">10.41247798</constraint>
+                <constraint year="2045">7.85131346</constraint>
+                <constraint year="2050">5.290148939</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="MO">
+            <ghgpolicy name="CO2">
+                <market>MO-60by50</market>
+                <constraint year="2030">22.40584298</constraint>
+                <constraint year="2035">18.81118756</constraint>
+                <constraint year="2040">15.21653214</constraint>
+                <constraint year="2045">11.62187672</constraint>
+                <constraint year="2050">8.027221301</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="MS">
+            <ghgpolicy name="CO2">
+                <market>MS-60by50</market>
+                <constraint year="2030">11.24225749</constraint>
+                <constraint year="2035">9.28369938</constraint>
+                <constraint year="2040">7.325141271</constraint>
+                <constraint year="2045">5.366583162</constraint>
+                <constraint year="2050">3.408025053</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="MT">
+            <ghgpolicy name="CO2">
+                <market>MT-60by50</market>
+                <constraint year="2030">5.649758777</constraint>
+                <constraint year="2035">4.712420367</constraint>
+                <constraint year="2040">3.775081956</constraint>
+                <constraint year="2045">2.837743546</constraint>
+                <constraint year="2050">1.900405135</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="NC">
+            <ghgpolicy name="CO2">
+                <market>NC-60by50</market>
+                <constraint year="2030">23.52187652</constraint>
+                <constraint year="2035">19.74507907</constraint>
+                <constraint year="2040">15.96828161</constraint>
+                <constraint year="2045">12.19148416</constraint>
+                <constraint year="2050">8.4146867</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="ND">
+            <ghgpolicy name="CO2">
+                <market>ND-60by50</market>
+                <constraint year="2030">8.810201173</constraint>
+                <constraint year="2035">7.293627195</constraint>
+                <constraint year="2040">5.777053218</constraint>
+                <constraint year="2045">4.26047924</constraint>
+                <constraint year="2050">2.743905263</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="NE">
+            <ghgpolicy name="CO2">
+                <market>NE-60by50</market>
+                <constraint year="2030">7.436635943</constraint>
+                <constraint year="2035">6.126153015</constraint>
+                <constraint year="2040">4.815670087</constraint>
+                <constraint year="2045">3.505187158</constraint>
+                <constraint year="2050">2.19470423</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="NH">
+            <ghgpolicy name="CO2">
+                <market>NH-60by50</market>
+                <constraint year="2030">2.573288765</constraint>
+                <constraint year="2035">2.199331965</constraint>
+                <constraint year="2040">1.825375166</constraint>
+                <constraint year="2045">1.451418366</constraint>
+                <constraint year="2050">1.077461567</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="NJ">
+            <ghgpolicy name="CO2">
+                <market>NJ-60by50</market>
+                <constraint year="2030">19.80314923</constraint>
+                <constraint year="2035">16.64671746</constraint>
+                <constraint year="2040">13.49028568</constraint>
+                <constraint year="2045">10.3338539</constraint>
+                <constraint year="2050">7.177422122</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="NM">
+            <ghgpolicy name="CO2">
+                <market>NM-60by50</market>
+                <constraint year="2030">8.568469871</constraint>
+                <constraint year="2035">7.232007896</constraint>
+                <constraint year="2040">5.895545922</constraint>
+                <constraint year="2045">4.559083947</constraint>
+                <constraint year="2050">3.222621972</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="NV">
+            <ghgpolicy name="CO2">
+                <market>NV-60by50</market>
+                <constraint year="2030">6.655534823</constraint>
+                <constraint year="2035">5.684007999</constraint>
+                <constraint year="2040">4.712481175</constraint>
+                <constraint year="2045">3.740954351</constraint>
+                <constraint year="2050">2.769427527</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="NY">
+            <ghgpolicy name="CO2">
+                <market>NY-60by50</market>
+                <constraint year="2030">29.83953564</constraint>
+                <constraint year="2035">25.07953877</constraint>
+                <constraint year="2040">20.31954189</constraint>
+                <constraint year="2045">15.55954501</constraint>
+                <constraint year="2050">10.79954813</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="OH">
+            <ghgpolicy name="CO2">
+                <market>OH-60by50</market>
+                <constraint year="2030">39.90314668</constraint>
+                <constraint year="2035">33.64442596</constraint>
+                <constraint year="2040">27.38570524</constraint>
+                <constraint year="2045">21.12698453</constraint>
+                <constraint year="2050">14.86826381</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="OK">
+            <ghgpolicy name="CO2">
+                <market>OK-60by50</market>
+                <constraint year="2030">19.44828884</constraint>
+                <constraint year="2035">16.00543393</constraint>
+                <constraint year="2040">12.56257901</constraint>
+                <constraint year="2045">9.119724104</constraint>
+                <constraint year="2050">5.676869193</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="OR">
+            <ghgpolicy name="CO2">
+                <market>OR-60by50</market>
+                <constraint year="2030">7.648972089</constraint>
+                <constraint year="2035">6.292492573</constraint>
+                <constraint year="2040">4.936013056</constraint>
+                <constraint year="2045">3.579533539</constraint>
+                <constraint year="2050">2.223054022</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="PA">
+            <ghgpolicy name="CO2">
+                <market>PA-60by50</market>
+                <constraint year="2030">43.41759421</constraint>
+                <constraint year="2035">36.32860681</constraint>
+                <constraint year="2040">29.23961941</constraint>
+                <constraint year="2045">22.15063201</constraint>
+                <constraint year="2050">15.06164461</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="RI">
+            <ghgpolicy name="CO2">
+                <market>RI-60by50</market>
+                <constraint year="2030">1.769438761</constraint>
+                <constraint year="2035">1.465667488</constraint>
+                <constraint year="2040">1.161896214</constraint>
+                <constraint year="2045">0.858124941</constraint>
+                <constraint year="2050">0.554353668</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="SC">
+            <ghgpolicy name="CO2">
+                <market>SC-60by50</market>
+                <constraint year="2030">15.78975284</constraint>
+                <constraint year="2035">13.02718371</constraint>
+                <constraint year="2040">10.26461457</constraint>
+                <constraint year="2045">7.502045441</constraint>
+                <constraint year="2050">4.739476308</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="SD">
+            <ghgpolicy name="CO2">
+                <market>SD-60by50</market>
+                <constraint year="2030">1.372278898</constraint>
+                <constraint year="2035">1.171208516</constraint>
+                <constraint year="2040">0.970138134</constraint>
+                <constraint year="2045">0.769067751</constraint>
+                <constraint year="2050">0.567997369</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="TN">
+            <ghgpolicy name="CO2">
+                <market>TN-60by50</market>
+                <constraint year="2030">19.27154142</constraint>
+                <constraint year="2035">16.18637007</constraint>
+                <constraint year="2040">13.10119873</constraint>
+                <constraint year="2045">10.01602738</constraint>
+                <constraint year="2050">6.930856034</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="TX">
+            <ghgpolicy name="CO2">
+                <market>TX-60by50</market>
+                <constraint year="2030">128.6379434</constraint>
+                <constraint year="2035">105.2862499</constraint>
+                <constraint year="2040">81.93455637</constraint>
+                <constraint year="2045">58.58286288</constraint>
+                <constraint year="2050">35.23116938</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="USA">
+            <ghgpolicy name="CO2">
+                <market>USA-60by50</market>
+                <constraint year="2030">6.420052343</constraint>
+                <constraint year="2035">5.169549758</constraint>
+                <constraint year="2040">3.919047172</constraint>
+                <constraint year="2045">2.668544586</constraint>
+                <constraint year="2050">1.418042</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="UT">
+            <ghgpolicy name="CO2">
+                <market>UT-60by50</market>
+                <constraint year="2030">11.54161449</constraint>
+                <constraint year="2035">9.575868659</constraint>
+                <constraint year="2040">7.610122824</constraint>
+                <constraint year="2045">5.644376989</constraint>
+                <constraint year="2050">3.678631154</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="VA">
+            <ghgpolicy name="CO2">
+                <market>VA-60by50</market>
+                <constraint year="2030">16.48587206</constraint>
+                <constraint year="2035">14.08637808</constraint>
+                <constraint year="2040">11.68688411</constraint>
+                <constraint year="2045">9.287390138</constraint>
+                <constraint year="2050">6.887896165</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="VT">
+            <ghgpolicy name="CO2">
+                <market>VT-60by50</market>
+                <constraint year="2030">1.103194629</constraint>
+                <constraint year="2035">0.909746603</constraint>
+                <constraint year="2040">0.716298577</constraint>
+                <constraint year="2045">0.522850552</constraint>
+                <constraint year="2050">0.329402526</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="WA">
+            <ghgpolicy name="CO2">
+                <market>WA-60by50</market>
+                <constraint year="2030">14.95298715</constraint>
+                <constraint year="2035">12.296761</constraint>
+                <constraint year="2040">9.640534849</constraint>
+                <constraint year="2045">6.9843087</constraint>
+                <constraint year="2050">4.328082552</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="WI">
+            <ghgpolicy name="CO2">
+                <market>WI-60by50</market>
+                <constraint year="2030">16.41980893</constraint>
+                <constraint year="2035">13.78706531</constraint>
+                <constraint year="2040">11.15432169</constraint>
+                <constraint year="2045">8.521578073</constraint>
+                <constraint year="2050">5.888834453</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="WV">
+            <ghgpolicy name="CO2">
+                <market>WV-60by50</market>
+                <constraint year="2030">15.09410524</constraint>
+                <constraint year="2035">12.88149392</constraint>
+                <constraint year="2040">10.6688826</constraint>
+                <constraint year="2045">8.456271275</constraint>
+                <constraint year="2050">6.243659953</constraint>
+            </ghgpolicy>
+        </region>
+        <region name="WY">
+            <ghgpolicy name="CO2">
+                <market>WY-60by50</market>
+                <constraint year="2030">10.33192472</constraint>
+                <constraint year="2035">8.619371483</constraint>
+                <constraint year="2040">6.906818246</constraint>
+                <constraint year="2045">5.194265008</constraint>
+                <constraint year="2050">3.481711771</constraint>
+            </ghgpolicy>
+        </region>
+    </world>
+</scenario>

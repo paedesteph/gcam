@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="AK">
+            <ghgpolicy name="CO2">
+                <market>AK-60by50</market>
+                <fixedTax year="2030">178.241</fixedTax>
+                <fixedTax year="2035">439.28</fixedTax>
+                <fixedTax year="2040">911.77</fixedTax>
+                <fixedTax year="2045">1688.77</fixedTax>
+                <fixedTax year="2050">2182.8</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="AL">
+            <ghgpolicy name="CO2">
+                <market>AL-60by50</market>
+                <fixedTax year="2030">772.204</fixedTax>
+                <fixedTax year="2035">1149.83</fixedTax>
+                <fixedTax year="2040">1435.74</fixedTax>
+                <fixedTax year="2045">1492.41</fixedTax>
+                <fixedTax year="2050">1558.1</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="AR">
+            <ghgpolicy name="CO2">
+                <market>AR-60by50</market>
+                <fixedTax year="2030">764.609</fixedTax>
+                <fixedTax year="2035">1141.74</fixedTax>
+                <fixedTax year="2040">1486.77</fixedTax>
+                <fixedTax year="2045">1610.59</fixedTax>
+                <fixedTax year="2050">1671.68</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="AZ">
+            <ghgpolicy name="CO2">
+                <market>AZ-60by50</market>
+                <fixedTax year="2030">572.683</fixedTax>
+                <fixedTax year="2035">1048.39</fixedTax>
+                <fixedTax year="2040">1468.37</fixedTax>
+                <fixedTax year="2045">1717.27</fixedTax>
+                <fixedTax year="2050">1831.47</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="CA">
+            <ghgpolicy name="CO2">
+                <market>CA-60by50</market>
+                <fixedTax year="2030">1035.62</fixedTax>
+                <fixedTax year="2035">1372.82</fixedTax>
+                <fixedTax year="2040">1750.03</fixedTax>
+                <fixedTax year="2045">1891.48</fixedTax>
+                <fixedTax year="2050">1961.16</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="CO">
+            <ghgpolicy name="CO2">
+                <market>CO-60by50</market>
+                <fixedTax year="2030">648.101</fixedTax>
+                <fixedTax year="2035">1113.67</fixedTax>
+                <fixedTax year="2040">1493.32</fixedTax>
+                <fixedTax year="2045">1642.97</fixedTax>
+                <fixedTax year="2050">1709.58</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="CT">
+            <ghgpolicy name="CO2">
+                <market>CT-60by50</market>
+                <fixedTax year="2030">544.801</fixedTax>
+                <fixedTax year="2035">1015.72</fixedTax>
+                <fixedTax year="2040">1466.92</fixedTax>
+                <fixedTax year="2045">1841.19</fixedTax>
+                <fixedTax year="2050">1971.66</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="DC">
+            <ghgpolicy name="CO2">
+                <market>DC-60by50</market>
+                <fixedTax year="2030">943.764</fixedTax>
+                <fixedTax year="2035">1092.86</fixedTax>
+                <fixedTax year="2040">1224.57</fixedTax>
+                <fixedTax year="2045">1662.57</fixedTax>
+                <fixedTax year="2050">1996.21</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="DE">
+            <ghgpolicy name="CO2">
+                <market>DE-60by50</market>
+                <fixedTax year="2030">1037.11</fixedTax>
+                <fixedTax year="2035">1342.26</fixedTax>
+                <fixedTax year="2040">1353.48</fixedTax>
+                <fixedTax year="2045">1304.94</fixedTax>
+                <fixedTax year="2050">1242.76</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="FL">
+            <ghgpolicy name="CO2">
+                <market>FL-60by50</market>
+                <fixedTax year="2030">853.546</fixedTax>
+                <fixedTax year="2035">1374.81</fixedTax>
+                <fixedTax year="2040">1738.37</fixedTax>
+                <fixedTax year="2045">1928.94</fixedTax>
+                <fixedTax year="2050">2033.84</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="GA">
+            <ghgpolicy name="CO2">
+                <market>GA-60by50</market>
+                <fixedTax year="2030">882.823</fixedTax>
+                <fixedTax year="2035">1247.81</fixedTax>
+                <fixedTax year="2040">1576</fixedTax>
+                <fixedTax year="2045">1668.81</fixedTax>
+                <fixedTax year="2050">1742.43</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="HI">
+            <ghgpolicy name="CO2">
+                <market>HI-60by50</market>
+                <fixedTax year="2030">809.215</fixedTax>
+                <fixedTax year="2035">1098.34</fixedTax>
+                <fixedTax year="2040">1572.17</fixedTax>
+                <fixedTax year="2045">1808.73</fixedTax>
+                <fixedTax year="2050">1907.07</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="IA">
+            <ghgpolicy name="CO2">
+                <market>IA-60by50</market>
+                <fixedTax year="2030">335.817</fixedTax>
+                <fixedTax year="2035">725.416</fixedTax>
+                <fixedTax year="2040">1165.5</fixedTax>
+                <fixedTax year="2045">1323.09</fixedTax>
+                <fixedTax year="2050">1388.74</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="ID">
+            <ghgpolicy name="CO2">
+                <market>ID-60by50</market>
+                <fixedTax year="2030">788.946</fixedTax>
+                <fixedTax year="2035">1091.75</fixedTax>
+                <fixedTax year="2040">1442.18</fixedTax>
+                <fixedTax year="2045">1558.1</fixedTax>
+                <fixedTax year="2050">1633.59</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="IL">
+            <ghgpolicy name="CO2">
+                <market>IL-60by50</market>
+                <fixedTax year="2030">484.199</fixedTax>
+                <fixedTax year="2035">851.958</fixedTax>
+                <fixedTax year="2040">1260.55</fixedTax>
+                <fixedTax year="2045">1457.38</fixedTax>
+                <fixedTax year="2050">1538.27</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="IN">
+            <ghgpolicy name="CO2">
+                <market>IN-60by50</market>
+                <fixedTax year="2030">382.899</fixedTax>
+                <fixedTax year="2035">722.719</fixedTax>
+                <fixedTax year="2040">1185.68</fixedTax>
+                <fixedTax year="2045">1444.94</fixedTax>
+                <fixedTax year="2050">1526.11</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="KS">
+            <ghgpolicy name="CO2">
+                <market>KS-60by50</market>
+                <fixedTax year="2030">453.926</fixedTax>
+                <fixedTax year="2035">917.641</fixedTax>
+                <fixedTax year="2040">1359.55</fixedTax>
+                <fixedTax year="2045">1516.08</fixedTax>
+                <fixedTax year="2050">1585.47</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="KY">
+            <ghgpolicy name="CO2">
+                <market>KY-60by50</market>
+                <fixedTax year="2030">397.318</fixedTax>
+                <fixedTax year="2035">754.23</fixedTax>
+                <fixedTax year="2040">1195.67</fixedTax>
+                <fixedTax year="2045">1516.97</fixedTax>
+                <fixedTax year="2050">1663.79</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="LA">
+            <ghgpolicy name="CO2">
+                <market>LA-60by50</market>
+                <fixedTax year="2030">1164.38</fixedTax>
+                <fixedTax year="2035">1680.53</fixedTax>
+                <fixedTax year="2040">2097.9</fixedTax>
+                <fixedTax year="2045">2233.92</fixedTax>
+                <fixedTax year="2050">2305.33</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MA">
+            <ghgpolicy name="CO2">
+                <market>MA-60by50</market>
+                <fixedTax year="2030">719.324</fixedTax>
+                <fixedTax year="2035">1157.93</fixedTax>
+                <fixedTax year="2040">1525.94</fixedTax>
+                <fixedTax year="2045">1811.56</fixedTax>
+                <fixedTax year="2050">2017.84</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MD">
+            <ghgpolicy name="CO2">
+                <market>MD-60by50</market>
+                <fixedTax year="2030">1220.67</fixedTax>
+                <fixedTax year="2035">1606.43</fixedTax>
+                <fixedTax year="2040">1620.1</fixedTax>
+                <fixedTax year="2045">1677.37</fixedTax>
+                <fixedTax year="2050">1721.53</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="ME">
+            <ghgpolicy name="CO2">
+                <market>ME-60by50</market>
+                <fixedTax year="2030">1027.04</fixedTax>
+                <fixedTax year="2035">1361.41</fixedTax>
+                <fixedTax year="2040">1707.88</fixedTax>
+                <fixedTax year="2045">1864.35</fixedTax>
+                <fixedTax year="2050">1830.46</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MI">
+            <ghgpolicy name="CO2">
+                <market>MI-60by50</market>
+                <fixedTax year="2030">450.495</fixedTax>
+                <fixedTax year="2035">792.17</fixedTax>
+                <fixedTax year="2040">1172.16</fixedTax>
+                <fixedTax year="2045">1397.18</fixedTax>
+                <fixedTax year="2050">1496.07</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MN">
+            <ghgpolicy name="CO2">
+                <market>MN-60by50</market>
+                <fixedTax year="2030">453.837</fixedTax>
+                <fixedTax year="2035">862.133</fixedTax>
+                <fixedTax year="2040">1272.07</fixedTax>
+                <fixedTax year="2045">1420.65</fixedTax>
+                <fixedTax year="2050">1483.65</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MO">
+            <ghgpolicy name="CO2">
+                <market>MO-60by50</market>
+                <fixedTax year="2030">465.383</fixedTax>
+                <fixedTax year="2035">857.103</fixedTax>
+                <fixedTax year="2040">1342.04</fixedTax>
+                <fixedTax year="2045">1550.79</fixedTax>
+                <fixedTax year="2050">1631.96</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MS">
+            <ghgpolicy name="CO2">
+                <market>MS-60by50</market>
+                <fixedTax year="2030">824.975</fixedTax>
+                <fixedTax year="2035">1162.49</fixedTax>
+                <fixedTax year="2040">1510.38</fixedTax>
+                <fixedTax year="2045">1630.79</fixedTax>
+                <fixedTax year="2050">1694.3</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MT">
+            <ghgpolicy name="CO2">
+                <market>MT-60by50</market>
+                <fixedTax year="2030">678.186</fixedTax>
+                <fixedTax year="2035">1256.11</fixedTax>
+                <fixedTax year="2040">1683.39</fixedTax>
+                <fixedTax year="2045">1954.46</fixedTax>
+                <fixedTax year="2050">2140.59</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NC">
+            <ghgpolicy name="CO2">
+                <market>NC-60by50</market>
+                <fixedTax year="2030">935.048</fixedTax>
+                <fixedTax year="2035">1325.69</fixedTax>
+                <fixedTax year="2040">1627.55</fixedTax>
+                <fixedTax year="2045">1723.76</fixedTax>
+                <fixedTax year="2050">1794.32</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="ND">
+            <ghgpolicy name="CO2">
+                <market>ND-60by50</market>
+                <fixedTax year="2030">379.861</fixedTax>
+                <fixedTax year="2035">762.159</fixedTax>
+                <fixedTax year="2040">1274.55</fixedTax>
+                <fixedTax year="2045">1481.14</fixedTax>
+                <fixedTax year="2050">1562.31</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NE">
+            <ghgpolicy name="CO2">
+                <market>NE-60by50</market>
+                <fixedTax year="2030">353.204</fixedTax>
+                <fixedTax year="2035">721.955</fixedTax>
+                <fixedTax year="2040">1168.9</fixedTax>
+                <fixedTax year="2045">1336.64</fixedTax>
+                <fixedTax year="2050">1411.5</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NH">
+            <ghgpolicy name="CO2">
+                <market>NH-60by50</market>
+                <fixedTax year="2030">835.765</fixedTax>
+                <fixedTax year="2035">1221.02</fixedTax>
+                <fixedTax year="2040">1412.54</fixedTax>
+                <fixedTax year="2045">1506.89</fixedTax>
+                <fixedTax year="2050">1504.73</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NJ">
+            <ghgpolicy name="CO2">
+                <market>NJ-60by50</market>
+                <fixedTax year="2030">1265.76</fixedTax>
+                <fixedTax year="2035">1781.5</fixedTax>
+                <fixedTax year="2040">1924.74</fixedTax>
+                <fixedTax year="2045">2194.84</fixedTax>
+                <fixedTax year="2050">2355.59</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NM">
+            <ghgpolicy name="CO2">
+                <market>NM-60by50</market>
+                <fixedTax year="2030">520.547</fixedTax>
+                <fixedTax year="2035">994.379</fixedTax>
+                <fixedTax year="2040">1416.93</fixedTax>
+                <fixedTax year="2045">1650.38</fixedTax>
+                <fixedTax year="2050">1731.09</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NV">
+            <ghgpolicy name="CO2">
+                <market>NV-60by50</market>
+                <fixedTax year="2030">830.58</fixedTax>
+                <fixedTax year="2035">1235.54</fixedTax>
+                <fixedTax year="2040">1560.67</fixedTax>
+                <fixedTax year="2045">1758.83</fixedTax>
+                <fixedTax year="2050">1884.4</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NY">
+            <ghgpolicy name="CO2">
+                <market>NY-60by50</market>
+                <fixedTax year="2030">793.49</fixedTax>
+                <fixedTax year="2035">1090.62</fixedTax>
+                <fixedTax year="2040">1445.05</fixedTax>
+                <fixedTax year="2045">1606.9</fixedTax>
+                <fixedTax year="2050">1687.45</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="OH">
+            <ghgpolicy name="CO2">
+                <market>OH-60by50</market>
+                <fixedTax year="2030">452.555</fixedTax>
+                <fixedTax year="2035">813.103</fixedTax>
+                <fixedTax year="2040">1275.71</fixedTax>
+                <fixedTax year="2045">1490.58</fixedTax>
+                <fixedTax year="2050">1576.21</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="OK">
+            <ghgpolicy name="CO2">
+                <market>OK-60by50</market>
+                <fixedTax year="2030">749.188</fixedTax>
+                <fixedTax year="2035">1178.29</fixedTax>
+                <fixedTax year="2040">1570.79</fixedTax>
+                <fixedTax year="2045">1696.86</fixedTax>
+                <fixedTax year="2050">1768.94</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="OR">
+            <ghgpolicy name="CO2">
+                <market>OR-60by50</market>
+                <fixedTax year="2030">898.473</fixedTax>
+                <fixedTax year="2035">1234.85</fixedTax>
+                <fixedTax year="2040">1589.02</fixedTax>
+                <fixedTax year="2045">1712.25</fixedTax>
+                <fixedTax year="2050">1761.6</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="PA">
+            <ghgpolicy name="CO2">
+                <market>PA-60by50</market>
+                <fixedTax year="2030">821.551</fixedTax>
+                <fixedTax year="2035">1223.32</fixedTax>
+                <fixedTax year="2040">1375.73</fixedTax>
+                <fixedTax year="2045">1466.83</fixedTax>
+                <fixedTax year="2050">1578.16</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="RI">
+            <ghgpolicy name="CO2">
+                <market>RI-60by50</market>
+                <fixedTax year="2030">771.584</fixedTax>
+                <fixedTax year="2035">1154.88</fixedTax>
+                <fixedTax year="2040">1589.63</fixedTax>
+                <fixedTax year="2045">1798.56</fixedTax>
+                <fixedTax year="2050">1848.66</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="SC">
+            <ghgpolicy name="CO2">
+                <market>SC-60by50</market>
+                <fixedTax year="2030">1121.9</fixedTax>
+                <fixedTax year="2035">1639.49</fixedTax>
+                <fixedTax year="2040">2001.39</fixedTax>
+                <fixedTax year="2045">2182.3</fixedTax>
+                <fixedTax year="2050">2457.68</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="SD">
+            <ghgpolicy name="CO2">
+                <market>SD-60by50</market>
+                <fixedTax year="2030">264.594</fixedTax>
+                <fixedTax year="2035">700.512</fixedTax>
+                <fixedTax year="2040">1150.14</fixedTax>
+                <fixedTax year="2045">1297.23</fixedTax>
+                <fixedTax year="2050">1359.5</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="TN">
+            <ghgpolicy name="CO2">
+                <market>TN-60by50</market>
+                <fixedTax year="2030">835.16</fixedTax>
+                <fixedTax year="2035">1184.19</fixedTax>
+                <fixedTax year="2040">1462.28</fixedTax>
+                <fixedTax year="2045">1544.77</fixedTax>
+                <fixedTax year="2050">1616.05</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="TX">
+            <ghgpolicy name="CO2">
+                <market>TX-60by50</market>
+                <fixedTax year="2030">916.493</fixedTax>
+                <fixedTax year="2035">1291.66</fixedTax>
+                <fixedTax year="2040">1673.28</fixedTax>
+                <fixedTax year="2045">1810.22</fixedTax>
+                <fixedTax year="2050">1874.13</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="USA">
+            <ghgpolicy name="CO2">
+                <market>USA-60by50</market>
+                <fixedTax year="2030">699.854</fixedTax>
+                <fixedTax year="2035">1778.99</fixedTax>
+                <fixedTax year="2040">2755.59</fixedTax>
+                <fixedTax year="2045">3072.57</fixedTax>
+                <fixedTax year="2050">3207.11</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="UT">
+            <ghgpolicy name="CO2">
+                <market>UT-60by50</market>
+                <fixedTax year="2030">730.294</fixedTax>
+                <fixedTax year="2035">1243.3</fixedTax>
+                <fixedTax year="2040">1635.47</fixedTax>
+                <fixedTax year="2045">1808.25</fixedTax>
+                <fixedTax year="2050">1887.05</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="VA">
+            <ghgpolicy name="CO2">
+                <market>VA-60by50</market>
+                <fixedTax year="2030">998.742</fixedTax>
+                <fixedTax year="2035">1326.13</fixedTax>
+                <fixedTax year="2040">1596.08</fixedTax>
+                <fixedTax year="2045">1664.93</fixedTax>
+                <fixedTax year="2050">1682.33</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="VT">
+            <ghgpolicy name="CO2">
+                <market>VT-60by50</market>
+                <fixedTax year="2030">1922.14</fixedTax>
+                <fixedTax year="2035">2211.5</fixedTax>
+                <fixedTax year="2040">2003.37</fixedTax>
+                <fixedTax year="2045">2327.47</fixedTax>
+                <fixedTax year="2050">2489.68</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="WA">
+            <ghgpolicy name="CO2">
+                <market>WA-60by50</market>
+                <fixedTax year="2030">812.763</fixedTax>
+                <fixedTax year="2035">1132.32</fixedTax>
+                <fixedTax year="2040">1481.62</fixedTax>
+                <fixedTax year="2045">1594.4</fixedTax>
+                <fixedTax year="2050">1676.76</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="WI">
+            <ghgpolicy name="CO2">
+                <market>WI-60by50</market>
+                <fixedTax year="2030">450.411</fixedTax>
+                <fixedTax year="2035">819.839</fixedTax>
+                <fixedTax year="2040">1254.18</fixedTax>
+                <fixedTax year="2045">1437.31</fixedTax>
+                <fixedTax year="2050">1507.56</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="WV">
+            <ghgpolicy name="CO2">
+                <market>WV-60by50</market>
+                <fixedTax year="2030">278.871</fixedTax>
+                <fixedTax year="2035">478.745</fixedTax>
+                <fixedTax year="2040">736.102</fixedTax>
+                <fixedTax year="2045">957.462</fixedTax>
+                <fixedTax year="2050">1117.03</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="WY">
+            <ghgpolicy name="CO2">
+                <market>WY-60by50</market>
+                <fixedTax year="2030">353.572</fixedTax>
+                <fixedTax year="2035">651.293</fixedTax>
+                <fixedTax year="2040">1085.08</fixedTax>
+                <fixedTax year="2045">1419.96</fixedTax>
+                <fixedTax year="2050">1654.15</fixedTax>
+            </ghgpolicy>
+        </region>
+    </world>
+</scenario>
