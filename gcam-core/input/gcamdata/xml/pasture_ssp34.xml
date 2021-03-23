@@ -1,0 +1,2374 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="Africa_Eastern">
+            <LandAllocatorRoot name="root">
+                <LandNode name="AgroForestLand_NileR">
+                    <LandNode name="AllPastureLand_NileR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_NileR">
+                            <land-use-history>
+                                <allocation year="1700">456.4157217</allocation>
+                                <allocation year="1750">450.7733865</allocation>
+                                <allocation year="1800">444.16630905</allocation>
+                                <allocation year="1850">456.6516738</allocation>
+                                <allocation year="1900">482.2267494</allocation>
+                                <allocation year="1950">642.028177125</allocation>
+                                <allocation year="1975">744.1735602</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">744.1735602</landAllocation>
+                            <landAllocation year="1990">810.06573915</landAllocation>
+                            <landAllocation year="2005">786.53517285</landAllocation>
+                            <landAllocation year="2010">787.756645575</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_NileR">
+                            <land-use-history>
+                                <allocation year="1975">302.1219348</allocation>
+                                <allocation year="1700">185.0173483</allocation>
+                                <allocation year="1750">182.7301135</allocation>
+                                <allocation year="1800">180.05180095</allocation>
+                                <allocation year="1850">185.1129962</allocation>
+                                <allocation year="1900">195.4803706</allocation>
+                                <allocation year="1950">260.259112875</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">302.1219348</landAllocation>
+                            <landAllocation year="1990">338.97853085</landAllocation>
+                            <landAllocation year="2005">365.41450715</landAllocation>
+                            <landAllocation year="2010">371.450524425</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AfrCstNE">
+                    <LandNode name="AllPastureLand_AfrCstNE">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AfrCstNE">
+                            <land-use-history>
+                                <allocation year="1700">77.74315785</allocation>
+                                <allocation year="1750">81.0746643</allocation>
+                                <allocation year="1800">84.6841971</allocation>
+                                <allocation year="1850">96.604422525</allocation>
+                                <allocation year="1900">119.791835475</allocation>
+                                <allocation year="1950">208.38942135</allocation>
+                                <allocation year="1975">258.5851914</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">258.5851914</landAllocation>
+                            <landAllocation year="1990">258.557149125</landAllocation>
+                            <landAllocation year="2005">228.34364055</landAllocation>
+                            <landAllocation year="2010">227.450310825</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AfrCstNE">
+                            <land-use-history>
+                                <allocation year="1975">104.9812336</allocation>
+                                <allocation year="1700">31.51476215</allocation>
+                                <allocation year="1750">32.8652557</allocation>
+                                <allocation year="1800">34.3284529</allocation>
+                                <allocation year="1850">39.160557475</allocation>
+                                <allocation year="1900">48.560044525</allocation>
+                                <allocation year="1950">84.47486865</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">104.9812336</landAllocation>
+                            <landAllocation year="1990">108.195320875</landAllocation>
+                            <landAllocation year="2005">106.08562945</landAllocation>
+                            <landAllocation year="2010">107.249539175</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AfrIntN">
+                    <LandNode name="AllPastureLand_AfrIntN">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AfrIntN">
+                            <land-use-history>
+                                <allocation year="1700">18.992916825</allocation>
+                                <allocation year="1750">18.681717675</allocation>
+                                <allocation year="1800">18.328494075</allocation>
+                                <allocation year="1850">18.001633575</allocation>
+                                <allocation year="1900">17.931032925</allocation>
+                                <allocation year="1950">23.509527375</allocation>
+                                <allocation year="1975">27.364164825</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">27.364164825</landAllocation>
+                            <landAllocation year="1990">30.454541775</landAllocation>
+                            <landAllocation year="2005">31.2085527</landAllocation>
+                            <landAllocation year="2010">31.30368705</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AfrIntN">
+                            <land-use-history>
+                                <allocation year="1975">11.109390175</allocation>
+                                <allocation year="1700">7.699163175</allocation>
+                                <allocation year="1750">7.573012325</allocation>
+                                <allocation year="1800">7.429825925</allocation>
+                                <allocation year="1850">7.297326425</allocation>
+                                <allocation year="1900">7.268707075</allocation>
+                                <allocation year="1950">9.530062625</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">11.109390175</landAllocation>
+                            <landAllocation year="1990">12.743948225</landAllocation>
+                            <landAllocation year="2005">14.4991073</landAllocation>
+                            <landAllocation year="2010">14.76061295</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_LChad">
+                    <LandNode name="AllPastureLand_LChad">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_LChad">
+                            <land-use-history>
+                                <allocation year="1700">29.491161075</allocation>
+                                <allocation year="1750">28.990026225</allocation>
+                                <allocation year="1800">28.42247475</allocation>
+                                <allocation year="1850">27.89758815</allocation>
+                                <allocation year="1900">27.771948675</allocation>
+                                <allocation year="1950">36.3925809</allocation>
+                                <allocation year="1975">42.3418122</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">42.3418122</landAllocation>
+                            <landAllocation year="1990">47.084818575</landAllocation>
+                            <landAllocation year="2005">48.22203795</landAllocation>
+                            <landAllocation year="2010">48.36038175</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_LChad">
+                            <land-use-history>
+                                <allocation year="1975">17.1900628</allocation>
+                                <allocation year="1700">11.954838925</allocation>
+                                <allocation year="1750">11.751693775</allocation>
+                                <allocation year="1800">11.52162525</allocation>
+                                <allocation year="1850">11.30885185</allocation>
+                                <allocation year="1900">11.257921325</allocation>
+                                <allocation year="1950">14.7524691</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">17.1900628</landAllocation>
+                            <landAllocation year="1990">19.703021425</landAllocation>
+                            <landAllocation year="2005">22.40336205</landAllocation>
+                            <landAllocation year="2010">22.80334825</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_ShebJubR">
+                    <LandNode name="AllPastureLand_ShebJubR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_ShebJubR">
+                            <land-use-history>
+                                <allocation year="1700">102.412756725</allocation>
+                                <allocation year="1750">106.77921465</allocation>
+                                <allocation year="1800">110.383055025</allocation>
+                                <allocation year="1850">141.3768522</allocation>
+                                <allocation year="1900">187.135434825</allocation>
+                                <allocation year="1950">243.97849155</allocation>
+                                <allocation year="1975">278.7796296</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">278.7796296</landAllocation>
+                            <landAllocation year="1990">275.117469675</landAllocation>
+                            <landAllocation year="2005">231.209013675</landAllocation>
+                            <landAllocation year="2010">230.136998325</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_ShebJubR">
+                            <land-use-history>
+                                <allocation year="1975">113.1798354</allocation>
+                                <allocation year="1700">41.515083275</allocation>
+                                <allocation year="1750">43.28511535</allocation>
+                                <allocation year="1800">44.746004975</allocation>
+                                <allocation year="1850">57.3099678</allocation>
+                                <allocation year="1900">75.859135175</allocation>
+                                <allocation year="1950">98.90161845</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">113.1798354</landAllocation>
+                            <landAllocation year="1990">115.125120325</landAllocation>
+                            <landAllocation year="2005">107.416846325</landAllocation>
+                            <landAllocation year="2010">108.516391675</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AfrCstE">
+                    <LandNode name="AllPastureLand_AfrCstE">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AfrCstE">
+                            <land-use-history>
+                                <allocation year="1700">35.8840032</allocation>
+                                <allocation year="1750">37.0253181</allocation>
+                                <allocation year="1800">37.93411065</allocation>
+                                <allocation year="1850">39.644798625</allocation>
+                                <allocation year="1900">42.90692835</allocation>
+                                <allocation year="1950">52.0305171</allocation>
+                                <allocation year="1975">54.12888795</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">54.12888795</landAllocation>
+                            <landAllocation year="1990">53.6481639</landAllocation>
+                            <landAllocation year="2005">51.9545289</landAllocation>
+                            <landAllocation year="2010">51.712689525</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AfrCstE">
+                            <land-use-history>
+                                <allocation year="1975">21.97541705</allocation>
+                                <allocation year="1700">14.5463068</allocation>
+                                <allocation year="1750">15.0089619</allocation>
+                                <allocation year="1800">15.37735935</allocation>
+                                <allocation year="1850">16.070821375</allocation>
+                                <allocation year="1900">17.39319165</allocation>
+                                <allocation year="1950">21.0916229</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">21.97541705</landAllocation>
+                            <landAllocation year="1990">22.4495061</landAllocation>
+                            <landAllocation year="2005">24.1374311</landAllocation>
+                            <landAllocation year="2010">24.384060475</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_Madagascar">
+                    <LandNode name="AllPastureLand_Madagascar">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_Madagascar">
+                            <land-use-history>
+                                <allocation year="1700">60.0081444</allocation>
+                                <allocation year="1750">62.59125735</allocation>
+                                <allocation year="1800">66.021108</allocation>
+                                <allocation year="1850">71.8903941</allocation>
+                                <allocation year="1900">84.93621615</allocation>
+                                <allocation year="1950">181.000901925</allocation>
+                                <allocation year="1975">234.022294125</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">234.022294125</landAllocation>
+                            <landAllocation year="1990">231.973691175</landAllocation>
+                            <landAllocation year="2005">253.881880425</landAllocation>
+                            <landAllocation year="2010">252.701982</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_Madagascar">
+                            <land-use-history>
+                                <allocation year="1975">95.009110875</allocation>
+                                <allocation year="1700">24.3255156</allocation>
+                                <allocation year="1750">25.37263265</allocation>
+                                <allocation year="1800">26.762992</allocation>
+                                <allocation year="1850">29.1422259</allocation>
+                                <allocation year="1900">34.43061385</allocation>
+                                <allocation year="1950">73.372378075</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">95.009110875</landAllocation>
+                            <landAllocation year="1990">97.071258825</landAllocation>
+                            <landAllocation year="2005">117.950379575</landAllocation>
+                            <landAllocation year="2010">119.156448</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_RiftValley">
+                    <LandNode name="AllPastureLand_RiftValley">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_RiftValley">
+                            <land-use-history>
+                                <allocation year="1700">49.13968455</allocation>
+                                <allocation year="1750">50.63083605</allocation>
+                                <allocation year="1800">51.6212655</allocation>
+                                <allocation year="1850">68.33608515</allocation>
+                                <allocation year="1900">90.87140655</allocation>
+                                <allocation year="1950">110.75610975</allocation>
+                                <allocation year="1975">122.18089425</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">122.18089425</landAllocation>
+                            <landAllocation year="1990">120.605244375</landAllocation>
+                            <landAllocation year="2005">88.431909375</landAllocation>
+                            <landAllocation year="2010">88.076159475</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_RiftValley">
+                            <land-use-history>
+                                <allocation year="1975">49.60338575</allocation>
+                                <allocation year="1700">19.91976545</allocation>
+                                <allocation year="1750">20.52423395</allocation>
+                                <allocation year="1800">20.9257245</allocation>
+                                <allocation year="1850">27.70141485</allocation>
+                                <allocation year="1900">36.83656345</allocation>
+                                <allocation year="1950">44.89723025</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">49.60338575</landAllocation>
+                            <landAllocation year="1990">50.468235625</landAllocation>
+                            <landAllocation year="2005">41.084370625</landAllocation>
+                            <landAllocation year="2010">41.530510525</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_CongoR">
+                    <LandNode name="AllPastureLand_CongoR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_CongoR">
+                            <land-use-history>
+                                <allocation year="1700">1.188498225</allocation>
+                                <allocation year="1750">1.22285925</allocation>
+                                <allocation year="1800">1.2701208</allocation>
+                                <allocation year="1850">1.35166515</allocation>
+                                <allocation year="1900">1.5297606</allocation>
+                                <allocation year="1950">2.79377625</allocation>
+                                <allocation year="1975">3.741278775</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">3.741278775</landAllocation>
+                            <landAllocation year="1990">3.9206376</landAllocation>
+                            <landAllocation year="2005">2.55925965</landAllocation>
+                            <landAllocation year="2010">2.5389093</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_CongoR">
+                            <land-use-history>
+                                <allocation year="1975">1.518896225</allocation>
+                                <allocation year="1700">0.481781775</allocation>
+                                <allocation year="1750">0.49571075</allocation>
+                                <allocation year="1800">0.5148692</allocation>
+                                <allocation year="1850">0.54792485</allocation>
+                                <allocation year="1900">0.6201194</allocation>
+                                <allocation year="1950">1.13251375</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.518896225</landAllocation>
+                            <landAllocation year="1990">1.6406224</landAllocation>
+                            <landAllocation year="2005">1.18900035</landAllocation>
+                            <landAllocation year="2010">1.1971707</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+            </LandAllocatorRoot>
+        </region>
+        <region name="Africa_Southern">
+            <LandAllocatorRoot name="root">
+                <LandNode name="AgroForestLand_NileR">
+                    <LandNode name="AllPastureLand_NileR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_NileR">
+                            <land-use-history>
+                                <allocation year="1700">10.231466175</allocation>
+                                <allocation year="1750">10.700955075</allocation>
+                                <allocation year="1800">10.962424875</allocation>
+                                <allocation year="1850">11.3563449</allocation>
+                                <allocation year="1900">12.1158918</allocation>
+                                <allocation year="1950">17.78703705</allocation>
+                                <allocation year="1975">20.723562675</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">20.723562675</landAllocation>
+                            <landAllocation year="1990">21.5802381</landAllocation>
+                            <landAllocation year="2005">21.47923245</landAllocation>
+                            <landAllocation year="2010">21.408464925</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_NileR">
+                            <land-use-history>
+                                <allocation year="1975">7.386542325</allocation>
+                                <allocation year="1700">3.636803825</allocation>
+                                <allocation year="1750">3.803684925</allocation>
+                                <allocation year="1800">3.896625125</allocation>
+                                <allocation year="1850">4.0366451</allocation>
+                                <allocation year="1900">4.3066282</allocation>
+                                <allocation year="1950">6.32245295</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">7.386542325</landAllocation>
+                            <landAllocation year="1990">7.7482019</landAllocation>
+                            <landAllocation year="2005">7.82137755</landAllocation>
+                            <landAllocation year="2010">7.885725075</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_GuineaGulf">
+                    <LandNode name="AllPastureLand_GuineaGulf">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_GuineaGulf">
+                            <land-use-history>
+                                <allocation year="1700">0.7995852</allocation>
+                                <allocation year="1750">0.56758155</allocation>
+                                <allocation year="1800">0.7929822</allocation>
+                                <allocation year="1850">0.943345275</allocation>
+                                <allocation year="1900">0.937066875</allocation>
+                                <allocation year="1950">1.636958475</allocation>
+                                <allocation year="1975">1.84485465</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.84485465</landAllocation>
+                            <landAllocation year="1990">1.8410622</landAllocation>
+                            <landAllocation year="2005">1.83375315</landAllocation>
+                            <landAllocation year="2010">1.82802435</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_GuineaGulf">
+                            <land-use-history>
+                                <allocation year="1975">0.65756535</allocation>
+                                <allocation year="1700">0.2842148</allocation>
+                                <allocation year="1750">0.20174845</allocation>
+                                <allocation year="1800">0.2818678</allocation>
+                                <allocation year="1850">0.335314725</allocation>
+                                <allocation year="1900">0.333083125</allocation>
+                                <allocation year="1950">0.581861525</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.65756535</landAllocation>
+                            <landAllocation year="1990">0.6610178</landAllocation>
+                            <landAllocation year="2005">0.66773685</landAllocation>
+                            <landAllocation year="2010">0.67334565</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AfrCstE">
+                    <LandNode name="AllPastureLand_AfrCstE">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AfrCstE">
+                            <land-use-history>
+                                <allocation year="1700">74.814398925</allocation>
+                                <allocation year="1750">94.0698456</allocation>
+                                <allocation year="1800">115.930274025</allocation>
+                                <allocation year="1850">143.16725985</allocation>
+                                <allocation year="1900">158.478777375</allocation>
+                                <allocation year="1950">214.3146777</allocation>
+                                <allocation year="1975">241.92001365</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">241.92001365</landAllocation>
+                            <landAllocation year="1990">245.609740725</landAllocation>
+                            <landAllocation year="2005">244.6758834</landAllocation>
+                            <landAllocation year="2010">243.921536775</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AfrCstE">
+                            <land-use-history>
+                                <allocation year="1975">86.22805135</allocation>
+                                <allocation year="1700">26.592991075</allocation>
+                                <allocation year="1750">33.4373944</allocation>
+                                <allocation year="1800">41.207745975</allocation>
+                                <allocation year="1850">50.88921015</allocation>
+                                <allocation year="1900">56.331732625</allocation>
+                                <allocation year="1950">76.1787623</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">86.22805135</landAllocation>
+                            <landAllocation year="1990">88.184099275</landAllocation>
+                            <landAllocation year="2005">89.0954766</landAllocation>
+                            <landAllocation year="2010">89.847553225</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_RiftValley">
+                    <LandNode name="AllPastureLand_RiftValley">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_RiftValley">
+                            <land-use-history>
+                                <allocation year="1700">15.680737275</allocation>
+                                <allocation year="1750">16.397471925</allocation>
+                                <allocation year="1800">16.79829</allocation>
+                                <allocation year="1850">17.40419085</allocation>
+                                <allocation year="1900">18.57734115</allocation>
+                                <allocation year="1950">27.4199358</allocation>
+                                <allocation year="1975">31.95160005</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">31.95160005</landAllocation>
+                            <landAllocation year="1990">33.27727575</landAllocation>
+                            <landAllocation year="2005">33.219961725</landAllocation>
+                            <landAllocation year="2010">33.119069175</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_RiftValley">
+                            <land-use-history>
+                                <allocation year="1975">11.38857495</allocation>
+                                <allocation year="1700">5.573762725</allocation>
+                                <allocation year="1750">5.828528075</allocation>
+                                <allocation year="1800">5.971</allocation>
+                                <allocation year="1850">6.18636915</allocation>
+                                <allocation year="1900">6.60336885</allocation>
+                                <allocation year="1950">9.7464942</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">11.38857495</landAllocation>
+                            <landAllocation year="1990">11.94792425</landAllocation>
+                            <landAllocation year="2005">12.096608275</landAllocation>
+                            <landAllocation year="2010">12.199280825</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AngolaCst">
+                    <LandNode name="AllPastureLand_AngolaCst">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AngolaCst">
+                            <land-use-history>
+                                <allocation year="1700">71.423591175</allocation>
+                                <allocation year="1750">51.542456925</allocation>
+                                <allocation year="1800">73.098942675</allocation>
+                                <allocation year="1850">87.73816095</allocation>
+                                <allocation year="1900">87.232123425</allocation>
+                                <allocation year="1950">149.389276425</allocation>
+                                <allocation year="1975">168.364137</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">168.364137</landAllocation>
+                            <landAllocation year="1990">168.0637593</landAllocation>
+                            <landAllocation year="2005">167.427564</landAllocation>
+                            <landAllocation year="2010">166.91442</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AngolaCst">
+                            <land-use-history>
+                                <allocation year="1975">60.010378</allocation>
+                                <allocation year="1700">25.387718825</allocation>
+                                <allocation year="1750">18.320913075</allocation>
+                                <allocation year="1800">25.983227325</allocation>
+                                <allocation year="1850">31.18677905</allocation>
+                                <allocation year="1900">31.006906575</allocation>
+                                <allocation year="1950">53.100843575</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">60.010378</landAllocation>
+                            <landAllocation year="1990">60.3418707</landAllocation>
+                            <landAllocation year="2005">60.966526</landAllocation>
+                            <landAllocation year="2010">61.48228</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_CongoR">
+                    <LandNode name="AllPastureLand_CongoR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_CongoR">
+                            <land-use-history>
+                                <allocation year="1700">48.894072675</allocation>
+                                <allocation year="1750">39.628128825</allocation>
+                                <allocation year="1800">50.114262675</allocation>
+                                <allocation year="1850">57.7979457</allocation>
+                                <allocation year="1900">59.94240975</allocation>
+                                <allocation year="1950">111.510260475</allocation>
+                                <allocation year="1975">129.01399845</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">129.01399845</landAllocation>
+                            <landAllocation year="1990">130.664394675</landAllocation>
+                            <landAllocation year="2005">134.2316688</landAllocation>
+                            <landAllocation year="2010">133.8193506</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_CongoR">
+                            <land-use-history>
+                                <allocation year="1975">45.98472655</allocation>
+                                <allocation year="1700">17.379537325</allocation>
+                                <allocation year="1750">14.085931175</allocation>
+                                <allocation year="1800">17.813257325</allocation>
+                                <allocation year="1850">20.5444443</allocation>
+                                <allocation year="1900">21.30670025</allocation>
+                                <allocation year="1950">39.636639525</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">45.98472655</landAllocation>
+                            <landAllocation year="1990">46.913945325</landAllocation>
+                            <landAllocation year="2005">48.8786812</landAllocation>
+                            <landAllocation year="2010">49.2918394</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_ZambeziR">
+                    <LandNode name="AllPastureLand_ZambeziR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_ZambeziR">
+                            <land-use-history>
+                                <allocation year="1700">72.6136215</allocation>
+                                <allocation year="1750">77.061950325</allocation>
+                                <allocation year="1800">103.195356675</allocation>
+                                <allocation year="1850">129.117778125</allocation>
+                                <allocation year="1900">142.1181861</allocation>
+                                <allocation year="1950">260.439683175</allocation>
+                                <allocation year="1975">307.7460966</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">307.7460966</landAllocation>
+                            <landAllocation year="1990">312.6104007</landAllocation>
+                            <landAllocation year="2005">331.428257475</landAllocation>
+                            <landAllocation year="2010">330.414250725</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_ZambeziR">
+                            <land-use-history>
+                                <allocation year="1975">109.6905784</allocation>
+                                <allocation year="1700">25.8107185</allocation>
+                                <allocation year="1750">27.391889675</allocation>
+                                <allocation year="1800">36.681083325</allocation>
+                                <allocation year="1850">45.895281875</allocation>
+                                <allocation year="1900">50.5163139</allocation>
+                                <allocation year="1950">92.574026825</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">109.6905784</landAllocation>
+                            <landAllocation year="1990">112.2401193</landAllocation>
+                            <landAllocation year="2005">120.685202525</landAllocation>
+                            <landAllocation year="2010">121.706809275</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AfrCstSE">
+                    <LandNode name="AllPastureLand_AfrCstSE">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AfrCstSE">
+                            <land-use-history>
+                                <allocation year="1700">12.687752325</allocation>
+                                <allocation year="1750">20.50283055</allocation>
+                                <allocation year="1800">30.045766725</allocation>
+                                <allocation year="1850">41.24516775</allocation>
+                                <allocation year="1900">46.352648925</allocation>
+                                <allocation year="1950">66.306939525</allocation>
+                                <allocation year="1975">76.570612875</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">76.570612875</landAllocation>
+                            <landAllocation year="1990">77.399363475</landAllocation>
+                            <landAllocation year="2005">81.1586019</landAllocation>
+                            <landAllocation year="2010">80.90319975</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AfrCstSE">
+                            <land-use-history>
+                                <allocation year="1975">27.292222125</allocation>
+                                <allocation year="1700">4.509897675</allocation>
+                                <allocation year="1750">7.28778945</allocation>
+                                <allocation year="1800">10.679853275</allocation>
+                                <allocation year="1850">14.66071225</allocation>
+                                <allocation year="1900">16.476181075</allocation>
+                                <allocation year="1950">23.568990475</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">27.292222125</landAllocation>
+                            <landAllocation year="1990">27.789586525</landAllocation>
+                            <landAllocation year="2005">29.5528281</landAllocation>
+                            <landAllocation year="2010">29.80038025</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_OrangeR">
+                    <LandNode name="AllPastureLand_OrangeR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_OrangeR">
+                            <land-use-history>
+                                <allocation year="1700">29.91605355</allocation>
+                                <allocation year="1750">50.377613775</allocation>
+                                <allocation year="1800">78.92028135</allocation>
+                                <allocation year="1850">102.719360775</allocation>
+                                <allocation year="1900">105.393729</allocation>
+                                <allocation year="1950">126.126305625</allocation>
+                                <allocation year="1975">144.363348</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">144.363348</landAllocation>
+                            <landAllocation year="1990">143.905130475</landAllocation>
+                            <landAllocation year="2005">143.39404215</landAllocation>
+                            <landAllocation year="2010">142.9597572</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_OrangeR">
+                            <land-use-history>
+                                <allocation year="1975">51.455727</allocation>
+                                <allocation year="1700">10.63374645</allocation>
+                                <allocation year="1750">17.906866225</allocation>
+                                <allocation year="1800">28.05243865</allocation>
+                                <allocation year="1850">36.511889225</allocation>
+                                <allocation year="1900">37.462501</allocation>
+                                <allocation year="1950">44.831954375</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">51.455727</landAllocation>
+                            <landAllocation year="1990">51.667919525</landAllocation>
+                            <landAllocation year="2005">52.21503785</landAllocation>
+                            <landAllocation year="2010">52.6586728</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AfrCstSW">
+                    <LandNode name="AllPastureLand_AfrCstSW">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AfrCstSW">
+                            <land-use-history>
+                                <allocation year="1700">11.5777395</allocation>
+                                <allocation year="1750">20.256425775</allocation>
+                                <allocation year="1800">32.710588275</allocation>
+                                <allocation year="1850">43.297205175</allocation>
+                                <allocation year="1900">43.873772625</allocation>
+                                <allocation year="1950">41.82054</allocation>
+                                <allocation year="1975">48.3767757</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">48.3767757</landAllocation>
+                            <landAllocation year="1990">48.283248225</landAllocation>
+                            <landAllocation year="2005">48.10223085</landAllocation>
+                            <landAllocation year="2010">47.953977975</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AfrCstSW">
+                            <land-use-history>
+                                <allocation year="1975">17.2430343</allocation>
+                                <allocation year="1700">4.1153405</allocation>
+                                <allocation year="1750">7.200204225</allocation>
+                                <allocation year="1800">11.627071725</allocation>
+                                <allocation year="1850">15.390114825</allocation>
+                                <allocation year="1900">15.595057375</allocation>
+                                <allocation year="1950">14.86523</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">17.2430343</landAllocation>
+                            <landAllocation year="1990">17.335691775</landAllocation>
+                            <landAllocation year="2005">17.51578915</landAllocation>
+                            <landAllocation year="2010">17.663662025</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AfrIntS">
+                    <LandNode name="AllPastureLand_AfrIntS">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AfrIntS">
+                            <land-use-history>
+                                <allocation year="1700">89.119514775</allocation>
+                                <allocation year="1750">114.288468525</allocation>
+                                <allocation year="1800">173.01283515</allocation>
+                                <allocation year="1850">218.854481475</allocation>
+                                <allocation year="1900">220.209275925</allocation>
+                                <allocation year="1950">290.505118575</allocation>
+                                <allocation year="1975">336.794882625</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">336.794882625</landAllocation>
+                            <landAllocation year="1990">336.288874875</landAllocation>
+                            <landAllocation year="2005">335.596160775</landAllocation>
+                            <landAllocation year="2010">334.568016975</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AfrIntS">
+                            <land-use-history>
+                                <allocation year="1975">120.044497375</allocation>
+                                <allocation year="1700">31.677785225</allocation>
+                                <allocation year="1750">40.624161475</allocation>
+                                <allocation year="1800">61.49790485</allocation>
+                                <allocation year="1850">77.792448525</allocation>
+                                <allocation year="1900">78.274014075</allocation>
+                                <allocation year="1950">103.260871425</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">120.044497375</landAllocation>
+                            <landAllocation year="1990">120.741675125</landAllocation>
+                            <landAllocation year="2005">122.202889225</landAllocation>
+                            <landAllocation year="2010">123.236833025</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AfrCstS">
+                    <LandNode name="AllPastureLand_AfrCstS">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AfrCstS">
+                            <land-use-history>
+                                <allocation year="1700">2.848140375</allocation>
+                                <allocation year="1750">4.995186675</allocation>
+                                <allocation year="1800">7.931644425</allocation>
+                                <allocation year="1850">11.513178075</allocation>
+                                <allocation year="1900">13.374260925</allocation>
+                                <allocation year="1950">19.527555</allocation>
+                                <allocation year="1975">21.40153245</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">21.40153245</landAllocation>
+                            <landAllocation year="1990">20.285583075</landAllocation>
+                            <landAllocation year="2005">19.891898925</landAllocation>
+                            <landAllocation year="2010">19.831999725</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AfrCstS">
+                            <land-use-history>
+                                <allocation year="1975">7.62819255</allocation>
+                                <allocation year="1700">1.012379625</allocation>
+                                <allocation year="1750">1.775553325</allocation>
+                                <allocation year="1800">2.819325575</allocation>
+                                <allocation year="1850">4.092391925</allocation>
+                                <allocation year="1900">4.753919075</allocation>
+                                <allocation year="1950">6.941125</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">7.62819255</landAllocation>
+                            <landAllocation year="1990">7.283366925</landAllocation>
+                            <landAllocation year="2005">7.243371075</landAllocation>
+                            <landAllocation year="2010">7.305040275</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_LimpopoR">
+                    <LandNode name="AllPastureLand_LimpopoR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_LimpopoR">
+                            <land-use-history>
+                                <allocation year="1700">10.951446975</allocation>
+                                <allocation year="1750">17.264923725</allocation>
+                                <allocation year="1800">24.96457185</allocation>
+                                <allocation year="1850">32.660774625</allocation>
+                                <allocation year="1900">35.3356593</allocation>
+                                <allocation year="1950">54.76777755</allocation>
+                                <allocation year="1975">63.8364072</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">63.8364072</landAllocation>
+                            <landAllocation year="1990">64.23005295</landAllocation>
+                            <landAllocation year="2005">66.1000308</landAllocation>
+                            <landAllocation year="2010">65.891274375</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_LimpopoR">
+                            <land-use-history>
+                                <allocation year="1975">22.7533428</allocation>
+                                <allocation year="1700">3.892723025</allocation>
+                                <allocation year="1750">6.136866275</allocation>
+                                <allocation year="1800">8.87372815</allocation>
+                                <allocation year="1850">11.609365375</allocation>
+                                <allocation year="1900">12.5601607</allocation>
+                                <allocation year="1950">19.46736245</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">22.7533428</landAllocation>
+                            <landAllocation year="1990">23.06125705</landAllocation>
+                            <landAllocation year="2005">24.0694492</landAllocation>
+                            <landAllocation year="2010">24.270795625</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+            </LandAllocatorRoot>
+        </region>
+        <region name="Africa_Western">
+            <LandAllocatorRoot name="root">
+                <LandNode name="AgroForestLand_AfrCstNW">
+                    <LandNode name="AllPastureLand_AfrCstNW">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AfrCstNW">
+                            <land-use-history>
+                                <allocation year="1700">0</allocation>
+                                <allocation year="1750">0.090372</allocation>
+                                <allocation year="1800">5.641991025</allocation>
+                                <allocation year="1850">12.0501066</allocation>
+                                <allocation year="1900">13.4199669</allocation>
+                                <allocation year="1950">18.018286875</allocation>
+                                <allocation year="1975">18.0227433</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">18.0227433</landAllocation>
+                            <landAllocation year="1990">17.90309235</landAllocation>
+                            <landAllocation year="2005">17.637027975</landAllocation>
+                            <landAllocation year="2010">17.6012373</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AfrCstNW">
+                            <land-use-history>
+                                <allocation year="1975">6.6067217</allocation>
+                                <allocation year="1700">0</allocation>
+                                <allocation year="1750">0.033158</allocation>
+                                <allocation year="1800">2.070078975</allocation>
+                                <allocation year="1850">4.4212534</allocation>
+                                <allocation year="1900">4.9238631</allocation>
+                                <allocation year="1950">6.611013125</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">6.6067217</landAllocation>
+                            <landAllocation year="1990">6.69317765</landAllocation>
+                            <landAllocation year="2005">6.958782025</landAllocation>
+                            <landAllocation year="2010">7.0254627</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_NileR">
+                    <LandNode name="AllPastureLand_NileR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_NileR">
+                            <land-use-history>
+                                <allocation year="1700">1.9144041</allocation>
+                                <allocation year="1750">1.86128415</allocation>
+                                <allocation year="1800">1.795924875</allocation>
+                                <allocation year="1850">1.7181141</allocation>
+                                <allocation year="1900">1.625262</allocation>
+                                <allocation year="1950">1.728509775</allocation>
+                                <allocation year="1975">1.891832775</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.891832775</landAllocation>
+                            <landAllocation year="1990">1.899209325</landAllocation>
+                            <landAllocation year="2005">2.198299425</landAllocation>
+                            <landAllocation year="2010">2.20280805</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_NileR">
+                            <land-use-history>
+                                <allocation year="1975">0.693502225</allocation>
+                                <allocation year="1700">0.7024059</allocation>
+                                <allocation year="1750">0.68291585</allocation>
+                                <allocation year="1800">0.658935125</allocation>
+                                <allocation year="1850">0.6303859</allocation>
+                                <allocation year="1900">0.596318</allocation>
+                                <allocation year="1950">0.634200225</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.693502225</landAllocation>
+                            <landAllocation year="1990">0.710030675</landAllocation>
+                            <landAllocation year="2005">0.867350575</landAllocation>
+                            <landAllocation year="2010">0.87924195</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AfrCstW">
+                    <LandNode name="AllPastureLand_AfrCstW">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AfrCstW">
+                            <land-use-history>
+                                <allocation year="1700">94.21059915</allocation>
+                                <allocation year="1750">95.21930805</allocation>
+                                <allocation year="1800">97.3918719</allocation>
+                                <allocation year="1850">101.68996635</allocation>
+                                <allocation year="1900">113.35358685</allocation>
+                                <allocation year="1950">188.30325315</allocation>
+                                <allocation year="1975">227.793723975</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">227.793723975</landAllocation>
+                            <landAllocation year="1990">227.6050116</landAllocation>
+                            <landAllocation year="2005">215.934319725</landAllocation>
+                            <landAllocation year="2010">214.92118005</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AfrCstW">
+                            <land-use-history>
+                                <allocation year="1975">83.503921025</allocation>
+                                <allocation year="1700">34.56641085</allocation>
+                                <allocation year="1750">34.93651195</allocation>
+                                <allocation year="1800">35.7336381</allocation>
+                                <allocation year="1850">37.31063365</allocation>
+                                <allocation year="1900">41.59008315</allocation>
+                                <allocation year="1950">69.08954685</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">83.503921025</landAllocation>
+                            <landAllocation year="1990">85.0914884</landAllocation>
+                            <landAllocation year="2005">85.198020275</landAllocation>
+                            <landAllocation year="2010">85.78491995</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AfrIntN">
+                    <LandNode name="AllPastureLand_AfrIntN">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AfrIntN">
+                            <land-use-history>
+                                <allocation year="1700">3.342395775</allocation>
+                                <allocation year="1750">4.139912325</allocation>
+                                <allocation year="1800">25.293323925</allocation>
+                                <allocation year="1850">50.09079075</allocation>
+                                <allocation year="1900">55.59433035</allocation>
+                                <allocation year="1950">92.1514521</allocation>
+                                <allocation year="1975">76.618351125</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">76.618351125</landAllocation>
+                            <landAllocation year="1990">76.206526425</landAllocation>
+                            <landAllocation year="2005">75.562391475</landAllocation>
+                            <landAllocation year="2010">75.313936725</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AfrIntN">
+                            <land-use-history>
+                                <allocation year="1975">28.086518875</allocation>
+                                <allocation year="1700">1.226344225</allocation>
+                                <allocation year="1750">1.518957675</allocation>
+                                <allocation year="1800">9.280266075</allocation>
+                                <allocation year="1850">18.37859925</allocation>
+                                <allocation year="1900">20.39787965</allocation>
+                                <allocation year="1950">33.8108979</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">28.086518875</landAllocation>
+                            <landAllocation year="1990">28.490263575</landAllocation>
+                            <landAllocation year="2005">29.813538525</landAllocation>
+                            <landAllocation year="2010">30.061253275</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_NigerR">
+                    <LandNode name="AllPastureLand_NigerR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_NigerR">
+                            <land-use-history>
+                                <allocation year="1700">237.128660325</allocation>
+                                <allocation year="1750">240.24540045</allocation>
+                                <allocation year="1800">244.49964405</allocation>
+                                <allocation year="1850">252.399918075</allocation>
+                                <allocation year="1900">270.380038425</allocation>
+                                <allocation year="1950">414.63415365</allocation>
+                                <allocation year="1975">483.5892747</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">483.5892747</landAllocation>
+                            <landAllocation year="1990">488.9554896</landAllocation>
+                            <landAllocation year="2005">480.010425</landAllocation>
+                            <landAllocation year="2010">474.45441765</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_NigerR">
+                            <land-use-history>
+                                <allocation year="1975">177.2726653</allocation>
+                                <allocation year="1700">87.003869675</allocation>
+                                <allocation year="1750">88.14741955</allocation>
+                                <allocation year="1800">89.70832595</allocation>
+                                <allocation year="1850">92.606981925</allocation>
+                                <allocation year="1900">99.203991575</allocation>
+                                <allocation year="1950">152.13165635</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">177.2726653</landAllocation>
+                            <landAllocation year="1990">182.7989204</landAllocation>
+                            <landAllocation year="2005">189.390635</landAllocation>
+                            <landAllocation year="2010">189.37656235</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_LChad">
+                    <LandNode name="AllPastureLand_LChad">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_LChad">
+                            <land-use-history>
+                                <allocation year="1700">244.015470225</allocation>
+                                <allocation year="1750">249.963744225</allocation>
+                                <allocation year="1800">252.104828175</allocation>
+                                <allocation year="1850">256.403398125</allocation>
+                                <allocation year="1900">267.741063525</allocation>
+                                <allocation year="1950">374.16667455</allocation>
+                                <allocation year="1975">431.8758006</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">431.8758006</landAllocation>
+                            <landAllocation year="1990">434.7905316</landAllocation>
+                            <landAllocation year="2005">427.844948025</landAllocation>
+                            <landAllocation year="2010">425.34742515</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_LChad">
+                            <land-use-history>
+                                <allocation year="1975">158.3156994</allocation>
+                                <allocation year="1700">89.530679775</allocation>
+                                <allocation year="1750">91.713135775</allocation>
+                                <allocation year="1800">92.498711825</allocation>
+                                <allocation year="1850">94.075881875</allocation>
+                                <allocation year="1900">98.235736475</allocation>
+                                <allocation year="1950">137.28390545</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">158.3156994</landAllocation>
+                            <landAllocation year="1990">162.5490284</landAllocation>
+                            <landAllocation year="2005">168.808471975</landAllocation>
+                            <landAllocation year="2010">169.77570485</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_SenegalR">
+                    <LandNode name="AllPastureLand_SenegalR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_SenegalR">
+                            <land-use-history>
+                                <allocation year="1700">39.85675665</allocation>
+                                <allocation year="1750">43.14467175</allocation>
+                                <allocation year="1800">79.189929375</allocation>
+                                <allocation year="1850">122.10275625</allocation>
+                                <allocation year="1900">138.346487775</allocation>
+                                <allocation year="1950">214.972772925</allocation>
+                                <allocation year="1975">227.657697975</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">227.657697975</landAllocation>
+                            <landAllocation year="1990">225.54785265</landAllocation>
+                            <landAllocation year="2005">234.05037495</landAllocation>
+                            <landAllocation year="2010">232.923654975</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_SenegalR">
+                            <land-use-history>
+                                <allocation year="1975">83.454057025</allocation>
+                                <allocation year="1700">14.62367335</allocation>
+                                <allocation year="1750">15.83002825</allocation>
+                                <allocation year="1800">29.055240625</allocation>
+                                <allocation year="1850">44.80020375</allocation>
+                                <allocation year="1900">50.760122225</allocation>
+                                <allocation year="1950">78.874747075</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">83.454057025</landAllocation>
+                            <landAllocation year="1990">84.32240735</landAllocation>
+                            <landAllocation year="2005">92.34580505</landAllocation>
+                            <landAllocation year="2010">92.970535025</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_VoltaR">
+                    <LandNode name="AllPastureLand_VoltaR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_VoltaR">
+                            <land-use-history>
+                                <allocation year="1700">40.83557325</allocation>
+                                <allocation year="1750">41.318664375</allocation>
+                                <allocation year="1800">42.207811275</allocation>
+                                <allocation year="1850">43.75352865</allocation>
+                                <allocation year="1900">47.163280875</allocation>
+                                <allocation year="1950">72.37090035</allocation>
+                                <allocation year="1975">88.437707775</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">88.437707775</landAllocation>
+                            <landAllocation year="1990">87.668645175</landAllocation>
+                            <landAllocation year="2005">87.239669925</landAllocation>
+                            <landAllocation year="2010">86.9928612</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_VoltaR">
+                            <land-use-history>
+                                <allocation year="1975">32.419222225</allocation>
+                                <allocation year="1700">14.98280675</allocation>
+                                <allocation year="1750">15.160055625</allocation>
+                                <allocation year="1800">15.486288725</allocation>
+                                <allocation year="1850">16.05342135</allocation>
+                                <allocation year="1900">17.304479125</allocation>
+                                <allocation year="1950">26.55329965</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">32.419222225</landAllocation>
+                            <landAllocation year="1990">32.775444825</landAllocation>
+                            <landAllocation year="2005">34.420870075</landAllocation>
+                            <landAllocation year="2010">34.7228488</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_GuineaGulf">
+                    <LandNode name="AllPastureLand_GuineaGulf">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_GuineaGulf">
+                            <land-use-history>
+                                <allocation year="1700">58.03261845</allocation>
+                                <allocation year="1750">58.494237675</allocation>
+                                <allocation year="1800">59.4826818</allocation>
+                                <allocation year="1850">61.255196175</allocation>
+                                <allocation year="1900">65.342186025</allocation>
+                                <allocation year="1950">95.6171409</allocation>
+                                <allocation year="1975">88.5162507</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">88.5162507</landAllocation>
+                            <landAllocation year="1990">87.343443675</landAllocation>
+                            <landAllocation year="2005">81.956924775</landAllocation>
+                            <landAllocation year="2010">81.68028465</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_GuineaGulf">
+                            <land-use-history>
+                                <allocation year="1975">32.4480143</allocation>
+                                <allocation year="1700">21.29250155</allocation>
+                                <allocation year="1750">21.461872325</allocation>
+                                <allocation year="1800">21.8245382</allocation>
+                                <allocation year="1850">22.474883825</allocation>
+                                <allocation year="1900">23.974423975</allocation>
+                                <allocation year="1950">35.0824791</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">32.4480143</landAllocation>
+                            <landAllocation year="1990">32.653866325</landAllocation>
+                            <landAllocation year="2005">32.336535225</landAllocation>
+                            <landAllocation year="2010">32.60235535</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_CongoR">
+                    <LandNode name="AllPastureLand_CongoR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_CongoR">
+                            <land-use-history>
+                                <allocation year="1700">150.5673084</allocation>
+                                <allocation year="1750">146.796924075</allocation>
+                                <allocation year="1800">142.554422325</allocation>
+                                <allocation year="1850">137.749658025</allocation>
+                                <allocation year="1900">132.914986725</allocation>
+                                <allocation year="1950">154.74262185</allocation>
+                                <allocation year="1975">169.690375425</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">169.690375425</landAllocation>
+                            <landAllocation year="1990">168.829286325</landAllocation>
+                            <landAllocation year="2005">188.883294</landAllocation>
+                            <landAllocation year="2010">188.9700705</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_CongoR">
+                            <land-use-history>
+                                <allocation year="1975">62.204574575</allocation>
+                                <allocation year="1700">55.2440116</allocation>
+                                <allocation year="1750">53.860635925</allocation>
+                                <allocation year="1800">52.304037675</allocation>
+                                <allocation year="1850">50.541141975</allocation>
+                                <allocation year="1900">48.767273275</allocation>
+                                <allocation year="1950">56.77595815</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">62.204574575</landAllocation>
+                            <landAllocation year="1990">63.117833675</landAllocation>
+                            <landAllocation year="2005">74.524896</landAllocation>
+                            <landAllocation year="2010">75.4266395</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_ZambeziR">
+                    <LandNode name="AllPastureLand_ZambeziR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_ZambeziR">
+                            <land-use-history>
+                                <allocation year="1700">0.01439745</allocation>
+                                <allocation year="1750">0.014419425</allocation>
+                                <allocation year="1800">0.0143463</allocation>
+                                <allocation year="1850">0.014485275</allocation>
+                                <allocation year="1900">0.015187575</allocation>
+                                <allocation year="1950">0.026834325</allocation>
+                                <allocation year="1975">0.031659375</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.031659375</landAllocation>
+                            <landAllocation year="1990">0.0322596</landAllocation>
+                            <landAllocation year="2005">0.036190725</landAllocation>
+                            <landAllocation year="2010">0.03612915</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_ZambeziR">
+                            <land-use-history>
+                                <allocation year="1975">0.011605625</allocation>
+                                <allocation year="1700">0.00528255</allocation>
+                                <allocation year="1750">0.005290575</allocation>
+                                <allocation year="1800">0.0052637</allocation>
+                                <allocation year="1850">0.005314725</allocation>
+                                <allocation year="1900">0.005572425</allocation>
+                                <allocation year="1950">0.009845675</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.011605625</landAllocation>
+                            <landAllocation year="1990">0.0120604</landAllocation>
+                            <landAllocation year="2005">0.014279275</landAllocation>
+                            <landAllocation year="2010">0.01442085</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+            </LandAllocatorRoot>
+        </region>
+        <region name="India">
+            <LandAllocatorRoot name="root">
+                <LandNode name="AgroForestLand_IndusR">
+                    <LandNode name="AllPastureLand_IndusR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_IndusR">
+                            <land-use-history>
+                                <allocation year="1700">1.963638825</allocation>
+                                <allocation year="1750">2.294239425</allocation>
+                                <allocation year="1800">2.692334175</allocation>
+                                <allocation year="1850">3.291059025</allocation>
+                                <allocation year="1900">3.70026585</allocation>
+                                <allocation year="1950">4.5770055</allocation>
+                                <allocation year="1975">8.873991825</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">8.873991825</landAllocation>
+                            <landAllocation year="1990">5.825436525</landAllocation>
+                            <landAllocation year="2005">7.19154735</landAllocation>
+                            <landAllocation year="2010">7.61107935</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_IndusR">
+                            <land-use-history>
+                                <allocation year="1975">4.990968175</allocation>
+                                <allocation year="1700">1.026301175</allocation>
+                                <allocation year="1750">1.199090575</allocation>
+                                <allocation year="1800">1.407155825</allocation>
+                                <allocation year="1850">1.720080975</allocation>
+                                <allocation year="1900">1.93395415</allocation>
+                                <allocation year="1950">2.3921845</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">4.990968175</landAllocation>
+                            <landAllocation year="1990">7.612543475</landAllocation>
+                            <landAllocation year="2005">5.08541265</landAllocation>
+                            <landAllocation year="2010">4.55535065</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_SabarmatiR">
+                    <LandNode name="AllPastureLand_SabarmatiR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_SabarmatiR">
+                            <land-use-history>
+                                <allocation year="1700">2.170350375</allocation>
+                                <allocation year="1750">2.4112392</allocation>
+                                <allocation year="1800">2.6538618</allocation>
+                                <allocation year="1850">3.0527775</allocation>
+                                <allocation year="1900">3.74456355</allocation>
+                                <allocation year="1950">5.25480285</allocation>
+                                <allocation year="1975">9.1049019</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">9.1049019</landAllocation>
+                            <landAllocation year="1990">5.7044235</landAllocation>
+                            <landAllocation year="2005">6.9459315</landAllocation>
+                            <landAllocation year="2010">7.337919675</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_SabarmatiR">
+                            <land-use-history>
+                                <allocation year="1975">5.1208381</allocation>
+                                <allocation year="1700">1.134339625</allocation>
+                                <allocation year="1750">1.2602408</allocation>
+                                <allocation year="1800">1.3870482</allocation>
+                                <allocation year="1850">1.5955425</allocation>
+                                <allocation year="1900">1.95710645</allocation>
+                                <allocation year="1950">2.74643715</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">5.1208381</landAllocation>
+                            <landAllocation year="1990">7.4544065</landAllocation>
+                            <landAllocation year="2005">4.9117285</landAllocation>
+                            <landAllocation year="2010">4.391860325</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_GangesR">
+                    <LandNode name="AllPastureLand_GangesR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_GangesR">
+                            <land-use-history>
+                                <allocation year="1700">5.42453955</allocation>
+                                <allocation year="1750">6.10018935</allocation>
+                                <allocation year="1800">6.809628825</allocation>
+                                <allocation year="1850">7.9140435</allocation>
+                                <allocation year="1900">9.544080225</allocation>
+                                <allocation year="1950">12.64541775</allocation>
+                                <allocation year="1975">23.275638825</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">23.275638825</landAllocation>
+                            <landAllocation year="1990">14.782598325</landAllocation>
+                            <landAllocation year="2005">18.0937917</landAllocation>
+                            <landAllocation year="2010">19.1268372</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_GangesR">
+                            <land-use-history>
+                                <allocation year="1975">13.090836175</allocation>
+                                <allocation year="1700">2.83515045</allocation>
+                                <allocation year="1750">3.18828065</allocation>
+                                <allocation year="1800">3.559071175</allocation>
+                                <allocation year="1850">4.1362965</allocation>
+                                <allocation year="1900">4.988239775</allocation>
+                                <allocation year="1950">6.60916225</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">13.090836175</landAllocation>
+                            <landAllocation year="1990">19.317551675</landAllocation>
+                            <landAllocation year="2005">12.7947983</landAllocation>
+                            <landAllocation year="2010">11.4477128</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_MahiR">
+                    <LandNode name="AllPastureLand_MahiR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_MahiR">
+                            <land-use-history>
+                                <allocation year="1700">0.261537</allocation>
+                                <allocation year="1750">0.2905587</allocation>
+                                <allocation year="1800">0.319344</allocation>
+                                <allocation year="1850">0.36736545</allocation>
+                                <allocation year="1900">0.45043755</allocation>
+                                <allocation year="1950">0.620371275</allocation>
+                                <allocation year="1975">1.089123225</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.089123225</landAllocation>
+                            <landAllocation year="1990">0.682255125</landAllocation>
+                            <landAllocation year="2005">0.8305482</landAllocation>
+                            <landAllocation year="2010">0.877413975</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_MahiR">
+                            <land-use-history>
+                                <allocation year="1975">0.612551775</allocation>
+                                <allocation year="1700">0.136693</allocation>
+                                <allocation year="1750">0.1518613</allocation>
+                                <allocation year="1800">0.166906</allocation>
+                                <allocation year="1850">0.19200455</allocation>
+                                <allocation year="1900">0.23542245</allocation>
+                                <allocation year="1950">0.324238725</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.612551775</landAllocation>
+                            <landAllocation year="1990">0.891554875</landAllocation>
+                            <landAllocation year="2005">0.5873118</landAllocation>
+                            <landAllocation year="2010">0.525146025</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_BengalBay">
+                    <LandNode name="AllPastureLand_BengalBay">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_BengalBay">
+                            <land-use-history>
+                                <allocation year="1700">0.002561325</allocation>
+                                <allocation year="1750">0.0028437</allocation>
+                                <allocation year="1800">0.003139275</allocation>
+                                <allocation year="1850">0.003566175</allocation>
+                                <allocation year="1900">0.0044199</allocation>
+                                <allocation year="1950">0.00658065</allocation>
+                                <allocation year="1975">0.01101495</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.01101495</landAllocation>
+                            <landAllocation year="1990">0.006975075</landAllocation>
+                            <landAllocation year="2005">0.0086226</landAllocation>
+                            <landAllocation year="2010">0.009120975</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_BengalBay">
+                            <land-use-history>
+                                <allocation year="1975">0.00619505</allocation>
+                                <allocation year="1700">0.001338675</allocation>
+                                <allocation year="1750">0.0014863</allocation>
+                                <allocation year="1800">0.001640725</allocation>
+                                <allocation year="1850">0.001863825</allocation>
+                                <allocation year="1900">0.0023101</allocation>
+                                <allocation year="1950">0.00343935</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.00619505</landAllocation>
+                            <landAllocation year="1990">0.009114925</landAllocation>
+                            <landAllocation year="2005">0.0060974</landAllocation>
+                            <landAllocation year="2010">0.005459025</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_TaptiR">
+                    <LandNode name="AllPastureLand_TaptiR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_TaptiR">
+                            <land-use-history>
+                                <allocation year="1700">0.342389325</allocation>
+                                <allocation year="1750">0.380493825</allocation>
+                                <allocation year="1800">0.4186575</allocation>
+                                <allocation year="1850">0.48177105</allocation>
+                                <allocation year="1900">0.59089635</allocation>
+                                <allocation year="1950">0.79874415</allocation>
+                                <allocation year="1975">1.441130175</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.441130175</landAllocation>
+                            <landAllocation year="1990">0.902826975</landAllocation>
+                            <landAllocation year="2005">1.09915575</landAllocation>
+                            <landAllocation year="2010">1.161214725</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_TaptiR">
+                            <land-use-history>
+                                <allocation year="1975">0.810529825</allocation>
+                                <allocation year="1700">0.178950675</allocation>
+                                <allocation year="1750">0.198866175</allocation>
+                                <allocation year="1800">0.2188125</allocation>
+                                <allocation year="1850">0.25179895</allocation>
+                                <allocation year="1900">0.30883365</allocation>
+                                <allocation year="1950">0.41746585</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.810529825</landAllocation>
+                            <landAllocation year="1990">1.179793025</landAllocation>
+                            <landAllocation year="2005">0.77725425</landAllocation>
+                            <landAllocation year="2010">0.695005275</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_BengalW">
+                    <LandNode name="AllPastureLand_BengalW">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_BengalW">
+                            <land-use-history>
+                                <allocation year="1700">0.43074825</allocation>
+                                <allocation year="1750">0.478671225</allocation>
+                                <allocation year="1800">0.5266335</allocation>
+                                <allocation year="1850">0.605975325</allocation>
+                                <allocation year="1900">0.74324895</allocation>
+                                <allocation year="1950">0.9305142</allocation>
+                                <allocation year="1975">1.804718475</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.804718475</landAllocation>
+                            <landAllocation year="1990">1.130517</landAllocation>
+                            <landAllocation year="2005">1.37623365</landAllocation>
+                            <landAllocation year="2010">1.45388625</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_BengalW">
+                            <land-use-history>
+                                <allocation year="1975">1.015021525</allocation>
+                                <allocation year="1700">0.22513175</allocation>
+                                <allocation year="1750">0.250178775</allocation>
+                                <allocation year="1800">0.2752465</allocation>
+                                <allocation year="1850">0.316714675</allocation>
+                                <allocation year="1900">0.38846105</allocation>
+                                <allocation year="1950">0.4863358</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.015021525</landAllocation>
+                            <landAllocation year="1990">1.477333</landAllocation>
+                            <landAllocation year="2005">0.97318635</landAllocation>
+                            <landAllocation year="2010">0.87017375</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_BrahmaniR">
+                    <LandNode name="AllPastureLand_BrahmaniR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_BrahmaniR">
+                            <land-use-history>
+                                <allocation year="1700">0.465450825</allocation>
+                                <allocation year="1750">0.51709755</allocation>
+                                <allocation year="1800">0.56873115</allocation>
+                                <allocation year="1850">0.65416755</allocation>
+                                <allocation year="1900">0.8020476</allocation>
+                                <allocation year="1950">0.9975945</allocation>
+                                <allocation year="1975">1.94805</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.94805</landAllocation>
+                            <landAllocation year="1990">1.220213625</landAllocation>
+                            <landAllocation year="2005">1.4853051</landAllocation>
+                            <landAllocation year="2010">1.5690618</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_BrahmaniR">
+                            <land-use-history>
+                                <allocation year="1975">1.095635</allocation>
+                                <allocation year="1700">0.243269175</allocation>
+                                <allocation year="1750">0.27026245</allocation>
+                                <allocation year="1800">0.29724885</allocation>
+                                <allocation year="1850">0.34190245</allocation>
+                                <allocation year="1900">0.4191924</allocation>
+                                <allocation year="1950">0.5213955</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.095635</landAllocation>
+                            <landAllocation year="1990">1.594546375</landAllocation>
+                            <landAllocation year="2005">1.0503149</landAllocation>
+                            <landAllocation year="2010">0.9391082</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_MahanadiR">
+                    <LandNode name="AllPastureLand_MahanadiR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_MahanadiR">
+                            <land-use-history>
+                                <allocation year="1700">1.242147975</allocation>
+                                <allocation year="1750">1.379966625</allocation>
+                                <allocation year="1800">1.5177459</allocation>
+                                <allocation year="1850">1.74580185</allocation>
+                                <allocation year="1900">2.140566825</allocation>
+                                <allocation year="1950">3.23004705</allocation>
+                                <allocation year="1975">5.1913866</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">5.1913866</landAllocation>
+                            <landAllocation year="1990">3.251784525</landAllocation>
+                            <landAllocation year="2005">3.958298625</landAllocation>
+                            <landAllocation year="2010">4.18152285</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_MahanadiR">
+                            <land-use-history>
+                                <allocation year="1975">2.9197734</allocation>
+                                <allocation year="1700">0.649212025</allocation>
+                                <allocation year="1750">0.721243375</allocation>
+                                <allocation year="1800">0.7932541</allocation>
+                                <allocation year="1850">0.91244815</allocation>
+                                <allocation year="1900">1.118773175</allocation>
+                                <allocation year="1950">1.68819295</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">2.9197734</landAllocation>
+                            <landAllocation year="1990">4.249355475</landAllocation>
+                            <landAllocation year="2005">2.799061375</landAllocation>
+                            <landAllocation year="2010">2.50270715</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_GodavariR">
+                    <LandNode name="AllPastureLand_GodavariR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_GodavariR">
+                            <land-use-history>
+                                <allocation year="1700">2.065316625</allocation>
+                                <allocation year="1750">2.294915925</allocation>
+                                <allocation year="1800">2.524666275</allocation>
+                                <allocation year="1850">2.90470695</allocation>
+                                <allocation year="1900">3.56223045</allocation>
+                                <allocation year="1950">5.07089355</allocation>
+                                <allocation year="1975">8.668260525</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">8.668260525</landAllocation>
+                            <landAllocation year="1990">5.430010275</landAllocation>
+                            <landAllocation year="2005">6.61031115</landAllocation>
+                            <landAllocation year="2010">6.9832782</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_GodavariR">
+                            <land-use-history>
+                                <allocation year="1975">4.875259475</allocation>
+                                <allocation year="1700">1.079443375</allocation>
+                                <allocation year="1750">1.199444075</allocation>
+                                <allocation year="1800">1.319523725</allocation>
+                                <allocation year="1850">1.51815305</allocation>
+                                <allocation year="1900">1.86180955</allocation>
+                                <allocation year="1950">2.65031645</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">4.875259475</landAllocation>
+                            <landAllocation year="1990">7.095809725</landAllocation>
+                            <landAllocation year="2005">4.67439885</landAllocation>
+                            <landAllocation year="2010">4.1796018</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_IndCstNE">
+                    <LandNode name="AllPastureLand_IndCstNE">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_IndCstNE">
+                            <land-use-history>
+                                <allocation year="1700">0.507752025</allocation>
+                                <allocation year="1750">0.5644557</allocation>
+                                <allocation year="1800">0.621192225</allocation>
+                                <allocation year="1850">0.7149693</allocation>
+                                <allocation year="1900">0.877146825</allocation>
+                                <allocation year="1950">1.09367025</allocation>
+                                <allocation year="1975">2.14591215</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">2.14591215</landAllocation>
+                            <landAllocation year="1990">1.3443999</landAllocation>
+                            <landAllocation year="2005">1.636780875</landAllocation>
+                            <landAllocation year="2010">1.729204125</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_IndCstNE">
+                            <land-use-history>
+                                <allocation year="1975">1.20691785</allocation>
+                                <allocation year="1700">0.265377975</allocation>
+                                <allocation year="1750">0.2950143</allocation>
+                                <allocation year="1800">0.324667775</allocation>
+                                <allocation year="1850">0.3736807</allocation>
+                                <allocation year="1900">0.458443175</allocation>
+                                <allocation year="1950">0.57160975</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.20691785</landAllocation>
+                            <landAllocation year="1990">1.7568301</landAllocation>
+                            <landAllocation year="2005">1.157429125</landAllocation>
+                            <landAllocation year="2010">1.034955875</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_IndCstW">
+                    <LandNode name="AllPastureLand_IndCstW">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_IndCstW">
+                            <land-use-history>
+                                <allocation year="1700">0.418302825</allocation>
+                                <allocation year="1750">0.4648926</allocation>
+                                <allocation year="1800">0.5112525</allocation>
+                                <allocation year="1850">0.588046125</allocation>
+                                <allocation year="1900">0.721083675</allocation>
+                                <allocation year="1950">0.99398895</allocation>
+                                <allocation year="1975">1.770806475</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.770806475</landAllocation>
+                            <landAllocation year="1990">1.109184225</landAllocation>
+                            <landAllocation year="2005">1.350154875</landAllocation>
+                            <landAllocation year="2010">1.426298175</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_IndCstW">
+                            <land-use-history>
+                                <allocation year="1975">0.995948525</allocation>
+                                <allocation year="1700">0.218627175</allocation>
+                                <allocation year="1750">0.2429774</allocation>
+                                <allocation year="1800">0.2672075</allocation>
+                                <allocation year="1850">0.307343875</allocation>
+                                <allocation year="1900">0.376876325</allocation>
+                                <allocation year="1950">0.51951105</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.995948525</landAllocation>
+                            <landAllocation year="1990">1.449455775</landAllocation>
+                            <landAllocation year="2005">0.954745125</landAllocation>
+                            <landAllocation year="2010">0.853661825</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_IrrawaddyR">
+                    <LandNode name="AllPastureLand_IrrawaddyR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_IrrawaddyR">
+                            <land-use-history>
+                                <allocation year="1700">0.02414865</allocation>
+                                <allocation year="1750">0.0265983</allocation>
+                                <allocation year="1800">0.02924505</allocation>
+                                <allocation year="1850">0.033579525</allocation>
+                                <allocation year="1900">0.04142115</allocation>
+                                <allocation year="1950">0.06353385</allocation>
+                                <allocation year="1975">0.1131573</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.1131573</landAllocation>
+                            <landAllocation year="1990">0.0708825</landAllocation>
+                            <landAllocation year="2005">0.0862848</landAllocation>
+                            <landAllocation year="2010">0.091153275</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_IrrawaddyR">
+                            <land-use-history>
+                                <allocation year="1975">0.0636427</allocation>
+                                <allocation year="1700">0.01262135</allocation>
+                                <allocation year="1750">0.0139017</allocation>
+                                <allocation year="1800">0.01528495</allocation>
+                                <allocation year="1850">0.017550475</allocation>
+                                <allocation year="1900">0.02164885</allocation>
+                                <allocation year="1950">0.03320615</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.0636427</landAllocation>
+                            <landAllocation year="1990">0.0926275</landAllocation>
+                            <landAllocation year="2005">0.0610152</landAllocation>
+                            <landAllocation year="2010">0.054556725</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_KrishnaR">
+                    <LandNode name="AllPastureLand_KrishnaR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_KrishnaR">
+                            <land-use-history>
+                                <allocation year="1700">1.3111854</allocation>
+                                <allocation year="1750">1.456234875</allocation>
+                                <allocation year="1800">1.601212125</allocation>
+                                <allocation year="1850">1.84129965</allocation>
+                                <allocation year="1900">2.256982125</allocation>
+                                <allocation year="1950">2.9795697</allocation>
+                                <allocation year="1975">5.505350175</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">5.505350175</landAllocation>
+                            <landAllocation year="1990">3.4482405</landAllocation>
+                            <landAllocation year="2005">4.197207375</landAllocation>
+                            <landAllocation year="2010">4.4338569</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_KrishnaR">
+                            <land-use-history>
+                                <allocation year="1975">3.096354825</allocation>
+                                <allocation year="1700">0.6852946</allocation>
+                                <allocation year="1750">0.761105125</allocation>
+                                <allocation year="1800">0.836877875</allocation>
+                                <allocation year="1850">0.96236035</allocation>
+                                <allocation year="1900">1.179617875</allocation>
+                                <allocation year="1950">1.5572803</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">3.096354825</landAllocation>
+                            <landAllocation year="1990">4.5060795</landAllocation>
+                            <landAllocation year="2005">2.968002625</landAllocation>
+                            <landAllocation year="2010">2.6537331</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AdnNicIsl">
+                    <LandNode name="AllPastureLand_AdnNicIsl">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AdnNicIsl">
+                            <land-use-history>
+                                <allocation year="1700">0.001523625</allocation>
+                                <allocation year="1750">0.001687875</allocation>
+                                <allocation year="1800">0.001858575</allocation>
+                                <allocation year="1850">0.002134425</allocation>
+                                <allocation year="1900">0.002627025</allocation>
+                                <allocation year="1950">0.0029094</allocation>
+                                <allocation year="1975">0.0066723</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.0066723</landAllocation>
+                            <landAllocation year="1990">0.004179</landAllocation>
+                            <landAllocation year="2005">0.00508455</landAllocation>
+                            <landAllocation year="2010">0.00537375</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AdnNicIsl">
+                            <land-use-history>
+                                <allocation year="1975">0.0037527</allocation>
+                                <allocation year="1700">0.000796375</allocation>
+                                <allocation year="1750">0.000882125</allocation>
+                                <allocation year="1800">0.000971425</allocation>
+                                <allocation year="1850">0.001115575</allocation>
+                                <allocation year="1900">0.001372975</allocation>
+                                <allocation year="1950">0.0015206</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.0037527</landAllocation>
+                            <landAllocation year="1990">0.005461</landAllocation>
+                            <landAllocation year="2005">0.00359545</landAllocation>
+                            <landAllocation year="2010">0.00321625</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_IndCstE">
+                    <LandNode name="AllPastureLand_IndCstE">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_IndCstE">
+                            <land-use-history>
+                                <allocation year="1700">0.462153975</allocation>
+                                <allocation year="1750">0.513321225</allocation>
+                                <allocation year="1800">0.56442945</allocation>
+                                <allocation year="1850">0.648874125</allocation>
+                                <allocation year="1900">0.795164925</allocation>
+                                <allocation year="1950">1.0454715</allocation>
+                                <allocation year="1975">1.994074575</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.994074575</landAllocation>
+                            <landAllocation year="1990">1.248950625</landAllocation>
+                            <landAllocation year="2005">1.52039895</landAllocation>
+                            <landAllocation year="2010">1.6062213</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_IndCstE">
+                            <land-use-history>
+                                <allocation year="1975">1.121520425</allocation>
+                                <allocation year="1700">0.241546025</allocation>
+                                <allocation year="1750">0.268288775</allocation>
+                                <allocation year="1800">0.29500055</allocation>
+                                <allocation year="1850">0.339135875</allocation>
+                                <allocation year="1900">0.415595075</allocation>
+                                <allocation year="1950">0.5464185</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.121520425</landAllocation>
+                            <landAllocation year="1990">1.632099375</landAllocation>
+                            <landAllocation year="2005">1.07513105</landAllocation>
+                            <landAllocation year="2010">0.9613487</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_PennarR">
+                    <LandNode name="AllPastureLand_PennarR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_PennarR">
+                            <land-use-history>
+                                <allocation year="1700">0.553284375</allocation>
+                                <allocation year="1750">0.615005625</allocation>
+                                <allocation year="1800">0.67677285</allocation>
+                                <allocation year="1850">0.77887755</allocation>
+                                <allocation year="1900">0.9554181</allocation>
+                                <allocation year="1950">1.26697305</allocation>
+                                <allocation year="1975">2.358648525</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">2.358648525</landAllocation>
+                            <landAllocation year="1990">1.4776161</landAllocation>
+                            <landAllocation year="2005">1.79890605</landAllocation>
+                            <landAllocation year="2010">1.9002753</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_PennarR">
+                            <land-use-history>
+                                <allocation year="1975">1.326566475</allocation>
+                                <allocation year="1700">0.289175625</allocation>
+                                <allocation year="1750">0.321434375</allocation>
+                                <allocation year="1800">0.35371715</allocation>
+                                <allocation year="1850">0.40708245</allocation>
+                                <allocation year="1900">0.4993519</allocation>
+                                <allocation year="1950">0.66218695</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.326566475</landAllocation>
+                            <landAllocation year="1990">1.9309139</landAllocation>
+                            <landAllocation year="2005">1.27207395</landAllocation>
+                            <landAllocation year="2010">1.1373447</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_CauveryR">
+                    <LandNode name="AllPastureLand_CauveryR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_CauveryR">
+                            <land-use-history>
+                                <allocation year="1700">0.527073525</allocation>
+                                <allocation year="1750">0.585918225</allocation>
+                                <allocation year="1800">0.644822025</allocation>
+                                <allocation year="1850">0.741889425</allocation>
+                                <allocation year="1900">0.90994485</allocation>
+                                <allocation year="1950">1.190967525</allocation>
+                                <allocation year="1975">2.271313275</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">2.271313275</landAllocation>
+                            <landAllocation year="1990">1.4229597</landAllocation>
+                            <landAllocation year="2005">1.73183475</landAllocation>
+                            <landAllocation year="2010">1.82909055</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_CauveryR">
+                            <land-use-history>
+                                <allocation year="1975">1.277446725</allocation>
+                                <allocation year="1700">0.275476475</allocation>
+                                <allocation year="1750">0.306231775</allocation>
+                                <allocation year="1800">0.337017975</allocation>
+                                <allocation year="1850">0.387750575</allocation>
+                                <allocation year="1900">0.47558515</allocation>
+                                <allocation year="1950">0.622462475</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.277446725</landAllocation>
+                            <landAllocation year="1990">1.8594903</landAllocation>
+                            <landAllocation year="2005">1.22464525</landAllocation>
+                            <landAllocation year="2010">1.09473945</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_IndCstS">
+                    <LandNode name="AllPastureLand_IndCstS">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_IndCstS">
+                            <land-use-history>
+                                <allocation year="1700">0.315140775</allocation>
+                                <allocation year="1750">0.350145525</allocation>
+                                <allocation year="1800">0.385130475</allocation>
+                                <allocation year="1850">0.443568</allocation>
+                                <allocation year="1900">0.5436696</allocation>
+                                <allocation year="1950">0.719802975</allocation>
+                                <allocation year="1975">1.383028275</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.383028275</landAllocation>
+                            <landAllocation year="1990">0.8663388</landAllocation>
+                            <landAllocation year="2005">1.0549941</landAllocation>
+                            <landAllocation year="2010">1.1148717</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_IndCstS">
+                            <land-use-history>
+                                <allocation year="1975">0.777851725</allocation>
+                                <allocation year="1700">0.164709225</allocation>
+                                <allocation year="1750">0.183004475</allocation>
+                                <allocation year="1800">0.201289525</allocation>
+                                <allocation year="1850">0.231832</allocation>
+                                <allocation year="1900">0.2841504</allocation>
+                                <allocation year="1950">0.376207025</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.777851725</landAllocation>
+                            <landAllocation year="1990">1.1321112</landAllocation>
+                            <landAllocation year="2005">0.7460259</landAllocation>
+                            <landAllocation year="2010">0.6672683</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_NarmadaR">
+                    <LandNode name="AllPastureLand_NarmadaR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_NarmadaR">
+                            <land-use-history>
+                                <allocation year="1700">0.67179465</allocation>
+                                <allocation year="1750">0.74645385</allocation>
+                                <allocation year="1800">0.82111305</allocation>
+                                <allocation year="1850">0.944647425</allocation>
+                                <allocation year="1900">1.1584125</allocation>
+                                <allocation year="1950">1.46099625</allocation>
+                                <allocation year="1975">2.8443354</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">2.8443354</landAllocation>
+                            <landAllocation year="1990">1.781746125</landAllocation>
+                            <landAllocation year="2005">2.1689934</landAllocation>
+                            <landAllocation year="2010">2.29135065</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_NarmadaR">
+                            <land-use-history>
+                                <allocation year="1975">1.5997296</allocation>
+                                <allocation year="1700">0.35111535</allocation>
+                                <allocation year="1750">0.39013615</allocation>
+                                <allocation year="1800">0.42915695</allocation>
+                                <allocation year="1850">0.493722575</allocation>
+                                <allocation year="1900">0.6054475</allocation>
+                                <allocation year="1950">0.76359375</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.5997296</landAllocation>
+                            <landAllocation year="1990">2.328343875</landAllocation>
+                            <landAllocation year="2005">1.5337766</landAllocation>
+                            <landAllocation year="2010">1.37140935</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+            </LandAllocatorRoot>
+        </region>
+        <region name="Pakistan">
+            <LandAllocatorRoot name="root">
+                <LandNode name="AgroForestLand_AmuDaryaR">
+                    <LandNode name="AllPastureLand_AmuDaryaR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AmuDaryaR">
+                            <land-use-history>
+                                <allocation year="1700">0</allocation>
+                                <allocation year="1750">0</allocation>
+                                <allocation year="1800">0</allocation>
+                                <allocation year="1850">0</allocation>
+                                <allocation year="1900">0</allocation>
+                                <allocation year="1950">0.0002475</allocation>
+                                <allocation year="1975">0.00029235</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.00029235</landAllocation>
+                            <landAllocation year="1990">0.0002925</landAllocation>
+                            <landAllocation year="2005">0.000292875</landAllocation>
+                            <landAllocation year="2010">0.000292875</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AmuDaryaR">
+                            <land-use-history>
+                                <allocation year="1975">0.00750265</allocation>
+                                <allocation year="1700">0</allocation>
+                                <allocation year="1750">0</allocation>
+                                <allocation year="1800">0</allocation>
+                                <allocation year="1850">0</allocation>
+                                <allocation year="1900">0</allocation>
+                                <allocation year="1950">0.0063525</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.00750265</landAllocation>
+                            <landAllocation year="1990">0.0075075</landAllocation>
+                            <landAllocation year="2005">0.007517125</landAllocation>
+                            <landAllocation year="2010">0.007517125</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_Tarim">
+                    <LandNode name="AllPastureLand_Tarim">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_Tarim">
+                            <land-use-history>
+                                <allocation year="1700">0.000763125</allocation>
+                                <allocation year="1750">0.00079725</allocation>
+                                <allocation year="1800">0.000834</allocation>
+                                <allocation year="1850">0.00209925</allocation>
+                                <allocation year="1900">0.0008745</allocation>
+                                <allocation year="1950">0.001682625</allocation>
+                                <allocation year="1975">0.003669975</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.003669975</landAllocation>
+                            <landAllocation year="1990">0.004594875</landAllocation>
+                            <landAllocation year="2005">0.00455025</landAllocation>
+                            <landAllocation year="2010">0.004551</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_Tarim">
+                            <land-use-history>
+                                <allocation year="1975">0.094195125</allocation>
+                                <allocation year="1700">0.019586875</allocation>
+                                <allocation year="1750">0.02046275</allocation>
+                                <allocation year="1800">0.021406</allocation>
+                                <allocation year="1850">0.05388075</allocation>
+                                <allocation year="1900">0.0224455</allocation>
+                                <allocation year="1950">0.043187375</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.094195125</landAllocation>
+                            <landAllocation year="1990">0.117935125</landAllocation>
+                            <landAllocation year="2005">0.11678975</landAllocation>
+                            <landAllocation year="2010">0.116809</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_IndusR">
+                    <LandNode name="AllPastureLand_IndusR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_IndusR">
+                            <land-use-history>
+                                <allocation year="1700">0.561121875</allocation>
+                                <allocation year="1750">0.585132375</allocation>
+                                <allocation year="1800">0.6110475</allocation>
+                                <allocation year="1850">0.630816</allocation>
+                                <allocation year="1900">0.64082175</allocation>
+                                <allocation year="1950">1.157018625</allocation>
+                                <allocation year="1975">1.331660625</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.331660625</landAllocation>
+                            <landAllocation year="1990">1.33119975</landAllocation>
+                            <landAllocation year="2005">1.330591875</landAllocation>
+                            <landAllocation year="2010">1.3305975</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_IndusR">
+                            <land-use-history>
+                                <allocation year="1975">34.179289375</allocation>
+                                <allocation year="1700">14.402128125</allocation>
+                                <allocation year="1750">15.018397625</allocation>
+                                <allocation year="1800">15.6835525</allocation>
+                                <allocation year="1850">16.190944</allocation>
+                                <allocation year="1900">16.44775825</allocation>
+                                <allocation year="1950">29.696811375</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">34.179289375</landAllocation>
+                            <landAllocation year="1990">34.16746025</landAllocation>
+                            <landAllocation year="2005">34.151858125</landAllocation>
+                            <landAllocation year="2010">34.1520025</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_Helmand">
+                    <LandNode name="AllPastureLand_Helmand">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_Helmand">
+                            <land-use-history>
+                                <allocation year="1700">0.014235375</allocation>
+                                <allocation year="1750">0.015290625</allocation>
+                                <allocation year="1800">0.0164445</allocation>
+                                <allocation year="1850">0.018168</allocation>
+                                <allocation year="1900">0.021622875</allocation>
+                                <allocation year="1950">0.036014625</allocation>
+                                <allocation year="1975">0.04195425</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.04195425</landAllocation>
+                            <landAllocation year="1990">0.04196775</landAllocation>
+                            <landAllocation year="2005">0.041982</landAllocation>
+                            <landAllocation year="2010">0.041991375</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_Helmand">
+                            <land-use-history>
+                                <allocation year="1975">1.07682575</allocation>
+                                <allocation year="1700">0.365374625</allocation>
+                                <allocation year="1750">0.392459375</allocation>
+                                <allocation year="1800">0.4220755</allocation>
+                                <allocation year="1850">0.466312</allocation>
+                                <allocation year="1900">0.554987125</allocation>
+                                <allocation year="1950">0.924375375</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.07682575</landAllocation>
+                            <landAllocation year="1990">1.07717225</landAllocation>
+                            <landAllocation year="2005">1.077538</landAllocation>
+                            <landAllocation year="2010">1.077778625</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_HamuMashR">
+                    <LandNode name="AllPastureLand_HamuMashR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_HamuMashR">
+                            <land-use-history>
+                                <allocation year="1700">0.060826875</allocation>
+                                <allocation year="1750">0.063667875</allocation>
+                                <allocation year="1800">0.06673875</allocation>
+                                <allocation year="1850">0.06940425</allocation>
+                                <allocation year="1900">0.071691375</allocation>
+                                <allocation year="1950">0.12835575</allocation>
+                                <allocation year="1975">0.14805735</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.14805735</landAllocation>
+                            <landAllocation year="1990">0.1483485</landAllocation>
+                            <landAllocation year="2005">0.1477935</landAllocation>
+                            <landAllocation year="2010">0.147844875</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_HamuMashR">
+                            <land-use-history>
+                                <allocation year="1975">3.80013765</allocation>
+                                <allocation year="1700">1.561223125</allocation>
+                                <allocation year="1750">1.634142125</allocation>
+                                <allocation year="1800">1.71296125</allocation>
+                                <allocation year="1850">1.78137575</allocation>
+                                <allocation year="1900">1.840078625</allocation>
+                                <allocation year="1950">3.29446425</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">3.80013765</landAllocation>
+                            <landAllocation year="1990">3.8076115</landAllocation>
+                            <landAllocation year="2005">3.7933665</landAllocation>
+                            <landAllocation year="2010">3.794685125</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_ArabianSea">
+                    <LandNode name="AllPastureLand_ArabianSea">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_ArabianSea">
+                            <land-use-history>
+                                <allocation year="1700">0.098683875</allocation>
+                                <allocation year="1750">0.103056375</allocation>
+                                <allocation year="1800">0.107766</allocation>
+                                <allocation year="1850">0.11142825</allocation>
+                                <allocation year="1900">0.113454</allocation>
+                                <allocation year="1950">0.204634125</allocation>
+                                <allocation year="1975">0.23684025</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.23684025</landAllocation>
+                            <landAllocation year="1990">0.237754875</landAllocation>
+                            <landAllocation year="2005">0.234738375</landAllocation>
+                            <landAllocation year="2010">0.234602625</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_ArabianSea">
+                            <land-use-history>
+                                <allocation year="1975">6.07889975</allocation>
+                                <allocation year="1700">2.532886125</allocation>
+                                <allocation year="1750">2.645113625</allocation>
+                                <allocation year="1800">2.765994</allocation>
+                                <allocation year="1850">2.85999175</allocation>
+                                <allocation year="1900">2.911986</allocation>
+                                <allocation year="1950">5.252275875</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">6.07889975</landAllocation>
+                            <landAllocation year="1990">6.102375125</landAllocation>
+                            <landAllocation year="2005">6.024951625</landAllocation>
+                            <landAllocation year="2010">6.021467375</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_SabarmatiR">
+                    <LandNode name="AllPastureLand_SabarmatiR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_SabarmatiR">
+                            <land-use-history>
+                                <allocation year="1700">0.0678705</allocation>
+                                <allocation year="1750">0.070785375</allocation>
+                                <allocation year="1800">0.073930125</allocation>
+                                <allocation year="1850">0.07628775</allocation>
+                                <allocation year="1900">0.07727925</allocation>
+                                <allocation year="1950">0.13959075</allocation>
+                                <allocation year="1975">0.160492875</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.160492875</landAllocation>
+                            <landAllocation year="1990">0.160506</landAllocation>
+                            <landAllocation year="2005">0.160512375</landAllocation>
+                            <landAllocation year="2010">0.1605435</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_SabarmatiR">
+                            <land-use-history>
+                                <allocation year="1975">4.119317125</allocation>
+                                <allocation year="1700">1.7420095</allocation>
+                                <allocation year="1750">1.816824625</allocation>
+                                <allocation year="1800">1.897539875</allocation>
+                                <allocation year="1850">1.95805225</allocation>
+                                <allocation year="1900">1.98350075</allocation>
+                                <allocation year="1950">3.58282925</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">4.119317125</landAllocation>
+                            <landAllocation year="1990">4.119654</landAllocation>
+                            <landAllocation year="2005">4.119817625</landAllocation>
+                            <landAllocation year="2010">4.1206165</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+            </LandAllocatorRoot>
+        </region>
+        <region name="South Asia">
+            <LandAllocatorRoot name="root">
+                <LandNode name="AgroForestLand_CaspianE">
+                    <LandNode name="AllPastureLand_CaspianE">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_CaspianE">
+                            <land-use-history>
+                                <allocation year="1700">8.00024175</allocation>
+                                <allocation year="1750">8.981164875</allocation>
+                                <allocation year="1800">10.062340725</allocation>
+                                <allocation year="1850">12.1205223</allocation>
+                                <allocation year="1900">16.953488625</allocation>
+                                <allocation year="1950">26.10150855</allocation>
+                                <allocation year="1975">30.885093375</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">30.885093375</landAllocation>
+                            <landAllocation year="1990">31.194204</landAllocation>
+                            <landAllocation year="2005">30.35178045</landAllocation>
+                            <landAllocation year="2010">30.3335784</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_CaspianE">
+                            <land-use-history>
+                                <allocation year="1975">16.310676625</allocation>
+                                <allocation year="1700">4.25315825</allocation>
+                                <allocation year="1750">4.774645125</allocation>
+                                <allocation year="1800">5.349429275</allocation>
+                                <allocation year="1850">6.4436177</allocation>
+                                <allocation year="1900">9.012961375</allocation>
+                                <allocation year="1950">13.87631145</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">16.310676625</landAllocation>
+                            <landAllocation year="1990">16.025216</landAllocation>
+                            <landAllocation year="2005">16.83497955</landAllocation>
+                            <landAllocation year="2010">16.8469516</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_AmuDaryaR">
+                    <LandNode name="AllPastureLand_AmuDaryaR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_AmuDaryaR">
+                            <land-use-history>
+                                <allocation year="1700">11.97711285</allocation>
+                                <allocation year="1750">13.491461625</allocation>
+                                <allocation year="1800">15.16816695</allocation>
+                                <allocation year="1850">18.33656535</allocation>
+                                <allocation year="1900">25.68696945</allocation>
+                                <allocation year="1950">39.4222761</allocation>
+                                <allocation year="1975">46.51555545</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">46.51555545</landAllocation>
+                            <landAllocation year="1990">46.96184565</landAllocation>
+                            <landAllocation year="2005">45.770971125</landAllocation>
+                            <landAllocation year="2010">45.751465425</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_AmuDaryaR">
+                            <land-use-history>
+                                <allocation year="1975">24.56525455</allocation>
+                                <allocation year="1700">6.36737715</allocation>
+                                <allocation year="1750">7.172448375</allocation>
+                                <allocation year="1800">8.06383305</allocation>
+                                <allocation year="1850">9.74824465</allocation>
+                                <allocation year="1900">13.65593055</allocation>
+                                <allocation year="1950">20.9580139</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">24.56525455</landAllocation>
+                            <landAllocation year="1990">24.12543435</landAllocation>
+                            <landAllocation year="2005">25.387418875</landAllocation>
+                            <landAllocation year="2010">25.409884575</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_IndusR">
+                    <LandNode name="AllPastureLand_IndusR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_IndusR">
+                            <land-use-history>
+                                <allocation year="1700">6.957815475</allocation>
+                                <allocation year="1750">7.798593675</allocation>
+                                <allocation year="1800">8.72355675</allocation>
+                                <allocation year="1850">10.4940576</allocation>
+                                <allocation year="1900">14.7221058</allocation>
+                                <allocation year="1950">22.7120187</allocation>
+                                <allocation year="1975">26.85212685</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">26.85212685</landAllocation>
+                            <landAllocation year="1990">27.1065504</landAllocation>
+                            <landAllocation year="2005">26.387491125</landAllocation>
+                            <landAllocation year="2010">26.368706625</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_IndusR">
+                            <land-use-history>
+                                <allocation year="1975">14.18083315</allocation>
+                                <allocation year="1700">3.698974525</allocation>
+                                <allocation year="1750">4.145956325</allocation>
+                                <allocation year="1800">4.63769325</allocation>
+                                <allocation year="1850">5.5789424</allocation>
+                                <allocation year="1900">7.8266942</allocation>
+                                <allocation year="1950">12.0743613</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">14.18083315</landAllocation>
+                            <landAllocation year="1990">13.9252896</landAllocation>
+                            <landAllocation year="2005">14.636138875</landAllocation>
+                            <landAllocation year="2010">14.644903375</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_FarahrudR">
+                    <LandNode name="AllPastureLand_FarahrudR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_FarahrudR">
+                            <land-use-history>
+                                <allocation year="1700">4.965132825</allocation>
+                                <allocation year="1750">5.575672425</allocation>
+                                <allocation year="1800">6.248779425</allocation>
+                                <allocation year="1850">7.531805775</allocation>
+                                <allocation year="1900">10.550768475</allocation>
+                                <allocation year="1950">16.26748035</allocation>
+                                <allocation year="1975">19.246511175</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">19.246511175</landAllocation>
+                            <landAllocation year="1990">19.433593575</landAllocation>
+                            <landAllocation year="2005">18.926004375</landAllocation>
+                            <landAllocation year="2010">18.919061475</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_FarahrudR">
+                            <land-use-history>
+                                <allocation year="1975">10.164243825</allocation>
+                                <allocation year="1700">2.639607175</allocation>
+                                <allocation year="1750">2.964187575</allocation>
+                                <allocation year="1800">3.322030575</allocation>
+                                <allocation year="1850">4.004124225</allocation>
+                                <allocation year="1900">5.609091525</allocation>
+                                <allocation year="1950">8.64825965</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">10.164243825</landAllocation>
+                            <landAllocation year="1990">9.983506425</landAllocation>
+                            <landAllocation year="2005">10.497535625</landAllocation>
+                            <landAllocation year="2010">10.507448525</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_Helmand">
+                    <LandNode name="AllPastureLand_Helmand">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_Helmand">
+                            <land-use-history>
+                                <allocation year="1700">17.52422745</allocation>
+                                <allocation year="1750">19.67469645</allocation>
+                                <allocation year="1800">22.04488575</allocation>
+                                <allocation year="1850">26.564969475</allocation>
+                                <allocation year="1900">37.203650925</allocation>
+                                <allocation year="1950">57.350622375</allocation>
+                                <allocation year="1975">67.846267575</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">67.846267575</landAllocation>
+                            <landAllocation year="1990">68.501397525</landAllocation>
+                            <landAllocation year="2005">66.707174475</landAllocation>
+                            <landAllocation year="2010">66.681225825</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_Helmand">
+                            <land-use-history>
+                                <allocation year="1975">35.830182425</allocation>
+                                <allocation year="1700">9.31638255</allocation>
+                                <allocation year="1750">10.45963355</allocation>
+                                <allocation year="1800">11.71969425</allocation>
+                                <allocation year="1850">14.122700525</allocation>
+                                <allocation year="1900">19.778529075</allocation>
+                                <allocation year="1950">30.489237625</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">35.830182425</landAllocation>
+                            <landAllocation year="1990">35.190822475</landAllocation>
+                            <landAllocation year="2005">36.999935525</landAllocation>
+                            <landAllocation year="2010">37.034054175</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_HamuMashR">
+                    <LandNode name="AllPastureLand_HamuMashR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_HamuMashR">
+                            <land-use-history>
+                                <allocation year="1700">1.1947086</allocation>
+                                <allocation year="1750">1.340468475</allocation>
+                                <allocation year="1800">1.501023075</allocation>
+                                <allocation year="1850">1.807461525</allocation>
+                                <allocation year="1900">2.529052875</allocation>
+                                <allocation year="1950">3.8974524</allocation>
+                                <allocation year="1975">4.609499625</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">4.609499625</landAllocation>
+                            <landAllocation year="1990">4.6532124</landAllocation>
+                            <landAllocation year="2005">4.530605325</landAllocation>
+                            <landAllocation year="2010">4.528595475</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_HamuMashR">
+                            <land-use-history>
+                                <allocation year="1975">2.434315375</allocation>
+                                <allocation year="1700">0.6351414</allocation>
+                                <allocation year="1750">0.712631525</allocation>
+                                <allocation year="1800">0.797986925</allocation>
+                                <allocation year="1850">0.960898475</allocation>
+                                <allocation year="1900">1.344517125</allocation>
+                                <allocation year="1950">2.0719976</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">2.434315375</landAllocation>
+                            <landAllocation year="1990">2.3904676</landAllocation>
+                            <landAllocation year="2005">2.512954675</landAllocation>
+                            <landAllocation year="2010">2.515134525</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_GangesR">
+                    <LandNode name="AllPastureLand_GangesR">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_GangesR">
+                            <land-use-history>
+                                <allocation year="1700">2.567482575</allocation>
+                                <allocation year="1750">2.839878825</allocation>
+                                <allocation year="1800">3.096768825</allocation>
+                                <allocation year="1850">2.606421525</allocation>
+                                <allocation year="1900">4.39161915</allocation>
+                                <allocation year="1950">11.41898805</allocation>
+                                <allocation year="1975">16.992986475</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">16.992986475</landAllocation>
+                            <landAllocation year="1990">17.533405875</landAllocation>
+                            <landAllocation year="2005">17.6583462</landAllocation>
+                            <landAllocation year="2010">17.6811336</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_GangesR">
+                            <land-use-history>
+                                <allocation year="1975">8.974138525</allocation>
+                                <allocation year="1700">1.364947425</allocation>
+                                <allocation year="1750">1.509761175</allocation>
+                                <allocation year="1800">1.646331175</allocation>
+                                <allocation year="1850">1.385648475</allocation>
+                                <allocation year="1900">2.33471085</allocation>
+                                <allocation year="1950">6.07066195</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">8.974138525</landAllocation>
+                            <landAllocation year="1990">9.007334125</landAllocation>
+                            <landAllocation year="2005">9.7944138</landAllocation>
+                            <landAllocation year="2010">9.8199164</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_BengalBay">
+                    <LandNode name="AllPastureLand_BengalBay">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_BengalBay">
+                            <land-use-history>
+                                <allocation year="1700">0.0659559</allocation>
+                                <allocation year="1750">0.0730464</allocation>
+                                <allocation year="1800">0.0804111</allocation>
+                                <allocation year="1850">0.08726655</allocation>
+                                <allocation year="1900">0.112128975</allocation>
+                                <allocation year="1950">0.144493275</allocation>
+                                <allocation year="1975">0.18661305</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.18661305</landAllocation>
+                            <landAllocation year="1990">0.188455725</landAllocation>
+                            <landAllocation year="2005">0.183042975</landAllocation>
+                            <landAllocation year="2010">0.180090225</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_BengalBay">
+                            <land-use-history>
+                                <allocation year="1975">0.09855195</allocation>
+                                <allocation year="1700">0.0350641</allocation>
+                                <allocation year="1750">0.0388336</allocation>
+                                <allocation year="1800">0.0427489</allocation>
+                                <allocation year="1850">0.04639345</allocation>
+                                <allocation year="1900">0.059611025</allocation>
+                                <allocation year="1950">0.076816725</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">0.09855195</landAllocation>
+                            <landAllocation year="1990">0.096814275</landAllocation>
+                            <landAllocation year="2005">0.101527025</landAllocation>
+                            <landAllocation year="2010">0.100646875</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+                <LandNode name="AgroForestLand_SriLanka">
+                    <LandNode name="AllPastureLand_SriLanka">
+                        <UnmanagedLandLeaf name="UnmanagedPasture_SriLanka">
+                            <land-use-history>
+                                <allocation year="1700">0.3886386</allocation>
+                                <allocation year="1750">0.338737425</allocation>
+                                <allocation year="1800">0.2842464</allocation>
+                                <allocation year="1850">1.295418375</allocation>
+                                <allocation year="1900">1.668459225</allocation>
+                                <allocation year="1950">2.153171925</allocation>
+                                <allocation year="1975">2.782093275</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">2.782093275</landAllocation>
+                            <landAllocation year="1990">2.808503775</landAllocation>
+                            <landAllocation year="2005">2.74075005</landAllocation>
+                            <landAllocation year="2010">2.739468075</landAllocation>
+                        </UnmanagedLandLeaf>
+                        <LandLeaf name="Pasture_SriLanka">
+                            <land-use-history>
+                                <allocation year="1975">1.469246725</allocation>
+                                <allocation year="1700">0.2066114</allocation>
+                                <allocation year="1750">0.180082575</allocation>
+                                <allocation year="1800">0.1511136</allocation>
+                                <allocation year="1850">0.688681625</allocation>
+                                <allocation year="1900">0.887000775</allocation>
+                                <allocation year="1950">1.144688075</allocation>
+                            </land-use-history>
+                            <landAllocation year="1975">1.469246725</landAllocation>
+                            <landAllocation year="1990">1.442796225</landAllocation>
+                            <landAllocation year="2005">1.52018995</landAllocation>
+                            <landAllocation year="2010">1.521471925</landAllocation>
+                        </LandLeaf>
+                    </LandNode>
+                </LandNode>
+            </LandAllocatorRoot>
+        </region>
+    </world>
+</scenario>
