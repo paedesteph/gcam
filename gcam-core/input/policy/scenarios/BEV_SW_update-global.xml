@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+	<world>
+		<global-technology-database>
+			<location-info sector-name="trn_pass_road_LDV_4W" subsector-name="Compact Car">
+				<tranTechnology name="BEV">
+
+					<interpolation-rule apply-to="share-weight" from-year="2010" to-year="2030">
+						<interpolation-function name="linear"/>
+					</interpolation-rule>
+					<period year="2010">
+						<share-weight>0</share-weight>
+					</period>
+					<period year="2030">
+						<share-weight>1</share-weight>
+					</period>
+				</tranTechnology>
+			</location-info>
+			<location-info sector-name="trn_pass_road_LDV_4W" subsector-name="Midsize Car">
+				<tranTechnology name="BEV">
+
+					<interpolation-rule apply-to="share-weight" from-year="2010" to-year="2030">
+						<interpolation-function name="linear"/>
+					</interpolation-rule>
+					<period year="2010">
+						<share-weight>0</share-weight>
+					</period>
+					<period year="2030">
+						<share-weight>1</share-weight>
+					</period>
+				</tranTechnology>
+			</location-info>
+			<location-info sector-name="trn_pass_road_LDV_4W" subsector-name="Large Car">
+				<tranTechnology name="BEV">
+
+					<interpolation-rule apply-to="share-weight" from-year="2010" to-year="2030">
+						<interpolation-function name="linear"/>
+					</interpolation-rule>
+					<period year="2010">
+						<share-weight>0</share-weight>
+					</period>
+					<period year="2030">
+						<share-weight>1</share-weight>
+					</period>
+				</tranTechnology>
+			</location-info>
+			<location-info sector-name="trn_pass_road_LDV_4W" subsector-name="Light Truck and SUV">
+				<tranTechnology name="BEV">
+
+					<interpolation-rule apply-to="share-weight" from-year="2010" to-year="2030">
+						<interpolation-function name="linear"/>
+					</interpolation-rule>
+					<period year="2010">
+						<share-weight>0</share-weight>
+					</period>
+					<period year="2030">
+						<share-weight>1</share-weight>
+					</period>
+				</tranTechnology>
+			</location-info>
+		</global-technology-database>
+	</world>
+</scenario>

@@ -135,6 +135,7 @@
 <Value name="NG_Large_SW06.xml">../input/policy/reference/NG_Large_SW06.xml</Value>
 <Value name="NG_Midsize_SW06.xml">../input/policy/reference/NG_Midsize_SW06.xml</Value>
 <Value name="NG_SUV_SW06.xml">../input/policy/reference/NG_SUV_SW06.xml</Value>
+<Value name="refinery_shutdown">../input/policy/reference/en_transformation_profit_update.xml</Value>
 <!--Value name="BEV_SW_update-global.xml">..\input\policy\reference\BEV_SW_update-global.xml</Value-->
 
 	</ScenarioComponents>
